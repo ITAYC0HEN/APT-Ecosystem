@@ -1,0 +1,2196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-07-23">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="actor" title="actor" type="string"></attribute>
+      <attribute id="size" title="size" type="integer"></attribute>
+    </attributes>
+    <nodes>
+      <node id="09716c9b3ed739d8c361eca70ca5c63a" label="Potao - Dropper w/ Decoy">
+        <attvalues>
+          <attvalue for="actor" value="Potao Express"></attvalue>
+          <attvalue for="size" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="764.73773" y="3017.8337"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="4d9eb0b5b5d55571472de351aa53a179" label="Potao - v1 - Packed">
+        <attvalues>
+          <attvalue for="actor" value="Potao Express"></attvalue>
+          <attvalue for="size" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1415.3723" y="206.55197"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="f6cf12583597bc5be9146315a29783c9" label="Potao - Plugin - Updater">
+        <attvalues>
+          <attvalue for="actor" value="Potao Express"></attvalue>
+          <attvalue for="size" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="718.6476" y="1738.5983"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="316a261fa583633fd7afee5f333bc354" label="Potao - Plugin - System Info">
+        <attvalues>
+          <attvalue for="actor" value="Potao Express"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1910.7224" y="2404.359"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="b56d770d71976218db2e2a07fffebfe2" label="Potao - Plugin - Disk Scanner">
+        <attvalues>
+          <attvalue for="actor" value="Potao Express"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="396.22626" y="2125.9714"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="7c86233d121129bd690d51c874fad836" label="Potao - Main Module - Fake Excel">
+        <attvalues>
+          <attvalue for="actor" value="Potao Express"></attvalue>
+          <attvalue for="size" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1214.3569" y="1783.989"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="728e7190e33c90995e28aaa1f3d3623a" label="Potao - Debug - Main Module">
+        <attvalues>
+          <attvalue for="actor" value="Potao Express"></attvalue>
+          <attvalue for="size" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="911.6428" y="2216.2332"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="dcc24239d025e37f292024942f6d49b4" label="Potao - Debug - Dropper">
+        <attvalues>
+          <attvalue for="actor" value="Potao Express"></attvalue>
+          <attvalue for="size" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="272.54968" y="3036.8489"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="8d933937bd94f6b9c1b3fd7477111fe9" label="Potao - v1 - Unpacked">
+        <attvalues>
+          <attvalue for="actor" value="Potao Express"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1196.9878" y="721.92224"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="dd36064bd13c8062aee9f12387a72a14" label="Potao - Plugin - Password Stealer">
+        <attvalues>
+          <attvalue for="actor" value="Potao Express"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-182.30742" y="-1744.0935"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="a7fd30c1b82faae2fa69c4761c46c8c6" label="Potao - Plugin - Keylogger">
+        <attvalues>
+          <attvalue for="actor" value="Potao Express"></attvalue>
+          <attvalue for="size" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="583.15356" y="2577.4666"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="6df1746ff979cf206ba966289a662a6b" label="Potao - Dropper">
+        <attvalues>
+          <attvalue for="actor" value="Potao Express"></attvalue>
+          <attvalue for="size" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1400.72" y="2226.1218"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="0cdcee38fd16e88d643b7a1408336e52" label="Potao - Plugin - Screenshot Capture">
+        <attvalues>
+          <attvalue for="actor" value="Potao Express"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1039.2148" y="3374.3992"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="aec881431cebbb80f85e71241f6783da" label="Potao - Plugin - File Stealer">
+        <attvalues>
+          <attvalue for="actor" value="Potao Express"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="89.59552" y="2571.1533"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="32dc7f9ed09814de33ba24f1d02a35fa" label="Potao - USB Spreader">
+        <attvalues>
+          <attvalue for="actor" value="Potao Express"></attvalue>
+          <attvalue for="size" value="20"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2278.3757" y="2657.655"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="899350ce500b32b5b81a2a2ada73f5a3" label="Potao - Dropper - Fake Excel">
+        <attvalues>
+          <attvalue for="actor" value="Potao Express"></attvalue>
+          <attvalue for="size" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1114.7319" y="2705.3562"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="f54aaa70efb5dcb05b2edecd55c1ba8f" label="Potao - Plugin - Self Kill">
+        <attvalues>
+          <attvalue for="actor" value="Potao Express"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-930.88544" y="3380.6313"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="b650e3dbce590e6ef3e309364ab2e007" label="Potao - Main Module">
+        <attvalues>
+          <attvalue for="actor" value="Potao Express"></attvalue>
+          <attvalue for="size" value="40"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="213.22711" y="1663.101"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="604b363c8d3dd8cb04d8cbca2ddacf3a" label="RedOctober - Plugin - Collect Info">
+        <attvalues>
+          <attvalue for="actor" value="RedOctober"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2077.0908" y="1497.8252"></viz:position>
+        <viz:color r="179" g="232" b="255"></viz:color>
+      </node>
+      <node id="b7acfe270493507d0e7aecca0184a854" label="RedOctober - Plugin - POP3Client - Unpacked">
+        <attvalues>
+          <attvalue for="actor" value="RedOctober"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1366.6517" y="936.0364"></viz:position>
+        <viz:color r="179" g="232" b="255"></viz:color>
+      </node>
+      <node id="98631fc03b1e80b108a6e9b5251166d0" label="RedOctober - Plugin -GetFileReg">
+        <attvalues>
+          <attvalue for="actor" value="RedOctober"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="3021.9255" y="730.49384"></viz:position>
+        <viz:color r="179" g="232" b="255"></viz:color>
+      </node>
+      <node id="bb02352b5d959dbf19dc32c68907512d" label="CloudAtlas - Payload">
+        <attvalues>
+          <attvalue for="actor" value="RedOctober"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="3064.4104" y="-1686.6191"></viz:position>
+        <viz:color r="179" g="232" b="255"></viz:color>
+      </node>
+      <node id="a4f1624059b8f042bc465ae91ad93d15" label="CloudAtlas - Loader">
+        <attvalues>
+          <attvalue for="actor" value="RedOctober"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2558.8835" y="-1645.9148"></viz:position>
+        <viz:color r="179" g="232" b="255"></viz:color>
+      </node>
+      <node id="67ebacfcaeff8d9d75f4543e5b295a7b" label="RedOctober - Plugin - Internet Connectivity">
+        <attvalues>
+          <attvalue for="actor" value="RedOctober"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2606.599" y="2327.3027"></viz:position>
+        <viz:color r="179" g="232" b="255"></viz:color>
+      </node>
+      <node id="fe24742f143528a54fd341b5dead5977" label="RedOctober - Plugin - FileInfo">
+        <attvalues>
+          <attvalue for="actor" value="RedOctober"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2819.5518" y="1171.6619"></viz:position>
+        <viz:color r="179" g="232" b="255"></viz:color>
+      </node>
+      <node id="aee12f48934e14589a2a8e189aa68c2c" label="RedOctober - Plugin - Credential Stealing - Unpacked">
+        <attvalues>
+          <attvalue for="actor" value="RedOctober"></attvalue>
+          <attvalue for="size" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-590.1787" y="2065.0261"></viz:position>
+        <viz:color r="179" g="232" b="255"></viz:color>
+      </node>
+      <node id="0c074ac3f95a4ead28c23864ba5f89b5" label="RedOctober - Plugin - SystemInfo">
+        <attvalues>
+          <attvalue for="actor" value="RedOctober"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="3396.2427" y="-827.95905"></viz:position>
+        <viz:color r="179" g="232" b="255"></viz:color>
+      </node>
+      <node id="4a939a20c7fc7c5d1d01deaec8bd8ad9" label="RedOctober - Plugin - NetScan">
+        <attvalues>
+          <attvalue for="actor" value="RedOctober"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1857.0621" y="1028.5237"></viz:position>
+        <viz:color r="179" g="232" b="255"></viz:color>
+      </node>
+      <node id="2499accf84b83940eee79600b0672d53" label="RedOctober - Plugin - DASvcInstall">
+        <attvalues>
+          <attvalue for="actor" value="RedOctober"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2577.418" y="1589.4608"></viz:position>
+        <viz:color r="179" g="232" b="255"></viz:color>
+      </node>
+      <node id="9526ca09472cf18b6dd6c01b59b09aa9" label="RedOctober - Plugin - Metasploit">
+        <attvalues>
+          <attvalue for="actor" value="RedOctober"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2354.0488" y="1085.3163"></viz:position>
+        <viz:color r="179" g="232" b="255"></viz:color>
+      </node>
+      <node id="b8aa95103a418870afd74bb35a1e141e" label="RedOctober - Plugin - Frog backdoor">
+        <attvalues>
+          <attvalue for="actor" value="RedOctober"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="3343.258" y="1108.3239"></viz:position>
+        <viz:color r="179" g="232" b="255"></viz:color>
+      </node>
+      <node id="403a99f7a48047c571b9e1a93291ec2c" label="RedOctober - Plugin - Fileputexec">
+        <attvalues>
+          <attvalue for="actor" value="RedOctober"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2128.9956" y="606.17865"></viz:position>
+        <viz:color r="179" g="232" b="255"></viz:color>
+      </node>
+      <node id="b5779da5d110084822ec588176131f20" label="RedOctober - Plugin - Credential Stealing">
+        <attvalues>
+          <attvalue for="actor" value="RedOctober"></attvalue>
+          <attvalue for="size" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1436.0192" y="2483.8235"></viz:position>
+        <viz:color r="179" g="232" b="255"></viz:color>
+      </node>
+      <node id="05b43d8865844a10a862ae60af95991c" label="RedOctober - Plugin - DocBackdoor">
+        <attvalues>
+          <attvalue for="actor" value="RedOctober"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2894.8716" y="1965.8782"></viz:position>
+        <viz:color r="179" g="232" b="255"></viz:color>
+      </node>
+      <node id="c25a207116545839caea68de9f9cae9d" label="RedOctober - Plugin - OfficeBDInstaller">
+        <attvalues>
+          <attvalue for="actor" value="RedOctober"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="3137.2168" y="1559.0338"></viz:position>
+        <viz:color r="179" g="232" b="255"></viz:color>
+      </node>
+      <node id="b11ffd7f09f52f696cb20ce915a10a80" label="RedOctober - Plugin - POP3Client">
+        <attvalues>
+          <attvalue for="actor" value="RedOctober"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1609.6624" y="2003.3235"></viz:position>
+        <viz:color r="179" g="232" b="255"></viz:color>
+      </node>
+      <node id="f36f723afc61de83f3f6f9e813db3cf6" label="RedOctober - Plugin - AdobeBDInstaller">
+        <attvalues>
+          <attvalue for="actor" value="RedOctober"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2284.2498" y="1970.0504"></viz:position>
+        <viz:color r="179" g="232" b="255"></viz:color>
+      </node>
+      <node id="6e2a6c4a389e50425d61da71ae88f951" label="WildNeutron - Hacktool.MultiPurpose">
+        <attvalues>
+          <attvalue for="actor" value="WildNeutron"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2454.2532" y="2401.4639"></viz:position>
+        <viz:color r="126" g="255" b="36"></viz:color>
+      </node>
+      <node id="eac5dccb24bc4415b75691610781e81c" label="WildNeutron">
+        <attvalues>
+          <attvalue for="actor" value="WildNeutron"></attvalue>
+          <attvalue for="size" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1198.7036" y="446.43503"></viz:position>
+        <viz:color r="126" g="255" b="36"></viz:color>
+      </node>
+      <node id="d3b94b8fc01ab150c54ab2a1916c4f60" label="WildNeutron - Proxy">
+        <attvalues>
+          <attvalue for="actor" value="WildNeutron"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="724.7028" y="365.78085"></viz:position>
+        <viz:color r="126" g="255" b="36"></viz:color>
+      </node>
+      <node id="caa472b589c2f6a627253af6b4ac0800" label="WildNeutron - Tunnel">
+        <attvalues>
+          <attvalue for="actor" value="WildNeutron"></attvalue>
+          <attvalue for="size" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1645.6785" y="37.846355"></viz:position>
+        <viz:color r="126" g="255" b="36"></viz:color>
+      </node>
+      <node id="1c59974fd51cf53c001b48c8a0759fce" label="WildNeutron - Shred">
+        <attvalues>
+          <attvalue for="actor" value="WildNeutron"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1848.8694" y="-2265.5867"></viz:position>
+        <viz:color r="126" g="255" b="36"></viz:color>
+      </node>
+      <node id="91439abd2810e7355e761d1e415b301f" label="WildNeutron - Password Dumper">
+        <attvalues>
+          <attvalue for="actor" value="WildNeutron"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1163.0159" y="2867.0767"></viz:position>
+        <viz:color r="126" g="255" b="36"></viz:color>
+      </node>
+      <node id="3bd85152f7288ddac0d666433136adae" label="WildNeutron - Jripbot">
+        <attvalues>
+          <attvalue for="actor" value="WildNeutron"></attvalue>
+          <attvalue for="size" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="693.9541" y="-106.84684"></viz:position>
+        <viz:color r="126" g="255" b="36"></viz:color>
+      </node>
+      <node id="fb24fd4834cd834834cf1c6db8347e56" label="WildNeutron - Hacktool">
+        <attvalues>
+          <attvalue for="actor" value="WildNeutron"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2745.1394" y="-1446.7533"></viz:position>
+        <viz:color r="126" g="255" b="36"></viz:color>
+      </node>
+      <node id="e6c6dddcc1b8686020bf002c15768b39" label="Seduploader -  Payload">
+        <attvalues>
+          <attvalue for="actor" value="Sofacy"></attvalue>
+          <attvalue for="size" value="24"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1565.3662" y="-437.4573"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="92a4edaa651127c4821eb02a2b2953ad" label="Coreshell">
+        <attvalues>
+          <attvalue for="actor" value="Sofacy"></attvalue>
+          <attvalue for="size" value="36"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2250.4534" y="1404.7404"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="14dafdb568cf357279e8135a6eeb833d" label="koadic">
+        <attvalues>
+          <attvalue for="actor" value="Sofacy"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2812.7095" y="-2093.815"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="d4898c42b8830282f83eaa4fef7a9e13" label="X-Agent">
+        <attvalues>
+          <attvalue for="actor" value="Sofacy"></attvalue>
+          <attvalue for="size" value="87"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-112.04401" y="50.989426"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="22ef5d9468d7aa2f806d865b88a27a52" label="Cannon">
+        <attvalues>
+          <attvalue for="actor" value="Sofacy"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="881.49896" y="-3393.0056"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="01d8c88c0e7520311c99562fbd7d07a7" label="WinexeSVC">
+        <attvalues>
+          <attvalue for="actor" value="Sofacy"></attvalue>
+          <attvalue for="size" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="26.728886" y="3504.6125"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="48cbe0e40ab46835678245f03bdf07cd" label="Seduploader - Payload">
+        <attvalues>
+          <attvalue for="actor" value="Sofacy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1921.8346" y="-833.7356"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="0347d4e08ea0ccb2a1dce08b666bc4ab" label="X-Tunnel">
+        <attvalues>
+          <attvalue for="actor" value="Sofacy"></attvalue>
+          <attvalue for="size" value="29"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1670.2085" y="615.762"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="741bbfe6375f736d064a3e23f004676d" label="dropper">
+        <attvalues>
+          <attvalue for="actor" value="Sofacy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="3475.919" y="589.7837"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="cae4d42c948796f87af94e11248117ee" label="OLDBAIT">
+        <attvalues>
+          <attvalue for="actor" value="Sofacy"></attvalue>
+          <attvalue for="size" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2113.3542" y="-2719.265"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="cb56df0805b0fd15389ad72b72e2d056" label="Zebrocy - Downloader">
+        <attvalues>
+          <attvalue for="actor" value="Sofacy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1754.2626" y="1868.0087"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="4aaec3339c3d1046825251675a150477" label="Zebrocy - .NET Downloader">
+        <attvalues>
+          <attvalue for="actor" value="Sofacy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1444.1307" y="3154.931"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="7debf3c6e4483272ec52baa6bf500aec" label="Zebrocy - Delphi Downloader">
+        <attvalues>
+          <attvalue for="actor" value="Sofacy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2115.1064" y="117.83562"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="582d69f53bcce074b9afe7e136e5af4e" label="Seduploader -  Dropper">
+        <attvalues>
+          <attvalue for="actor" value="Sofacy"></attvalue>
+          <attvalue for="size" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-882.37445" y="-1058.5963"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="c3cea7ed11227fe94bee658919573c83" label="Zebrocy">
+        <attvalues>
+          <attvalue for="actor" value="Sofacy"></attvalue>
+          <attvalue for="size" value="38"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1668.5143" y="520.67975"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="99a70cf63e239db76bca5bcd2cb63669" label="Sedreco - Dropper">
+        <attvalues>
+          <attvalue for="actor" value="Sofacy"></attvalue>
+          <attvalue for="size" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2126.8176" y="1970.8225"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="7cd80966f74d3718c4a25313c74fa87b" label="Seduploader">
+        <attvalues>
+          <attvalue for="actor" value="Sofacy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1420.6316" y="-909.6142"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="2696a5fa2f1b69f34ef80c9b229c4b07" label="Zebrocy - Go Downloader">
+        <attvalues>
+          <attvalue for="actor" value="Sofacy"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2539.47" y="-347.21707"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="ca1ec7d101e3c67a091bb09d35417a90" label="Sedreco - Payload">
+        <attvalues>
+          <attvalue for="actor" value="Sofacy"></attvalue>
+          <attvalue for="size" value="16"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1112.9899" y="2049.6125"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="3c2b46a2a93180886e2a758effdb4adb" label="Downdelph">
+        <attvalues>
+          <attvalue for="actor" value="Sofacy"></attvalue>
+          <attvalue for="size" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-35.00722" y="-1250.9401"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="dd3bf78cf0c523094aa211ee7c4d4d6c" label="HideDRV">
+        <attvalues>
+          <attvalue for="actor" value="Sofacy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1274.1985" y="-1413.0852"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="b56cfbf7f1394d70160a599d883f69a0" label="VPNFilter - Stage 1">
+        <attvalues>
+          <attvalue for="actor" value="VPNFilter"></attvalue>
+          <attvalue for="size" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1741.647" y="-1303.8959"></viz:position>
+        <viz:color r="163" g="178" b="255"></viz:color>
+      </node>
+      <node id="d263830d98cba0cd9de3c2c409c2c40b" label="VPNFilter - Stage 2">
+        <attvalues>
+          <attvalue for="actor" value="VPNFilter"></attvalue>
+          <attvalue for="size" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2422.55" y="-804.40424"></viz:position>
+        <viz:color r="163" g="178" b="255"></viz:color>
+      </node>
+      <node id="49113560c80c62a2ce06d8965b749d9f" label="VPNFilter - Stage 3 Plugin - Tor">
+        <attvalues>
+          <attvalue for="actor" value="VPNFilter"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1074.1339" y="-510.36737"></viz:position>
+        <viz:color r="163" g="178" b="255"></viz:color>
+      </node>
+      <node id="e205638781e1d1fe21803c7924cda561" label="VPNFilter - Stage 3 Plugin - Packet Sniffer">
+        <attvalues>
+          <attvalue for="actor" value="VPNFilter"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2056.3733" y="-363.7804"></viz:position>
+        <viz:color r="163" g="178" b="255"></viz:color>
+      </node>
+      <node id="7199f360ead0a51b7753e1d98fafb456" label="Exaramel">
+        <attvalues>
+          <attvalue for="actor" value="TeleBots"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2619.3853" y="426.5277"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="1bf6717d33ca57d845f98957ea4dce84" label="Keylogger">
+        <attvalues>
+          <attvalue for="actor" value="TeleBots"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2767.4187" y="1305.9064"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="9143dd462fb3597efe72101fb268fd03" label="Password Stealer">
+        <attvalues>
+          <attvalue for="actor" value="TeleBots"></attvalue>
+          <attvalue for="size" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1582.6628" y="-2129.0757"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="75238f7736b673ad90802300ff79f868" label="BCS - Server">
+        <attvalues>
+          <attvalue for="actor" value="TeleBots"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2286.2004" y="-2081.2195"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="9ee0ac462178242a895f1cc337f9c6da" label="NotPetya">
+        <attvalues>
+          <attvalue for="actor" value="TeleBots"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="449.28925" y="-1117.062"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="8c4424942312901ad0e89ca424936746" label="CredRaptor">
+        <attvalues>
+          <attvalue for="actor" value="TeleBots"></attvalue>
+          <attvalue for="size" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1462.691" y="-1668.7855"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="a49f10ca85c6ffbb094acdcdda3d0083" label="LDAP Query Tool">
+        <attvalues>
+          <attvalue for="actor" value="TeleBots"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-455.87457" y="3473.8936"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="02db6922659606d1b608991861e574f7" label="TeleBot">
+        <attvalues>
+          <attvalue for="actor" value="TeleBots"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-3481.7769" y="-656.9977"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="10cd654d5a478a08c9910f120e83b263" label="WinPCAP Installer">
+        <attvalues>
+          <attvalue for="actor" value="TeleBots"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1909.2794" y="2974.0442"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="393e6160d47b3173bad1704d5755da01" label="TeleBot - Rust">
+        <attvalues>
+          <attvalue for="actor" value="TeleBots"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-3023.1943" y="-570.53467"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="d06b0e809c0f1c34d96d9eab50c203e9" label="Telebot_Downloader">
+        <attvalues>
+          <attvalue for="actor" value="TeleBots"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2436.5876" y="-1858.7032"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="0f56b12173d0ac12eefdadd96f5cb0d6" label="XData">
+        <attvalues>
+          <attvalue for="actor" value="TeleBots"></attvalue>
+          <attvalue for="size" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-3284.0588" y="1235.0688"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="8d017884ac37c81a9056cae903b9d025" label="KillDisk">
+        <attvalues>
+          <attvalue for="actor" value="TeleBots"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="299.4629" y="-1628.4423"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="3f1c8dc5364299cc5accb017f081af0f" label="BlackEnergy - Plugin - Destructor">
+        <attvalues>
+          <attvalue for="actor" value="BlackEnergy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-873.98535" y="-2935.2869"></viz:position>
+        <viz:color r="60" g="0" b="189"></viz:color>
+      </node>
+      <node id="cfb62327e685bc076d5296698ddfd206" label="BlackEnergy Lite - Main Dll">
+        <attvalues>
+          <attvalue for="actor" value="BlackEnergy"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1065.029" y="-1880.3121"></viz:position>
+        <viz:color r="60" g="0" b="189"></viz:color>
+      </node>
+      <node id="7e5da74123fa01f4bd91fd58d6570d05" label="BlackEnergy - Plugin - File System">
+        <attvalues>
+          <attvalue for="actor" value="BlackEnergy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-81.60747" y="-3497.885"></viz:position>
+        <viz:color r="60" g="0" b="189"></viz:color>
+      </node>
+      <node id="bfe56013540fd0a6c964d4682f9daf8a" label="BlackEnergy - Plugin - Remote Desktop">
+        <attvalues>
+          <attvalue for="actor" value="BlackEnergy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2095.5918" y="-2230.9817"></viz:position>
+        <viz:color r="60" g="0" b="189"></viz:color>
+      </node>
+      <node id="26bee7b60021f616eefa36b2330403f6" label="BlackEnergy - Plugin - Windows Account List">
+        <attvalues>
+          <attvalue for="actor" value="BlackEnergy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1242.8857" y="-2621.6997"></viz:position>
+        <viz:color r="60" g="0" b="189"></viz:color>
+      </node>
+      <node id="4659a4dbd837b89b9d2b28b84ba3248f" label="BlackEnergy - Plugin - System Information">
+        <attvalues>
+          <attvalue for="actor" value="BlackEnergy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="357.31152" y="-2577.5044"></viz:position>
+        <viz:color r="60" g="0" b="189"></viz:color>
+      </node>
+      <node id="c2ce9b20c548983a55e0f66f59c84a23" label="BlackEnergy Lite - Dropper">
+        <attvalues>
+          <attvalue for="actor" value="BlackEnergy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1569.0681" y="-1842.5875"></viz:position>
+        <viz:color r="60" g="0" b="189"></viz:color>
+      </node>
+      <node id="c7a76a38aecae30650748dfb3c1a074b" label="BlackEnergy - Plugin - TeamViewer">
+        <attvalues>
+          <attvalue for="actor" value="BlackEnergy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1026.2189" y="-3377.679"></viz:position>
+        <viz:color r="60" g="0" b="189"></viz:color>
+      </node>
+      <node id="70c736b65f5210457b588e199b100f05" label="BlackEnergy - Dropper">
+        <attvalues>
+          <attvalue for="actor" value="BlackEnergy"></attvalue>
+          <attvalue for="size" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-141.02428" y="-2636.0938"></viz:position>
+        <viz:color r="60" g="0" b="189"></viz:color>
+      </node>
+      <node id="8e9654c571f19b9bacbb7d95e6f4fa34" label="BlackEnergy - Plugin - Password Stealing">
+        <attvalues>
+          <attvalue for="actor" value="BlackEnergy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1110.3026" y="-2138.4622"></viz:position>
+        <viz:color r="60" g="0" b="189"></viz:color>
+      </node>
+      <node id="bc8d3f4c8eae9fba54e9da76c6ac5896" label="BlackEnergy - Plugin - Network Scan">
+        <attvalues>
+          <attvalue for="actor" value="BlackEnergy"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-343.0398" y="-2225.2993"></viz:position>
+        <viz:color r="60" g="0" b="189"></viz:color>
+      </node>
+      <node id="5a0f6792c9c66e43732d133bbb2e00d7" label="BlackEnergy - Main Dll">
+        <attvalues>
+          <attvalue for="actor" value="BlackEnergy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="141.76562" y="-2146.3916"></viz:position>
+        <viz:color r="60" g="0" b="189"></viz:color>
+      </node>
+      <node id="82dde251fabd36f5fd4a27c011a2f31d" label="BlackEnergy - Plugin - Network Discovery">
+        <attvalues>
+          <attvalue for="actor" value="BlackEnergy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-549.8867" y="-3457.6958"></viz:position>
+        <viz:color r="60" g="0" b="189"></viz:color>
+      </node>
+      <node id="525fcc62bd68d20012147e6e49660eaf" label="BlackEnergy - Plugin - Infector">
+        <attvalues>
+          <attvalue for="actor" value="BlackEnergy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="124.42411" y="-3056.8064"></viz:position>
+        <viz:color r="60" g="0" b="189"></viz:color>
+      </node>
+      <node id="c945a2593f297c3b9475c7cfd65963f6" label="BlackEnergy - Plugin - Malware Update">
+        <attvalues>
+          <attvalue for="actor" value="BlackEnergy"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-726.2075" y="-2495.389"></viz:position>
+        <viz:color r="60" g="0" b="189"></viz:color>
+      </node>
+      <node id="f096a330b15675704fd167190ba88cab" label="BlackEnergy - Plugin - Keylogger">
+        <attvalues>
+          <attvalue for="actor" value="BlackEnergy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-402.16922" y="-3007.4766"></viz:position>
+        <viz:color r="60" g="0" b="189"></viz:color>
+      </node>
+      <node id="996e465904e83ec92caa4d3020c4f4d1" label="BlackEnergy - Plugin - Hardware Info">
+        <attvalues>
+          <attvalue for="actor" value="BlackEnergy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-694.01154" y="-1918.8618"></viz:position>
+        <viz:color r="60" g="0" b="189"></viz:color>
+      </node>
+      <node id="c690c03be4dbe516451d804d89ecdb18" label="BlackEnergy - Driver">
+        <attvalues>
+          <attvalue for="actor" value="BlackEnergy"></attvalue>
+          <attvalue for="size" value="26"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1013.59705" y="-1570.8403"></viz:position>
+        <viz:color r="60" g="0" b="189"></viz:color>
+      </node>
+      <node id="46452ae6f265c74e9f5430e0a1824607" label="BlackEnergy - Plugin - Screenshot">
+        <attvalues>
+          <attvalue for="actor" value="BlackEnergy"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1406.7515" y="-3124.3274"></viz:position>
+        <viz:color r="60" g="0" b="189"></viz:color>
+      </node>
+      <node id="84aa5c25d1dcb672b966e06d9d675b1f" label="Sysmain">
+        <attvalues>
+          <attvalue for="actor" value="Energetic Bear"></attvalue>
+          <attvalue for="size" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1486.5627" y="1135.1289"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="7426812bdd6beff62632442468becbde" label="Havex - Loader">
+        <attvalues>
+          <attvalue for="actor" value="Energetic Bear"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-781.0188" y="1621.2084"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="1977794e8f094696619a69e654051d73" label="Karagany">
+        <attvalues>
+          <attvalue for="actor" value="Energetic Bear"></attvalue>
+          <attvalue for="size" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2022.4425" y="-1699.8749"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="1e13f53a686e33b10b1fec0974bf9283" label="Dorshel">
+        <attvalues>
+          <attvalue for="actor" value="Energetic Bear"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="3019.815" y="-255.1015"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="71a1cae97cf49122f81cc2a58b5a1f94" label="Havex - Module - Outlook">
+        <attvalues>
+          <attvalue for="actor" value="Energetic Bear"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-280.11264" y="1634.9757"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="5be405328f4cb41e907d06d73ca7bed5" label="Havex - Module - Network Scanner">
+        <attvalues>
+          <attvalue for="actor" value="Energetic Bear"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1292.016" y="1594.1244"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="23e0095eea16390ed9a28db2d74bfc89" label="Listrix">
+        <attvalues>
+          <attvalue for="actor" value="Energetic Bear"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1297.0897" y="-2284.1248"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="795c426ddc525ec373ead1661e4b5e99" label="Havex">
+        <attvalues>
+          <attvalue for="actor" value="Energetic Bear"></attvalue>
+          <attvalue for="size" value="121"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-445.92667" y="1181.2286"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="26eecd307cf6b142851e1d918898c07c" label="Havex - Module - OPC">
+        <attvalues>
+          <attvalue for="actor" value="Energetic Bear"></attvalue>
+          <attvalue for="size" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-392.8562" y="2536.5786"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="8a8b6be1fc2d3a1bd666de73dd3a822d" label="Karagany - Module - Screenshot">
+        <attvalues>
+          <attvalue for="actor" value="Energetic Bear"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2926.4238" y="-737.1122"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="afc7950a79d300b4b34da7c676cc6b71" label="Karagany - Module - File Listing">
+        <attvalues>
+          <attvalue for="actor" value="Energetic Bear"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1330.4923" y="-3237.3745"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="baad985472df3589407b067e9d384f27" label="Heriplor">
+        <attvalues>
+          <attvalue for="actor" value="Energetic Bear"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2246.5605" y="-2697.6455"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="81e166b9b317099e424dcdcc216c6a52" label="Ddex_loader">
+        <attvalues>
+          <attvalue for="actor" value="Energetic Bear"></attvalue>
+          <attvalue for="size" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-3267.8062" y="-1074.4335"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="2039f0767c244dcc9f3112a81c00d9b7" label="Gazer - Loader (x64)">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1038.2825" y="1321.1912"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="28abff7b2525d5cbf3d7ea4450a7c07e" label="Uroburos">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="139"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-252.85077" y="-430.33896"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="23b3994e8d7e5bbdd296811142bfa8c0" label="Uroburos - Virtual Box Driver">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-3190.8523" y="-1525.2667"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="018fcd7a775cda3c5b397a4ebe4dc628" label="DarkNeuron - Client">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2749.2532" y="-974.56274"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="514dd6424475ef193456d0b9e8330f05" label="Agent.BTZ">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="33"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-390.01437" y="-913.51337"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="73ee63fa69484a8ac3ea97b9813d61e0" label="DarkNeuron - Client Dropper">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1952.3372" y="-1749.713"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="66c9b72f8b03853813bb7f8a9def94ea" label="Gazer - Loader (x32)">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="867.85425" y="849.83575"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="43cd0abe28c05f11d8d8504721f6afaf" label="Carbon - Communication Library (v4.00)">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-616.9485" y="-84.80908"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="a7947ba0ca48e112b17f9d6f9b6a2407" label="Mosquito - Installer">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2243.5159" y="-872.899"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="0f0a24ddaa40da5cb13dddf9bc331648" label="DarkNeuron - Service Dropper">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1824.576" y="-1260.6685"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="6eaa00c8236cb3c59d071d8646c0b142" label="Carbon - Loader (v3.81)">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1251.7457" y="-680.03186"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="3d44e8a71b9702407be9a89f370e1522" label="Mosquito">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1745.997" y="-779.41614"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="c93aeec2c3e974460de3d58b943eb91a" label="Gazer - Wiper (x32)">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="255.88019" y="315.56113"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="9e935d3ee65119c1b3e6aff7ae310e4c" label="Nautilus">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-978.4622" y="1184.2894"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="bdb533317a59778bf653d6085500d96d" label="Carbon - Orchestrator (v3.79)">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="943.4772" y="-1008.7195"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="8b057eee6dc04fde15dfae5dd75b3d77" label="Uroburos - FA">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2189.3403" y="2789.3308"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="9391d2f345e4d8f4f04725bf3f38544c" label="Outlook Backdoor">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-687.0896" y="780.6735"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="934d5e9c680b4faba59d5ba27a9f7899" label="ComRAT">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="64"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-758.7817" y="-571.133"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="52df713c4529f82fdc4e23826dcbf5d7" label="Mosquito - Backdoor">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1356.4237" y="-1165.6792"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="3fe27e2fa2335739adc9210e7d1000ad" label="Kazuar">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2252.0623" y="-1251.1832"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="f86b888968bbd3ed52d9c63f863f6b75" label="Carbon - Loader (v3.71)">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1904.1334" y="100.68947"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="b0dda25becb65b5ddc1ba875d74cf234" label="LightNeuron - Companion DLL">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2603.0925" y="-2352.1719"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="bc824fb5e8f78582baedbbe330c96d09" label="KSL0T - Keylogger">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="602.3458" y="-622.9863"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="7d97ce157ff505df600655c21aadba09" label="Carbon - Loader (v3.77)">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1800.0876" y="1550.5125"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="c6f116acbfa31be4a1b493c7546a27be" label="PNG Dropper">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="112.58928" y="-752.94763"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="fa8291d4b8b5cb1636330c0eb0ef90eb" label="Gazer - Orchestrator (x64)">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-109.430466" y="731.242"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="2f29309be5931a35dfe890f6523d54ce" label="Uroburos - CVE-2008-3431">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="603.59454" y="-2020.8687"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="30fb6d0d00defd9743c9ec9f680eac83" label="Penquin Turla">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-422.0637" y="392.9321"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="124dffb63cd6f5b31f3dda77549f817c" label="Gazer - Orchestrator (x32)">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="42.907967" y="1194.3154"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="13096ca132a4e871eb10b6537fd50305" label="Carbon - Dropper (v3.77)">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2445.3801" y="919.8624"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="69de3d157e6db6537145f40476ef1cfa" label="DarkNeuron - Service">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2292.179" y="-1347.9576"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="37f9335403948d59fe6c4cb54cc7e44d" label="Carbon - Dropper (v3.71)">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2146.4268" y="513.03894"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="a5dc44aa86568f20b56e5b236be7a221" label="Wipbot">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="19"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1783.0338" y="-3054.01"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="9cdc4b59fa61402444eb6696219bd45c" label="Carbon - Communication Library (v3.62)">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1101.32" y="-188.39444"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="8081fbfa8ceb55acc911f00035ae33a7" label="Carbon - Orchestrator (v3.71)">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-931.5841" y="309.39804"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="ae3ab1d2d78b6a322873d07fdbd9a69d" label="Gazer">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="378.31955" y="788.5901"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="ef1e4b4a6487a6ac9f387829e5a8fb15" label="Carbon - Orchestrator (v3.81)">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="254.25922" y="-253.40887"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="736a4defe913d0bfa55ecb09243cb650" label="Carbon - Orchestrator (v3.77)">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="773.1259" y="-1490.3457"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="bf43da2cb26721e73ddd15e3ad2cff29" label="Gazer - Communication Module (x32)">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="541.78925" y="1263.6788"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="942d92c21aab24cebba5a0d9cb4ac8f6" label="LightNeuron - Transport Agent">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-3526.0498" y="255.81409"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="b02e57564eddb13b137d283063942c24" label="Gazer - Communication Module (x64)">
+        <attvalues>
+          <attvalue for="actor" value="Turla"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1170.4318" y="-33.14353"></viz:position>
+        <viz:color r="255" g="179" b="243"></viz:color>
+      </node>
+      <node id="f53a7948eef286c3e93801861b92768e" label="Industroyer - Backdoor">
+        <attvalues>
+          <attvalue for="actor" value="Industroyer"></attvalue>
+          <attvalue for="size" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2548.1455" y="1768.5536"></viz:position>
+        <viz:color r="255" g="242" b="153"></viz:color>
+      </node>
+      <node id="6d9b30aee6ca73c89d95d36895a7b6e2" label="Industroyer - Launcher">
+        <attvalues>
+          <attvalue for="actor" value="Industroyer"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2501.8433" y="-2489.9272"></viz:position>
+        <viz:color r="255" g="242" b="153"></viz:color>
+      </node>
+      <node id="63f31c24f4e401ca2b4ff129634d2f05" label="Industroyer - Payload - IEC-104">
+        <attvalues>
+          <attvalue for="actor" value="Industroyer"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-3079.226" y="344.57596"></viz:position>
+        <viz:color r="255" g="242" b="153"></viz:color>
+      </node>
+      <node id="629057c141c3297c86bc70fe2776058e" label="Industroyer - Wiper">
+        <attvalues>
+          <attvalue for="actor" value="Industroyer"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-3428.963" y="759.4993"></viz:position>
+        <viz:color r="255" g="242" b="153"></viz:color>
+      </node>
+      <node id="9c66f85784befaaae1650d7d12e720b2" label="Industroyer - Port Scanner">
+        <attvalues>
+          <attvalue for="actor" value="Industroyer"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2774.142" y="-1201.1875"></viz:position>
+        <viz:color r="255" g="242" b="153"></viz:color>
+      </node>
+      <node id="111574ab51386726b9e4ccdf7071bfdd" label="Industroyer - Payload - OPC">
+        <attvalues>
+          <attvalue for="actor" value="Industroyer"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1087.5858" y="-2832.056"></viz:position>
+        <viz:color r="255" g="242" b="153"></viz:color>
+      </node>
+      <node id="8412c59bf8eaf4bd9ef51aa4e2e8b0f0" label="TeamSpy - Module - Screen Capture">
+        <attvalues>
+          <attvalue for="actor" value="TeamSpy"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1555.7603" y="-2659.766"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="94f9f7ebeb3e4dc55e44471e10d55644" label="TeamSpy - Module - Traceroute">
+        <attvalues>
+          <attvalue for="actor" value="TeamSpy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="406.86215" y="-3483.1953"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="eabed815c2650c7a7d1c0ad1e5919f43" label="TeamSpy - Module - File Collector">
+        <attvalues>
+          <attvalue for="actor" value="TeamSpy"></attvalue>
+          <attvalue for="size" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="622.7911" y="-2983.4539"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="b353bae9dc49a55d17065f8d20c17192" label="TeamSpy - Module - SystemInfo">
+        <attvalues>
+          <attvalue for="actor" value="TeamSpy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-674.0602" y="2964.0403"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="f17fe63add2f076061da83994f5165e8" label="TeamSpy - Module - System Info">
+        <attvalues>
+          <attvalue for="actor" value="TeamSpy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="3503.8489" y="94.55428"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="d567300ec95277f9f1d3aa7ea44c88a8" label="TeamSpy - Module - Bi">
+        <attvalues>
+          <attvalue for="actor" value="TeamSpy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="3044.924" y="234.83446"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="b3603cc421bba10d6cf5d84077455628" label="TeamSpy - Module - Config">
+        <attvalues>
+          <attvalue for="actor" value="TeamSpy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1418.708" y="3245.1116"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="76ba6a4600b4f61f88270b0ce6bd2642" label="TeamSpy - Module - Network Info">
+        <attvalues>
+          <attvalue for="actor" value="TeamSpy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1584.7513" y="2655.8752"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="fca69bb844bdb0f0c6da3d68e33b5ab9" label="TeamSpy - Module - iOS Info">
+        <attvalues>
+          <attvalue for="actor" value="TeamSpy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2915.0635" y="-1962.2965"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="af838b08dcee8ca3be2b917bbdebd785" label="TeamSpy - Module - Keylogger">
+        <attvalues>
+          <attvalue for="actor" value="TeamSpy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1714.0187" y="-2578.5361"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="cc5ac684962a1899fb35c35931799032" label="TeamSpy - Module - Backdoor">
+        <attvalues>
+          <attvalue for="actor" value="TeamSpy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1847.9178" y="-3016.2751"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="881227f338385fe0bc7ded142779ac41" label="TeamSpy - Module - Process List">
+        <attvalues>
+          <attvalue for="actor" value="TeamSpy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-888.25525" y="2473.3892"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="cb89125630d13d8e5ac0978d31d2f6b5" label="TeamSpy - Module - NetScanFiles">
+        <attvalues>
+          <attvalue for="actor" value="TeamSpy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2583.1357" y="614.1401"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="63a6c1660191d9fc2615c1f67568fe0a" label="TeamSpy - Module - NetScanShares">
+        <attvalues>
+          <attvalue for="actor" value="TeamSpy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1949.3912" y="2319.8025"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="aba28bd390e092901025ce867aa67363" label="TeamSpy - Module - SystemInfoSafe">
+        <attvalues>
+          <attvalue for="actor" value="TeamSpy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-202.83429" y="3028.9006"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="6c1149f802c616f063ca2bd8de974811" label="MiniDuke">
+        <attvalues>
+          <attvalue for="actor" value="APT29"></attvalue>
+          <attvalue for="size" value="56"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2069.3574" y="-384.80762"></viz:position>
+        <viz:color r="255" g="41" b="234"></viz:color>
+      </node>
+      <node id="b2e158c6951332bac289c56c5e457ca6" label="CloudDuke">
+        <attvalues>
+          <attvalue for="actor" value="APT29"></attvalue>
+          <attvalue for="size" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="1551.9648" y="1415.5021"></viz:position>
+        <viz:color r="255" g="41" b="234"></viz:color>
+      </node>
+      <node id="39af29e6c7cb7c85cbba6040d33abf8a" label="GeminiDuke">
+        <attvalues>
+          <attvalue for="actor" value="APT29"></attvalue>
+          <attvalue for="size" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-96.09072" y="2099.8206"></viz:position>
+        <viz:color r="255" g="41" b="234"></viz:color>
+      </node>
+      <node id="f0a39250cda24f3c0d08539c3d7d3b9e" label="HammerDuke">
+        <attvalues>
+          <attvalue for="actor" value="APT29"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2820.0142" y="2133.8474"></viz:position>
+        <viz:color r="255" g="41" b="234"></viz:color>
+      </node>
+      <node id="6ab8aa673ad0ce0683828c20a0346c6f" label="CozyDuke">
+        <attvalues>
+          <attvalue for="actor" value="APT29"></attvalue>
+          <attvalue for="size" value="40"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="3259.1157" y="-1264.7888"></viz:position>
+        <viz:color r="255" g="41" b="234"></viz:color>
+      </node>
+      <node id="7936c5137b8c700bbb79d6d618a56784" label="PinchDuke">
+        <attvalues>
+          <attvalue for="actor" value="APT29"></attvalue>
+          <attvalue for="size" value="21"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2551.1936" y="-479.17697"></viz:position>
+        <viz:color r="255" g="41" b="234"></viz:color>
+      </node>
+      <node id="deec2b440f7be781865dbdf2ec7dc9fc" label="OnionDuke">
+        <attvalues>
+          <attvalue for="actor" value="APT29"></attvalue>
+          <attvalue for="size" value="28"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="520.3394" y="3479.8218"></viz:position>
+        <viz:color r="255" g="41" b="234"></viz:color>
+      </node>
+      <node id="55f85530231475c234a57958a304f62e" label="CosmicDuke">
+        <attvalues>
+          <attvalue for="actor" value="APT29"></attvalue>
+          <attvalue for="size" value="77"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1953.5535" y="1017.95856"></viz:position>
+        <viz:color r="255" g="41" b="234"></viz:color>
+      </node>
+      <node id="855dcf46602c86267b86e2377d4547ad" label="Bad Rabbit - Installer">
+        <attvalues>
+          <attvalue for="actor" value="Bad Rabbit"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1583.6743" y="-291.81076"></viz:position>
+        <viz:color r="214" g="0" b="116"></viz:color>
+      </node>
+      <node id="cb2a2a0e1171ffaa8347f57ed6802fcd" label="Bad Rabbit - Wiper">
+        <attvalues>
+          <attvalue for="actor" value="Bad Rabbit"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-533.0654" y="-1409.5748"></viz:position>
+        <viz:color r="214" g="0" b="116"></viz:color>
+      </node>
+      <node id="af5f51e14cb81d4cff35b5f543226bb6" label="GreyEnergy - Dropper - Unpacked">
+        <attvalues>
+          <attvalue for="actor" value="GreyEnergy"></attvalue>
+          <attvalue for="size" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2912.6646" y="-93.49627"></viz:position>
+        <viz:color r="143" g="255" b="221"></viz:color>
+      </node>
+      <node id="7991e76977efb333e811fefe8420247a" label="GreyEnergy - Port Scanner">
+        <attvalues>
+          <attvalue for="actor" value="GreyEnergy"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="3480.5093" y="-376.74188"></viz:position>
+        <viz:color r="143" g="255" b="221"></viz:color>
+      </node>
+      <node id="1e659a8caf3591d38ba113b569864cc2" label="Moonraker Petya">
+        <attvalues>
+          <attvalue for="actor" value="GreyEnergy"></attvalue>
+          <attvalue for="size" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="823.94916" y="-2439.3098"></viz:position>
+        <viz:color r="143" g="255" b="221"></viz:color>
+      </node>
+      <node id="ad41a236ac075ecc2514dc2e0eca445f" label="GreyEnergy - Payload">
+        <attvalues>
+          <attvalue for="actor" value="GreyEnergy"></attvalue>
+          <attvalue for="size" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-3080.2732" y="1688.6218"></viz:position>
+        <viz:color r="143" g="255" b="221"></viz:color>
+      </node>
+      <node id="eb5aafda5012806502c14ae0e0a3c079" label="GreyEnergy Mini">
+        <attvalues>
+          <attvalue for="actor" value="GreyEnergy"></attvalue>
+          <attvalue for="size" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="2582.562" y="123.67367"></viz:position>
+        <viz:color r="143" g="255" b="221"></viz:color>
+      </node>
+      <node id="0fcf57fdb8d894dfb2de44c58f5a6677" label="GreyEnergy - Payload - In Memory">
+        <attvalues>
+          <attvalue for="actor" value="GreyEnergy"></attvalue>
+          <attvalue for="size" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-1751.7799" y="2934.3723"></viz:position>
+        <viz:color r="143" g="255" b="221"></viz:color>
+      </node>
+      <node id="1ef437fbaadd5bbe7eee75b4abc0fabf" label="GreyEnergy - Payload - Unpacked">
+        <attvalues>
+          <attvalue for="actor" value="GreyEnergy"></attvalue>
+          <attvalue for="size" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2404.5005" y="2.9058125"></viz:position>
+        <viz:color r="143" g="255" b="221"></viz:color>
+      </node>
+      <node id="3627d04d0ab33887e89d3bea1677667f" label="GreyEnergy - Dropper">
+        <attvalues>
+          <attvalue for="actor" value="GreyEnergy"></attvalue>
+          <attvalue for="size" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-2942.979" y="839.7031"></viz:position>
+        <viz:color r="143" g="255" b="221"></viz:color>
+      </node>
+      <node id="c49831295b806c3cda42ce753233ac4b" label="GreyEnergy Mini - Unpacked">
+        <attvalues>
+          <attvalue for="actor" value="GreyEnergy"></attvalue>
+          <attvalue for="size" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-3433.0093" y="-190.39388"></viz:position>
+        <viz:color r="143" g="255" b="221"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="bf43da2cb26721e73ddd15e3ad2cff29" target="3bd85152f7288ddac0d666433136adae" weight="15.0"></edge>
+      <edge id="1" source="f36f723afc61de83f3f6f9e813db3cf6" target="2499accf84b83940eee79600b0672d53"></edge>
+      <edge id="2" source="b56cfbf7f1394d70160a599d883f69a0" target="d263830d98cba0cd9de3c2c409c2c40b" weight="16.0"></edge>
+      <edge id="3" source="5a0f6792c9c66e43732d133bbb2e00d7" target="7e5da74123fa01f4bd91fd58d6570d05"></edge>
+      <edge id="4" source="795c426ddc525ec373ead1661e4b5e99" target="7426812bdd6beff62632442468becbde" weight="121.0"></edge>
+      <edge id="5" source="3627d04d0ab33887e89d3bea1677667f" target="af5f51e14cb81d4cff35b5f543226bb6"></edge>
+      <edge id="6" source="2499accf84b83940eee79600b0672d53" target="4a939a20c7fc7c5d1d01deaec8bd8ad9"></edge>
+      <edge id="7" source="b2e158c6951332bac289c56c5e457ca6" target="caa472b589c2f6a627253af6b4ac0800" weight="20.0"></edge>
+      <edge id="8" source="e6c6dddcc1b8686020bf002c15768b39" target="48cbe0e40ab46835678245f03bdf07cd" weight="17.0"></edge>
+      <edge id="9" source="c3cea7ed11227fe94bee658919573c83" target="7debf3c6e4483272ec52baa6bf500aec" weight="17.0"></edge>
+      <edge id="10" source="46452ae6f265c74e9f5430e0a1824607" target="26bee7b60021f616eefa36b2330403f6"></edge>
+      <edge id="11" source="82dde251fabd36f5fd4a27c011a2f31d" target="46452ae6f265c74e9f5430e0a1824607"></edge>
+      <edge id="12" source="5be405328f4cb41e907d06d73ca7bed5" target="71a1cae97cf49122f81cc2a58b5a1f94"></edge>
+      <edge id="13" source="b8aa95103a418870afd74bb35a1e141e" target="98631fc03b1e80b108a6e9b5251166d0"></edge>
+      <edge id="14" source="4d9eb0b5b5d55571472de351aa53a179" target="8d933937bd94f6b9c1b3fd7477111fe9" weight="4.0"></edge>
+      <edge id="15" source="c690c03be4dbe516451d804d89ecdb18" target="5a0f6792c9c66e43732d133bbb2e00d7"></edge>
+      <edge id="16" source="dcc24239d025e37f292024942f6d49b4" target="09716c9b3ed739d8c361eca70ca5c63a" weight="40.0"></edge>
+      <edge id="17" source="514dd6424475ef193456d0b9e8330f05" target="9391d2f345e4d8f4f04725bf3f38544c" weight="5.0"></edge>
+      <edge id="18" source="05b43d8865844a10a862ae60af95991c" target="c25a207116545839caea68de9f9cae9d"></edge>
+      <edge id="19" source="525fcc62bd68d20012147e6e49660eaf" target="c7a76a38aecae30650748dfb3c1a074b"></edge>
+      <edge id="20" source="eac5dccb24bc4415b75691610781e81c" target="d3b94b8fc01ab150c54ab2a1916c4f60" weight="7.0"></edge>
+      <edge id="21" source="6df1746ff979cf206ba966289a662a6b" target="b650e3dbce590e6ef3e309364ab2e007" weight="200.0"></edge>
+      <edge id="22" source="5a0f6792c9c66e43732d133bbb2e00d7" target="26bee7b60021f616eefa36b2330403f6"></edge>
+      <edge id="23" source="9526ca09472cf18b6dd6c01b59b09aa9" target="4a939a20c7fc7c5d1d01deaec8bd8ad9"></edge>
+      <edge id="24" source="5a0f6792c9c66e43732d133bbb2e00d7" target="cfb62327e685bc076d5296698ddfd206"></edge>
+      <edge id="25" source="7c86233d121129bd690d51c874fad836" target="b56d770d71976218db2e2a07fffebfe2" weight="10.0"></edge>
+      <edge id="26" source="934d5e9c680b4faba59d5ba27a9f7899" target="9391d2f345e4d8f4f04725bf3f38544c" weight="2.0"></edge>
+      <edge id="27" source="8e9654c571f19b9bacbb7d95e6f4fa34" target="4659a4dbd837b89b9d2b28b84ba3248f"></edge>
+      <edge id="28" source="8e9654c571f19b9bacbb7d95e6f4fa34" target="7936c5137b8c700bbb79d6d618a56784" weight="12.0"></edge>
+      <edge id="29" source="05b43d8865844a10a862ae60af95991c" target="9526ca09472cf18b6dd6c01b59b09aa9"></edge>
+      <edge id="30" source="5a0f6792c9c66e43732d133bbb2e00d7" target="3f1c8dc5364299cc5accb017f081af0f"></edge>
+      <edge id="31" source="7e5da74123fa01f4bd91fd58d6570d05" target="525fcc62bd68d20012147e6e49660eaf"></edge>
+      <edge id="32" source="70c736b65f5210457b588e199b100f05" target="82dde251fabd36f5fd4a27c011a2f31d"></edge>
+      <edge id="33" source="3f1c8dc5364299cc5accb017f081af0f" target="996e465904e83ec92caa4d3020c4f4d1"></edge>
+      <edge id="34" source="bf43da2cb26721e73ddd15e3ad2cff29" target="c93aeec2c3e974460de3d58b943eb91a"></edge>
+      <edge id="35" source="899350ce500b32b5b81a2a2ada73f5a3" target="b650e3dbce590e6ef3e309364ab2e007" weight="164.0"></edge>
+      <edge id="36" source="7e5da74123fa01f4bd91fd58d6570d05" target="996e465904e83ec92caa4d3020c4f4d1"></edge>
+      <edge id="37" source="728e7190e33c90995e28aaa1f3d3623a" target="b650e3dbce590e6ef3e309364ab2e007" weight="134.0"></edge>
+      <edge id="38" source="dcc24239d025e37f292024942f6d49b4" target="728e7190e33c90995e28aaa1f3d3623a" weight="16.0"></edge>
+      <edge id="39" source="55f85530231475c234a57958a304f62e" target="39af29e6c7cb7c85cbba6040d33abf8a"></edge>
+      <edge id="40" source="bf43da2cb26721e73ddd15e3ad2cff29" target="d3b94b8fc01ab150c54ab2a1916c4f60" weight="3.0"></edge>
+      <edge id="41" source="514dd6424475ef193456d0b9e8330f05" target="934d5e9c680b4faba59d5ba27a9f7899" weight="744.0"></edge>
+      <edge id="42" source="f096a330b15675704fd167190ba88cab" target="c7a76a38aecae30650748dfb3c1a074b"></edge>
+      <edge id="43" source="c690c03be4dbe516451d804d89ecdb18" target="8e9654c571f19b9bacbb7d95e6f4fa34"></edge>
+      <edge id="44" source="996e465904e83ec92caa4d3020c4f4d1" target="82dde251fabd36f5fd4a27c011a2f31d"></edge>
+      <edge id="45" source="cb89125630d13d8e5ac0978d31d2f6b5" target="63a6c1660191d9fc2615c1f67568fe0a"></edge>
+      <edge id="46" source="92a4edaa651127c4821eb02a2b2953ad" target="0347d4e08ea0ccb2a1dce08b666bc4ab" weight="9.0"></edge>
+      <edge id="47" source="3f1c8dc5364299cc5accb017f081af0f" target="525fcc62bd68d20012147e6e49660eaf"></edge>
+      <edge id="48" source="92a4edaa651127c4821eb02a2b2953ad" target="ca1ec7d101e3c67a091bb09d35417a90" weight="119.0"></edge>
+      <edge id="49" source="403a99f7a48047c571b9e1a93291ec2c" target="98631fc03b1e80b108a6e9b5251166d0"></edge>
+      <edge id="50" source="fe24742f143528a54fd341b5dead5977" target="98631fc03b1e80b108a6e9b5251166d0"></edge>
+      <edge id="51" source="e205638781e1d1fe21803c7924cda561" target="49113560c80c62a2ce06d8965b749d9f" weight="2.0"></edge>
+      <edge id="52" source="ef1e4b4a6487a6ac9f387829e5a8fb15" target="dd3bf78cf0c523094aa211ee7c4d4d6c" weight="2.0"></edge>
+      <edge id="53" source="b56d770d71976218db2e2a07fffebfe2" target="f6cf12583597bc5be9146315a29783c9" weight="4.0"></edge>
+      <edge id="54" source="996e465904e83ec92caa4d3020c4f4d1" target="26bee7b60021f616eefa36b2330403f6"></edge>
+      <edge id="55" source="bdb533317a59778bf653d6085500d96d" target="ef1e4b4a6487a6ac9f387829e5a8fb15" weight="2.0"></edge>
+      <edge id="56" source="393e6160d47b3173bad1704d5755da01" target="d06b0e809c0f1c34d96d9eab50c203e9"></edge>
+      <edge id="57" source="23e0095eea16390ed9a28db2d74bfc89" target="eabed815c2650c7a7d1c0ad1e5919f43" weight="2.0"></edge>
+      <edge id="58" source="dcc24239d025e37f292024942f6d49b4" target="b650e3dbce590e6ef3e309364ab2e007" weight="52.0"></edge>
+      <edge id="59" source="855dcf46602c86267b86e2377d4547ad" target="cb2a2a0e1171ffaa8347f57ed6802fcd"></edge>
+      <edge id="60" source="403a99f7a48047c571b9e1a93291ec2c" target="9526ca09472cf18b6dd6c01b59b09aa9"></edge>
+      <edge id="61" source="fe24742f143528a54fd341b5dead5977" target="b7acfe270493507d0e7aecca0184a854"></edge>
+      <edge id="62" source="f86b888968bbd3ed52d9c63f863f6b75" target="6eaa00c8236cb3c59d071d8646c0b142" weight="2.0"></edge>
+      <edge id="63" source="c7a76a38aecae30650748dfb3c1a074b" target="26bee7b60021f616eefa36b2330403f6"></edge>
+      <edge id="64" source="70c736b65f5210457b588e199b100f05" target="4659a4dbd837b89b9d2b28b84ba3248f"></edge>
+      <edge id="65" source="4659a4dbd837b89b9d2b28b84ba3248f" target="26bee7b60021f616eefa36b2330403f6"></edge>
+      <edge id="66" source="f096a330b15675704fd167190ba88cab" target="46452ae6f265c74e9f5430e0a1824607"></edge>
+      <edge id="67" source="7c86233d121129bd690d51c874fad836" target="aec881431cebbb80f85e71241f6783da" weight="11.0"></edge>
+      <edge id="68" source="2499accf84b83940eee79600b0672d53" target="67ebacfcaeff8d9d75f4543e5b295a7b"></edge>
+      <edge id="69" source="bf43da2cb26721e73ddd15e3ad2cff29" target="eac5dccb24bc4415b75691610781e81c" weight="21.0"></edge>
+      <edge id="70" source="124dffb63cd6f5b31f3dda77549f817c" target="7426812bdd6beff62632442468becbde" weight="6.0"></edge>
+      <edge id="71" source="3f1c8dc5364299cc5accb017f081af0f" target="46452ae6f265c74e9f5430e0a1824607"></edge>
+      <edge id="72" source="736a4defe913d0bfa55ecb09243cb650" target="dd3bf78cf0c523094aa211ee7c4d4d6c"></edge>
+      <edge id="73" source="fa8291d4b8b5cb1636330c0eb0ef90eb" target="7426812bdd6beff62632442468becbde"></edge>
+      <edge id="74" source="582d69f53bcce074b9afe7e136e5af4e" target="d4898c42b8830282f83eaa4fef7a9e13" weight="16.0"></edge>
+      <edge id="75" source="7cd80966f74d3718c4a25313c74fa87b" target="e6c6dddcc1b8686020bf002c15768b39" weight="24.0"></edge>
+      <edge id="76" source="37f9335403948d59fe6c4cb54cc7e44d" target="8081fbfa8ceb55acc911f00035ae33a7"></edge>
+      <edge id="77" source="7e5da74123fa01f4bd91fd58d6570d05" target="26bee7b60021f616eefa36b2330403f6"></edge>
+      <edge id="78" source="cb2a2a0e1171ffaa8347f57ed6802fcd" target="9ee0ac462178242a895f1cc337f9c6da"></edge>
+      <edge id="79" source="3c2b46a2a93180886e2a758effdb4adb" target="582d69f53bcce074b9afe7e136e5af4e" weight="2.0"></edge>
+      <edge id="80" source="43cd0abe28c05f11d8d8504721f6afaf" target="ef1e4b4a6487a6ac9f387829e5a8fb15" weight="4.0"></edge>
+      <edge id="81" source="70c736b65f5210457b588e199b100f05" target="996e465904e83ec92caa4d3020c4f4d1"></edge>
+      <edge id="82" source="c945a2593f297c3b9475c7cfd65963f6" target="82dde251fabd36f5fd4a27c011a2f31d" weight="2.0"></edge>
+      <edge id="83" source="f36f723afc61de83f3f6f9e813db3cf6" target="fe24742f143528a54fd341b5dead5977"></edge>
+      <edge id="84" source="795c426ddc525ec373ead1661e4b5e99" target="5be405328f4cb41e907d06d73ca7bed5" weight="121.0"></edge>
+      <edge id="85" source="996e465904e83ec92caa4d3020c4f4d1" target="8e9654c571f19b9bacbb7d95e6f4fa34"></edge>
+      <edge id="86" source="ae3ab1d2d78b6a322873d07fdbd9a69d" target="28abff7b2525d5cbf3d7ea4450a7c07e" weight="24.0"></edge>
+      <edge id="87" source="f36f723afc61de83f3f6f9e813db3cf6" target="604b363c8d3dd8cb04d8cbca2ddacf3a"></edge>
+      <edge id="88" source="934d5e9c680b4faba59d5ba27a9f7899" target="28abff7b2525d5cbf3d7ea4450a7c07e" weight="458.0"></edge>
+      <edge id="89" source="5a0f6792c9c66e43732d133bbb2e00d7" target="4659a4dbd837b89b9d2b28b84ba3248f"></edge>
+      <edge id="90" source="05b43d8865844a10a862ae60af95991c" target="b8aa95103a418870afd74bb35a1e141e"></edge>
+      <edge id="91" source="5a0f6792c9c66e43732d133bbb2e00d7" target="996e465904e83ec92caa4d3020c4f4d1"></edge>
+      <edge id="92" source="c945a2593f297c3b9475c7cfd65963f6" target="26bee7b60021f616eefa36b2330403f6" weight="2.0"></edge>
+      <edge id="93" source="525fcc62bd68d20012147e6e49660eaf" target="c945a2593f297c3b9475c7cfd65963f6" weight="2.0"></edge>
+      <edge id="94" source="4a939a20c7fc7c5d1d01deaec8bd8ad9" target="28abff7b2525d5cbf3d7ea4450a7c07e"></edge>
+      <edge id="95" source="7e5da74123fa01f4bd91fd58d6570d05" target="8e9654c571f19b9bacbb7d95e6f4fa34"></edge>
+      <edge id="96" source="8c4424942312901ad0e89ca424936746" target="dd36064bd13c8062aee9f12387a72a14" weight="2.0"></edge>
+      <edge id="97" source="7c86233d121129bd690d51c874fad836" target="a7fd30c1b82faae2fa69c4761c46c8c6" weight="11.0"></edge>
+      <edge id="98" source="9526ca09472cf18b6dd6c01b59b09aa9" target="98631fc03b1e80b108a6e9b5251166d0"></edge>
+      <edge id="99" source="124dffb63cd6f5b31f3dda77549f817c" target="26eecd307cf6b142851e1d918898c07c" weight="18.0"></edge>
+      <edge id="100" source="66c9b72f8b03853813bb7f8a9def94ea" target="eac5dccb24bc4415b75691610781e81c" weight="49.0"></edge>
+      <edge id="101" source="f36f723afc61de83f3f6f9e813db3cf6" target="98631fc03b1e80b108a6e9b5251166d0"></edge>
+      <edge id="102" source="c945a2593f297c3b9475c7cfd65963f6" target="8e9654c571f19b9bacbb7d95e6f4fa34" weight="2.0"></edge>
+      <edge id="103" source="82dde251fabd36f5fd4a27c011a2f31d" target="c7a76a38aecae30650748dfb3c1a074b"></edge>
+      <edge id="104" source="f096a330b15675704fd167190ba88cab" target="c945a2593f297c3b9475c7cfd65963f6" weight="2.0"></edge>
+      <edge id="105" source="9526ca09472cf18b6dd6c01b59b09aa9" target="b7acfe270493507d0e7aecca0184a854"></edge>
+      <edge id="106" source="05b43d8865844a10a862ae60af95991c" target="fe24742f143528a54fd341b5dead5977"></edge>
+      <edge id="107" source="70c736b65f5210457b588e199b100f05" target="26bee7b60021f616eefa36b2330403f6"></edge>
+      <edge id="108" source="82dde251fabd36f5fd4a27c011a2f31d" target="8e9654c571f19b9bacbb7d95e6f4fa34"></edge>
+      <edge id="109" source="b8aa95103a418870afd74bb35a1e141e" target="67ebacfcaeff8d9d75f4543e5b295a7b"></edge>
+      <edge id="110" source="a7fd30c1b82faae2fa69c4761c46c8c6" target="f6cf12583597bc5be9146315a29783c9" weight="4.0"></edge>
+      <edge id="111" source="43cd0abe28c05f11d8d8504721f6afaf" target="9e935d3ee65119c1b3e6aff7ae310e4c"></edge>
+      <edge id="112" source="bf43da2cb26721e73ddd15e3ad2cff29" target="124dffb63cd6f5b31f3dda77549f817c" weight="18.0"></edge>
+      <edge id="113" source="996e465904e83ec92caa4d3020c4f4d1" target="4659a4dbd837b89b9d2b28b84ba3248f"></edge>
+      <edge id="114" source="ca1ec7d101e3c67a091bb09d35417a90" target="d4898c42b8830282f83eaa4fef7a9e13" weight="17.0"></edge>
+      <edge id="115" source="bc8d3f4c8eae9fba54e9da76c6ac5896" target="26bee7b60021f616eefa36b2330403f6" weight="2.0"></edge>
+      <edge id="116" source="899350ce500b32b5b81a2a2ada73f5a3" target="09716c9b3ed739d8c361eca70ca5c63a" weight="10.0"></edge>
+      <edge id="117" source="7e5da74123fa01f4bd91fd58d6570d05" target="c7a76a38aecae30650748dfb3c1a074b"></edge>
+      <edge id="118" source="5a0f6792c9c66e43732d133bbb2e00d7" target="82dde251fabd36f5fd4a27c011a2f31d"></edge>
+      <edge id="119" source="ef1e4b4a6487a6ac9f387829e5a8fb15" target="124dffb63cd6f5b31f3dda77549f817c" weight="6.0"></edge>
+      <edge id="120" source="46452ae6f265c74e9f5430e0a1824607" target="4659a4dbd837b89b9d2b28b84ba3248f"></edge>
+      <edge id="121" source="403a99f7a48047c571b9e1a93291ec2c" target="4a939a20c7fc7c5d1d01deaec8bd8ad9"></edge>
+      <edge id="122" source="9cdc4b59fa61402444eb6696219bd45c" target="fa8291d4b8b5cb1636330c0eb0ef90eb" weight="26.0"></edge>
+      <edge id="123" source="ae3ab1d2d78b6a322873d07fdbd9a69d" target="c93aeec2c3e974460de3d58b943eb91a"></edge>
+      <edge id="124" source="899350ce500b32b5b81a2a2ada73f5a3" target="b56d770d71976218db2e2a07fffebfe2" weight="10.0"></edge>
+      <edge id="125" source="3bd85152f7288ddac0d666433136adae" target="d3b94b8fc01ab150c54ab2a1916c4f60" weight="5.0"></edge>
+      <edge id="126" source="bdb533317a59778bf653d6085500d96d" target="28abff7b2525d5cbf3d7ea4450a7c07e" weight="7.0"></edge>
+      <edge id="127" source="5a0f6792c9c66e43732d133bbb2e00d7" target="bc8d3f4c8eae9fba54e9da76c6ac5896" weight="2.0"></edge>
+      <edge id="128" source="ef1e4b4a6487a6ac9f387829e5a8fb15" target="c6f116acbfa31be4a1b493c7546a27be" weight="2.0"></edge>
+      <edge id="129" source="6df1746ff979cf206ba966289a662a6b" target="7c86233d121129bd690d51c874fad836" weight="29.0"></edge>
+      <edge id="130" source="7e5da74123fa01f4bd91fd58d6570d05" target="46452ae6f265c74e9f5430e0a1824607"></edge>
+      <edge id="131" source="7426812bdd6beff62632442468becbde" target="71a1cae97cf49122f81cc2a58b5a1f94"></edge>
+      <edge id="132" source="39af29e6c7cb7c85cbba6040d33abf8a" target="b56d770d71976218db2e2a07fffebfe2"></edge>
+      <edge id="133" source="69de3d157e6db6537145f40476ef1cfa" target="0f0a24ddaa40da5cb13dddf9bc331648" weight="4.0"></edge>
+      <edge id="134" source="514dd6424475ef193456d0b9e8330f05" target="28abff7b2525d5cbf3d7ea4450a7c07e" weight="222.0"></edge>
+      <edge id="135" source="ef1e4b4a6487a6ac9f387829e5a8fb15" target="fa8291d4b8b5cb1636330c0eb0ef90eb"></edge>
+      <edge id="136" source="7199f360ead0a51b7753e1d98fafb456" target="f53a7948eef286c3e93801861b92768e" weight="2.0"></edge>
+      <edge id="137" source="996e465904e83ec92caa4d3020c4f4d1" target="c945a2593f297c3b9475c7cfd65963f6" weight="2.0"></edge>
+      <edge id="138" source="2499accf84b83940eee79600b0672d53" target="98631fc03b1e80b108a6e9b5251166d0"></edge>
+      <edge id="139" source="b650e3dbce590e6ef3e309364ab2e007" target="4d9eb0b5b5d55571472de351aa53a179" weight="4.0"></edge>
+      <edge id="140" source="728e7190e33c90995e28aaa1f3d3623a" target="b56d770d71976218db2e2a07fffebfe2" weight="7.0"></edge>
+      <edge id="141" source="70c736b65f5210457b588e199b100f05" target="7e5da74123fa01f4bd91fd58d6570d05"></edge>
+      <edge id="142" source="3f1c8dc5364299cc5accb017f081af0f" target="f096a330b15675704fd167190ba88cab"></edge>
+      <edge id="143" source="736a4defe913d0bfa55ecb09243cb650" target="ef1e4b4a6487a6ac9f387829e5a8fb15" weight="2.0"></edge>
+      <edge id="144" source="fa8291d4b8b5cb1636330c0eb0ef90eb" target="28abff7b2525d5cbf3d7ea4450a7c07e" weight="33.0"></edge>
+      <edge id="145" source="fa8291d4b8b5cb1636330c0eb0ef90eb" target="d3b94b8fc01ab150c54ab2a1916c4f60"></edge>
+      <edge id="146" source="934d5e9c680b4faba59d5ba27a9f7899" target="52df713c4529f82fdc4e23826dcbf5d7"></edge>
+      <edge id="147" source="af5f51e14cb81d4cff35b5f543226bb6" target="1ef437fbaadd5bbe7eee75b4abc0fabf" weight="24.0"></edge>
+      <edge id="148" source="7e5da74123fa01f4bd91fd58d6570d05" target="4659a4dbd837b89b9d2b28b84ba3248f"></edge>
+      <edge id="149" source="795c426ddc525ec373ead1661e4b5e99" target="9391d2f345e4d8f4f04725bf3f38544c" weight="28.0"></edge>
+      <edge id="150" source="70c736b65f5210457b588e199b100f05" target="c945a2593f297c3b9475c7cfd65963f6" weight="2.0"></edge>
+      <edge id="151" source="70c736b65f5210457b588e199b100f05" target="3f1c8dc5364299cc5accb017f081af0f"></edge>
+      <edge id="152" source="d567300ec95277f9f1d3aa7ea44c88a8" target="f17fe63add2f076061da83994f5165e8"></edge>
+      <edge id="153" source="f86b888968bbd3ed52d9c63f863f6b75" target="28abff7b2525d5cbf3d7ea4450a7c07e" weight="2.0"></edge>
+      <edge id="154" source="28abff7b2525d5cbf3d7ea4450a7c07e" target="2f29309be5931a35dfe890f6523d54ce" weight="5.0"></edge>
+      <edge id="155" source="403a99f7a48047c571b9e1a93291ec2c" target="b7acfe270493507d0e7aecca0184a854"></edge>
+      <edge id="156" source="f36f723afc61de83f3f6f9e813db3cf6" target="c25a207116545839caea68de9f9cae9d"></edge>
+      <edge id="157" source="b650e3dbce590e6ef3e309364ab2e007" target="7c86233d121129bd690d51c874fad836" weight="197.0"></edge>
+      <edge id="158" source="996e465904e83ec92caa4d3020c4f4d1" target="c7a76a38aecae30650748dfb3c1a074b"></edge>
+      <edge id="159" source="7426812bdd6beff62632442468becbde" target="5be405328f4cb41e907d06d73ca7bed5"></edge>
+      <edge id="160" source="5a0f6792c9c66e43732d133bbb2e00d7" target="f096a330b15675704fd167190ba88cab"></edge>
+      <edge id="161" source="4a939a20c7fc7c5d1d01deaec8bd8ad9" target="98631fc03b1e80b108a6e9b5251166d0"></edge>
+      <edge id="162" source="92a4edaa651127c4821eb02a2b2953ad" target="99a70cf63e239db76bca5bcd2cb63669" weight="27.0"></edge>
+      <edge id="163" source="7c86233d121129bd690d51c874fad836" target="f6cf12583597bc5be9146315a29783c9" weight="10.0"></edge>
+      <edge id="164" source="c945a2593f297c3b9475c7cfd65963f6" target="c7a76a38aecae30650748dfb3c1a074b" weight="2.0"></edge>
+      <edge id="165" source="39af29e6c7cb7c85cbba6040d33abf8a" target="b650e3dbce590e6ef3e309364ab2e007" weight="3.0"></edge>
+      <edge id="166" source="66c9b72f8b03853813bb7f8a9def94ea" target="fa8291d4b8b5cb1636330c0eb0ef90eb" weight="7.0"></edge>
+      <edge id="167" source="82dde251fabd36f5fd4a27c011a2f31d" target="4659a4dbd837b89b9d2b28b84ba3248f"></edge>
+      <edge id="168" source="5a0f6792c9c66e43732d133bbb2e00d7" target="8e9654c571f19b9bacbb7d95e6f4fa34"></edge>
+      <edge id="169" source="996e465904e83ec92caa4d3020c4f4d1" target="46452ae6f265c74e9f5430e0a1824607"></edge>
+      <edge id="170" source="02db6922659606d1b608991861e574f7" target="d06b0e809c0f1c34d96d9eab50c203e9" weight="2.0"></edge>
+      <edge id="171" source="728e7190e33c90995e28aaa1f3d3623a" target="d4898c42b8830282f83eaa4fef7a9e13" weight="9.0"></edge>
+      <edge id="172" source="1ef437fbaadd5bbe7eee75b4abc0fabf" target="c49831295b806c3cda42ce753233ac4b" weight="10.0"></edge>
+      <edge id="173" source="6df1746ff979cf206ba966289a662a6b" target="aec881431cebbb80f85e71241f6783da" weight="10.0"></edge>
+      <edge id="174" source="124dffb63cd6f5b31f3dda77549f817c" target="c93aeec2c3e974460de3d58b943eb91a" weight="5.0"></edge>
+      <edge id="175" source="bf43da2cb26721e73ddd15e3ad2cff29" target="66c9b72f8b03853813bb7f8a9def94ea" weight="21.0"></edge>
+      <edge id="176" source="52df713c4529f82fdc4e23826dcbf5d7" target="a7947ba0ca48e112b17f9d6f9b6a2407" weight="8.0"></edge>
+      <edge id="177" source="ef1e4b4a6487a6ac9f387829e5a8fb15" target="795c426ddc525ec373ead1661e4b5e99" weight="6.0"></edge>
+      <edge id="178" source="fa8291d4b8b5cb1636330c0eb0ef90eb" target="9e935d3ee65119c1b3e6aff7ae310e4c" weight="13.0"></edge>
+      <edge id="179" source="dcc24239d025e37f292024942f6d49b4" target="a7fd30c1b82faae2fa69c4761c46c8c6" weight="4.0"></edge>
+      <edge id="180" source="4659a4dbd837b89b9d2b28b84ba3248f" target="c7a76a38aecae30650748dfb3c1a074b"></edge>
+      <edge id="181" source="9cdc4b59fa61402444eb6696219bd45c" target="43cd0abe28c05f11d8d8504721f6afaf" weight="6.0"></edge>
+      <edge id="182" source="736a4defe913d0bfa55ecb09243cb650" target="bdb533317a59778bf653d6085500d96d"></edge>
+      <edge id="183" source="899350ce500b32b5b81a2a2ada73f5a3" target="7c86233d121129bd690d51c874fad836" weight="25.0"></edge>
+      <edge id="184" source="82dde251fabd36f5fd4a27c011a2f31d" target="26bee7b60021f616eefa36b2330403f6"></edge>
+      <edge id="185" source="2039f0767c244dcc9f3112a81c00d9b7" target="fa8291d4b8b5cb1636330c0eb0ef90eb" weight="169.0"></edge>
+      <edge id="186" source="b650e3dbce590e6ef3e309364ab2e007" target="f6cf12583597bc5be9146315a29783c9" weight="72.0"></edge>
+      <edge id="187" source="3f1c8dc5364299cc5accb017f081af0f" target="8e9654c571f19b9bacbb7d95e6f4fa34"></edge>
+      <edge id="188" source="795c426ddc525ec373ead1661e4b5e99" target="26eecd307cf6b142851e1d918898c07c" weight="363.0"></edge>
+      <edge id="189" source="67ebacfcaeff8d9d75f4543e5b295a7b" target="98631fc03b1e80b108a6e9b5251166d0"></edge>
+      <edge id="190" source="8e9654c571f19b9bacbb7d95e6f4fa34" target="46452ae6f265c74e9f5430e0a1824607"></edge>
+      <edge id="191" source="ae3ab1d2d78b6a322873d07fdbd9a69d" target="bf43da2cb26721e73ddd15e3ad2cff29" weight="15.0"></edge>
+      <edge id="192" source="c690c03be4dbe516451d804d89ecdb18" target="3f1c8dc5364299cc5accb017f081af0f"></edge>
+      <edge id="193" source="39af29e6c7cb7c85cbba6040d33abf8a" target="a7fd30c1b82faae2fa69c4761c46c8c6"></edge>
+      <edge id="194" source="30fb6d0d00defd9743c9ec9f680eac83" target="28abff7b2525d5cbf3d7ea4450a7c07e"></edge>
+      <edge id="195" source="84aa5c25d1dcb672b966e06d9d675b1f" target="28abff7b2525d5cbf3d7ea4450a7c07e" weight="14.0"></edge>
+      <edge id="196" source="4659a4dbd837b89b9d2b28b84ba3248f" target="cfb62327e685bc076d5296698ddfd206"></edge>
+      <edge id="197" source="018fcd7a775cda3c5b397a4ebe4dc628" target="73ee63fa69484a8ac3ea97b9813d61e0"></edge>
+      <edge id="198" source="934d5e9c680b4faba59d5ba27a9f7899" target="bc824fb5e8f78582baedbbe330c96d09" weight="2.0"></edge>
+      <edge id="199" source="8081fbfa8ceb55acc911f00035ae33a7" target="ef1e4b4a6487a6ac9f387829e5a8fb15"></edge>
+      <edge id="200" source="9cdc4b59fa61402444eb6696219bd45c" target="37f9335403948d59fe6c4cb54cc7e44d"></edge>
+      <edge id="201" source="604b363c8d3dd8cb04d8cbca2ddacf3a" target="4a939a20c7fc7c5d1d01deaec8bd8ad9"></edge>
+      <edge id="202" source="f096a330b15675704fd167190ba88cab" target="82dde251fabd36f5fd4a27c011a2f31d"></edge>
+      <edge id="203" source="934d5e9c680b4faba59d5ba27a9f7899" target="3d44e8a71b9702407be9a89f370e1522" weight="8.0"></edge>
+      <edge id="204" source="6eaa00c8236cb3c59d071d8646c0b142" target="28abff7b2525d5cbf3d7ea4450a7c07e"></edge>
+      <edge id="205" source="5be405328f4cb41e907d06d73ca7bed5" target="26eecd307cf6b142851e1d918898c07c" weight="3.0"></edge>
+      <edge id="206" source="604b363c8d3dd8cb04d8cbca2ddacf3a" target="403a99f7a48047c571b9e1a93291ec2c"></edge>
+      <edge id="207" source="fa8291d4b8b5cb1636330c0eb0ef90eb" target="795c426ddc525ec373ead1661e4b5e99" weight="117.0"></edge>
+      <edge id="208" source="aec881431cebbb80f85e71241f6783da" target="f6cf12583597bc5be9146315a29783c9" weight="4.0"></edge>
+      <edge id="209" source="bf43da2cb26721e73ddd15e3ad2cff29" target="39af29e6c7cb7c85cbba6040d33abf8a" weight="3.0"></edge>
+      <edge id="210" source="13096ca132a4e871eb10b6537fd50305" target="f86b888968bbd3ed52d9c63f863f6b75" weight="2.0"></edge>
+      <edge id="211" source="3f1c8dc5364299cc5accb017f081af0f" target="c945a2593f297c3b9475c7cfd65963f6" weight="2.0"></edge>
+      <edge id="212" source="fe24742f143528a54fd341b5dead5977" target="9526ca09472cf18b6dd6c01b59b09aa9"></edge>
+      <edge id="213" source="9cdc4b59fa61402444eb6696219bd45c" target="8081fbfa8ceb55acc911f00035ae33a7" weight="3.0"></edge>
+      <edge id="214" source="ae3ab1d2d78b6a322873d07fdbd9a69d" target="d3b94b8fc01ab150c54ab2a1916c4f60"></edge>
+      <edge id="215" source="c690c03be4dbe516451d804d89ecdb18" target="bc8d3f4c8eae9fba54e9da76c6ac5896"></edge>
+      <edge id="216" source="b5779da5d110084822ec588176131f20" target="b11ffd7f09f52f696cb20ce915a10a80" weight="4.0"></edge>
+      <edge id="217" source="728e7190e33c90995e28aaa1f3d3623a" target="6df1746ff979cf206ba966289a662a6b" weight="29.0"></edge>
+      <edge id="218" source="6df1746ff979cf206ba966289a662a6b" target="a7fd30c1b82faae2fa69c4761c46c8c6" weight="10.0"></edge>
+      <edge id="219" source="7e5da74123fa01f4bd91fd58d6570d05" target="f096a330b15675704fd167190ba88cab"></edge>
+      <edge id="220" source="514dd6424475ef193456d0b9e8330f05" target="bc824fb5e8f78582baedbbe330c96d09" weight="30.0"></edge>
+      <edge id="221" source="70c736b65f5210457b588e199b100f05" target="5a0f6792c9c66e43732d133bbb2e00d7"></edge>
+      <edge id="222" source="67ebacfcaeff8d9d75f4543e5b295a7b" target="4a939a20c7fc7c5d1d01deaec8bd8ad9"></edge>
+      <edge id="223" source="728e7190e33c90995e28aaa1f3d3623a" target="f6cf12583597bc5be9146315a29783c9" weight="6.0"></edge>
+      <edge id="224" source="ae3ab1d2d78b6a322873d07fdbd9a69d" target="eac5dccb24bc4415b75691610781e81c" weight="7.0"></edge>
+      <edge id="225" source="afc7950a79d300b4b34da7c676cc6b71" target="eabed815c2650c7a7d1c0ad1e5919f43" weight="2.0"></edge>
+      <edge id="226" source="2499accf84b83940eee79600b0672d53" target="b7acfe270493507d0e7aecca0184a854"></edge>
+      <edge id="227" source="f36f723afc61de83f3f6f9e813db3cf6" target="67ebacfcaeff8d9d75f4543e5b295a7b"></edge>
+      <edge id="228" source="73ee63fa69484a8ac3ea97b9813d61e0" target="0f0a24ddaa40da5cb13dddf9bc331648"></edge>
+      <edge id="229" source="4a939a20c7fc7c5d1d01deaec8bd8ad9" target="c25a207116545839caea68de9f9cae9d"></edge>
+      <edge id="230" source="67ebacfcaeff8d9d75f4543e5b295a7b" target="c25a207116545839caea68de9f9cae9d"></edge>
+      <edge id="231" source="f096a330b15675704fd167190ba88cab" target="8e9654c571f19b9bacbb7d95e6f4fa34"></edge>
+      <edge id="232" source="525fcc62bd68d20012147e6e49660eaf" target="26bee7b60021f616eefa36b2330403f6"></edge>
+      <edge id="233" source="604b363c8d3dd8cb04d8cbca2ddacf3a" target="fe24742f143528a54fd341b5dead5977"></edge>
+      <edge id="234" source="3f1c8dc5364299cc5accb017f081af0f" target="26bee7b60021f616eefa36b2330403f6"></edge>
+      <edge id="235" source="b56cfbf7f1394d70160a599d883f69a0" target="e205638781e1d1fe21803c7924cda561" weight="3.0"></edge>
+      <edge id="236" source="66c9b72f8b03853813bb7f8a9def94ea" target="c93aeec2c3e974460de3d58b943eb91a" weight="14.0"></edge>
+      <edge id="237" source="795c426ddc525ec373ead1661e4b5e99" target="71a1cae97cf49122f81cc2a58b5a1f94" weight="121.0"></edge>
+      <edge id="238" source="46452ae6f265c74e9f5430e0a1824607" target="c7a76a38aecae30650748dfb3c1a074b"></edge>
+      <edge id="239" source="b7acfe270493507d0e7aecca0184a854" target="98631fc03b1e80b108a6e9b5251166d0"></edge>
+      <edge id="240" source="3f1c8dc5364299cc5accb017f081af0f" target="bc8d3f4c8eae9fba54e9da76c6ac5896" weight="2.0"></edge>
+      <edge id="241" source="5be405328f4cb41e907d06d73ca7bed5" target="84aa5c25d1dcb672b966e06d9d675b1f" weight="5.0"></edge>
+      <edge id="242" source="728e7190e33c90995e28aaa1f3d3623a" target="7c86233d121129bd690d51c874fad836" weight="21.0"></edge>
+      <edge id="243" source="7debf3c6e4483272ec52baa6bf500aec" target="cb56df0805b0fd15389ad72b72e2d056"></edge>
+      <edge id="244" source="70c736b65f5210457b588e199b100f05" target="f096a330b15675704fd167190ba88cab"></edge>
+      <edge id="245" source="124dffb63cd6f5b31f3dda77549f817c" target="d3b94b8fc01ab150c54ab2a1916c4f60" weight="6.0"></edge>
+      <edge id="246" source="c25a207116545839caea68de9f9cae9d" target="98631fc03b1e80b108a6e9b5251166d0"></edge>
+      <edge id="247" source="c3cea7ed11227fe94bee658919573c83" target="cb56df0805b0fd15389ad72b72e2d056" weight="20.0"></edge>
+      <edge id="248" source="bc8d3f4c8eae9fba54e9da76c6ac5896" target="4659a4dbd837b89b9d2b28b84ba3248f" weight="2.0"></edge>
+      <edge id="249" source="525fcc62bd68d20012147e6e49660eaf" target="f096a330b15675704fd167190ba88cab"></edge>
+      <edge id="250" source="43cd0abe28c05f11d8d8504721f6afaf" target="8081fbfa8ceb55acc911f00035ae33a7" weight="5.0"></edge>
+      <edge id="251" source="b650e3dbce590e6ef3e309364ab2e007" target="aec881431cebbb80f85e71241f6783da" weight="67.0"></edge>
+      <edge id="252" source="525fcc62bd68d20012147e6e49660eaf" target="82dde251fabd36f5fd4a27c011a2f31d"></edge>
+      <edge id="253" source="8e9654c571f19b9bacbb7d95e6f4fa34" target="c7a76a38aecae30650748dfb3c1a074b"></edge>
+      <edge id="254" source="82dde251fabd36f5fd4a27c011a2f31d" target="bc8d3f4c8eae9fba54e9da76c6ac5896" weight="2.0"></edge>
+      <edge id="255" source="b8aa95103a418870afd74bb35a1e141e" target="9526ca09472cf18b6dd6c01b59b09aa9"></edge>
+      <edge id="256" source="f096a330b15675704fd167190ba88cab" target="26bee7b60021f616eefa36b2330403f6"></edge>
+      <edge id="257" source="d263830d98cba0cd9de3c2c409c2c40b" target="e205638781e1d1fe21803c7924cda561" weight="11.0"></edge>
+      <edge id="258" source="b56d770d71976218db2e2a07fffebfe2" target="a7fd30c1b82faae2fa69c4761c46c8c6" weight="4.0"></edge>
+      <edge id="259" source="728e7190e33c90995e28aaa1f3d3623a" target="899350ce500b32b5b81a2a2ada73f5a3" weight="18.0"></edge>
+      <edge id="260" source="26eecd307cf6b142851e1d918898c07c" target="71a1cae97cf49122f81cc2a58b5a1f94" weight="3.0"></edge>
+      <edge id="261" source="bdb533317a59778bf653d6085500d96d" target="dd3bf78cf0c523094aa211ee7c4d4d6c"></edge>
+      <edge id="262" source="eac5dccb24bc4415b75691610781e81c" target="caa472b589c2f6a627253af6b4ac0800"></edge>
+      <edge id="263" source="3bd85152f7288ddac0d666433136adae" target="caa472b589c2f6a627253af6b4ac0800" weight="5.0"></edge>
+      <edge id="264" source="f36f723afc61de83f3f6f9e813db3cf6" target="403a99f7a48047c571b9e1a93291ec2c"></edge>
+      <edge id="265" source="bc8d3f4c8eae9fba54e9da76c6ac5896" target="46452ae6f265c74e9f5430e0a1824607" weight="2.0"></edge>
+      <edge id="266" source="3f1c8dc5364299cc5accb017f081af0f" target="7e5da74123fa01f4bd91fd58d6570d05"></edge>
+      <edge id="267" source="eac5dccb24bc4415b75691610781e81c" target="3bd85152f7288ddac0d666433136adae" weight="45.0"></edge>
+      <edge id="268" source="2499accf84b83940eee79600b0672d53" target="05b43d8865844a10a862ae60af95991c"></edge>
+      <edge id="269" source="899350ce500b32b5b81a2a2ada73f5a3" target="a7fd30c1b82faae2fa69c4761c46c8c6" weight="10.0"></edge>
+      <edge id="270" source="fa8291d4b8b5cb1636330c0eb0ef90eb" target="c93aeec2c3e974460de3d58b943eb91a"></edge>
+      <edge id="271" source="73ee63fa69484a8ac3ea97b9813d61e0" target="69de3d157e6db6537145f40476ef1cfa" weight="4.0"></edge>
+      <edge id="272" source="124dffb63cd6f5b31f3dda77549f817c" target="28abff7b2525d5cbf3d7ea4450a7c07e" weight="42.0"></edge>
+      <edge id="273" source="ae3ab1d2d78b6a322873d07fdbd9a69d" target="39af29e6c7cb7c85cbba6040d33abf8a"></edge>
+      <edge id="274" source="66c9b72f8b03853813bb7f8a9def94ea" target="124dffb63cd6f5b31f3dda77549f817c" weight="42.0"></edge>
+      <edge id="275" source="fe24742f143528a54fd341b5dead5977" target="67ebacfcaeff8d9d75f4543e5b295a7b"></edge>
+      <edge id="276" source="018fcd7a775cda3c5b397a4ebe4dc628" target="0f0a24ddaa40da5cb13dddf9bc331648"></edge>
+      <edge id="277" source="604b363c8d3dd8cb04d8cbca2ddacf3a" target="9526ca09472cf18b6dd6c01b59b09aa9"></edge>
+      <edge id="278" source="ef1e4b4a6487a6ac9f387829e5a8fb15" target="28abff7b2525d5cbf3d7ea4450a7c07e" weight="32.0"></edge>
+      <edge id="279" source="3f1c8dc5364299cc5accb017f081af0f" target="4659a4dbd837b89b9d2b28b84ba3248f"></edge>
+      <edge id="280" source="2499accf84b83940eee79600b0672d53" target="b8aa95103a418870afd74bb35a1e141e"></edge>
+      <edge id="281" source="7426812bdd6beff62632442468becbde" target="26eecd307cf6b142851e1d918898c07c" weight="3.0"></edge>
+      <edge id="282" source="b8aa95103a418870afd74bb35a1e141e" target="4a939a20c7fc7c5d1d01deaec8bd8ad9"></edge>
+      <edge id="283" source="8e9654c571f19b9bacbb7d95e6f4fa34" target="26bee7b60021f616eefa36b2330403f6"></edge>
+      <edge id="284" source="604b363c8d3dd8cb04d8cbca2ddacf3a" target="c25a207116545839caea68de9f9cae9d"></edge>
+      <edge id="285" source="8d017884ac37c81a9056cae903b9d025" target="3bd85152f7288ddac0d666433136adae" weight="6.0"></edge>
+      <edge id="286" source="2499accf84b83940eee79600b0672d53" target="403a99f7a48047c571b9e1a93291ec2c"></edge>
+      <edge id="287" source="d263830d98cba0cd9de3c2c409c2c40b" target="49113560c80c62a2ce06d8965b749d9f" weight="10.0"></edge>
+      <edge id="288" source="124dffb63cd6f5b31f3dda77549f817c" target="fa8291d4b8b5cb1636330c0eb0ef90eb" weight="6.0"></edge>
+      <edge id="289" source="f36f723afc61de83f3f6f9e813db3cf6" target="9526ca09472cf18b6dd6c01b59b09aa9"></edge>
+      <edge id="290" source="55f85530231475c234a57958a304f62e" target="6c1149f802c616f063ca2bd8de974811" weight="24.0"></edge>
+      <edge id="291" source="018fcd7a775cda3c5b397a4ebe4dc628" target="69de3d157e6db6537145f40476ef1cfa" weight="4.0"></edge>
+      <edge id="292" source="39af29e6c7cb7c85cbba6040d33abf8a" target="aec881431cebbb80f85e71241f6783da"></edge>
+      <edge id="293" source="9cdc4b59fa61402444eb6696219bd45c" target="28abff7b2525d5cbf3d7ea4450a7c07e" weight="37.0"></edge>
+      <edge id="294" source="b56d770d71976218db2e2a07fffebfe2" target="aec881431cebbb80f85e71241f6783da" weight="4.0"></edge>
+      <edge id="295" source="b650e3dbce590e6ef3e309364ab2e007" target="8d933937bd94f6b9c1b3fd7477111fe9" weight="4.0"></edge>
+      <edge id="296" source="fa8291d4b8b5cb1636330c0eb0ef90eb" target="71a1cae97cf49122f81cc2a58b5a1f94"></edge>
+      <edge id="297" source="5a0f6792c9c66e43732d133bbb2e00d7" target="c7a76a38aecae30650748dfb3c1a074b"></edge>
+      <edge id="298" source="ae3ab1d2d78b6a322873d07fdbd9a69d" target="124dffb63cd6f5b31f3dda77549f817c" weight="18.0"></edge>
+      <edge id="299" source="7e5da74123fa01f4bd91fd58d6570d05" target="c945a2593f297c3b9475c7cfd65963f6" weight="2.0"></edge>
+      <edge id="300" source="124dffb63cd6f5b31f3dda77549f817c" target="3bd85152f7288ddac0d666433136adae" weight="36.0"></edge>
+      <edge id="301" source="43cd0abe28c05f11d8d8504721f6afaf" target="fa8291d4b8b5cb1636330c0eb0ef90eb" weight="17.0"></edge>
+      <edge id="302" source="3d44e8a71b9702407be9a89f370e1522" target="52df713c4529f82fdc4e23826dcbf5d7" weight="8.0"></edge>
+      <edge id="303" source="dcc24239d025e37f292024942f6d49b4" target="7c86233d121129bd690d51c874fad836" weight="12.0"></edge>
+      <edge id="304" source="2499accf84b83940eee79600b0672d53" target="c25a207116545839caea68de9f9cae9d"></edge>
+      <edge id="305" source="9cdc4b59fa61402444eb6696219bd45c" target="ef1e4b4a6487a6ac9f387829e5a8fb15"></edge>
+      <edge id="306" source="70c736b65f5210457b588e199b100f05" target="c7a76a38aecae30650748dfb3c1a074b"></edge>
+      <edge id="307" source="996e465904e83ec92caa4d3020c4f4d1" target="bc8d3f4c8eae9fba54e9da76c6ac5896" weight="2.0"></edge>
+      <edge id="308" source="8081fbfa8ceb55acc911f00035ae33a7" target="fa8291d4b8b5cb1636330c0eb0ef90eb" weight="13.0"></edge>
+      <edge id="309" source="c6f116acbfa31be4a1b493c7546a27be" target="28abff7b2525d5cbf3d7ea4450a7c07e" weight="96.0"></edge>
+      <edge id="310" source="fa8291d4b8b5cb1636330c0eb0ef90eb" target="eac5dccb24bc4415b75691610781e81c" weight="7.0"></edge>
+      <edge id="311" source="3f1c8dc5364299cc5accb017f081af0f" target="c7a76a38aecae30650748dfb3c1a074b"></edge>
+      <edge id="312" source="66c9b72f8b03853813bb7f8a9def94ea" target="d3b94b8fc01ab150c54ab2a1916c4f60" weight="7.0"></edge>
+      <edge id="313" source="f096a330b15675704fd167190ba88cab" target="bc8d3f4c8eae9fba54e9da76c6ac5896" weight="2.0"></edge>
+      <edge id="314" source="7426812bdd6beff62632442468becbde" target="9391d2f345e4d8f4f04725bf3f38544c" weight="4.0"></edge>
+      <edge id="315" source="1ef437fbaadd5bbe7eee75b4abc0fabf" target="8d933937bd94f6b9c1b3fd7477111fe9" weight="8.0"></edge>
+      <edge id="316" source="124dffb63cd6f5b31f3dda77549f817c" target="eac5dccb24bc4415b75691610781e81c" weight="42.0"></edge>
+      <edge id="317" source="30fb6d0d00defd9743c9ec9f680eac83" target="49113560c80c62a2ce06d8965b749d9f" weight="3.0"></edge>
+      <edge id="318" source="3627d04d0ab33887e89d3bea1677667f" target="ad41a236ac075ecc2514dc2e0eca445f" weight="40.0"></edge>
+      <edge id="319" source="dcc24239d025e37f292024942f6d49b4" target="6df1746ff979cf206ba966289a662a6b" weight="24.0"></edge>
+      <edge id="320" source="7cd80966f74d3718c4a25313c74fa87b" target="d4898c42b8830282f83eaa4fef7a9e13" weight="7.0"></edge>
+      <edge id="321" source="9526ca09472cf18b6dd6c01b59b09aa9" target="c25a207116545839caea68de9f9cae9d"></edge>
+      <edge id="322" source="4659a4dbd837b89b9d2b28b84ba3248f" target="c2ce9b20c548983a55e0f66f59c84a23"></edge>
+      <edge id="323" source="7e5da74123fa01f4bd91fd58d6570d05" target="82dde251fabd36f5fd4a27c011a2f31d"></edge>
+      <edge id="324" source="bf43da2cb26721e73ddd15e3ad2cff29" target="fa8291d4b8b5cb1636330c0eb0ef90eb" weight="3.0"></edge>
+      <edge id="325" source="3c2b46a2a93180886e2a758effdb4adb" target="d4898c42b8830282f83eaa4fef7a9e13" weight="7.0"></edge>
+      <edge id="326" source="6df1746ff979cf206ba966289a662a6b" target="899350ce500b32b5b81a2a2ada73f5a3" weight="29.0"></edge>
+      <edge id="327" source="2499accf84b83940eee79600b0672d53" target="9526ca09472cf18b6dd6c01b59b09aa9"></edge>
+      <edge id="328" source="403a99f7a48047c571b9e1a93291ec2c" target="b8aa95103a418870afd74bb35a1e141e"></edge>
+      <edge id="329" source="b650e3dbce590e6ef3e309364ab2e007" target="a7fd30c1b82faae2fa69c4761c46c8c6" weight="67.0"></edge>
+      <edge id="330" source="3f1c8dc5364299cc5accb017f081af0f" target="82dde251fabd36f5fd4a27c011a2f31d"></edge>
+      <edge id="331" source="728e7190e33c90995e28aaa1f3d3623a" target="a7fd30c1b82faae2fa69c4761c46c8c6" weight="7.0"></edge>
+      <edge id="332" source="ae3ab1d2d78b6a322873d07fdbd9a69d" target="66c9b72f8b03853813bb7f8a9def94ea" weight="31.0"></edge>
+      <edge id="333" source="bc8d3f4c8eae9fba54e9da76c6ac5896" target="c7a76a38aecae30650748dfb3c1a074b" weight="2.0"></edge>
+      <edge id="334" source="604b363c8d3dd8cb04d8cbca2ddacf3a" target="67ebacfcaeff8d9d75f4543e5b295a7b"></edge>
+      <edge id="335" source="c945a2593f297c3b9475c7cfd65963f6" target="bc8d3f4c8eae9fba54e9da76c6ac5896" weight="4.0"></edge>
+      <edge id="336" source="ae3ab1d2d78b6a322873d07fdbd9a69d" target="3bd85152f7288ddac0d666433136adae" weight="5.0"></edge>
+      <edge id="337" source="fa8291d4b8b5cb1636330c0eb0ef90eb" target="3bd85152f7288ddac0d666433136adae" weight="6.0"></edge>
+      <edge id="338" source="6df1746ff979cf206ba966289a662a6b" target="09716c9b3ed739d8c361eca70ca5c63a" weight="40.0"></edge>
+      <edge id="339" source="70c736b65f5210457b588e199b100f05" target="bc8d3f4c8eae9fba54e9da76c6ac5896" weight="2.0"></edge>
+      <edge id="340" source="b8aa95103a418870afd74bb35a1e141e" target="c25a207116545839caea68de9f9cae9d"></edge>
+      <edge id="341" source="6df1746ff979cf206ba966289a662a6b" target="f6cf12583597bc5be9146315a29783c9" weight="10.0"></edge>
+      <edge id="342" source="6df1746ff979cf206ba966289a662a6b" target="b56d770d71976218db2e2a07fffebfe2" weight="10.0"></edge>
+      <edge id="343" source="996e465904e83ec92caa4d3020c4f4d1" target="f096a330b15675704fd167190ba88cab"></edge>
+      <edge id="344" source="99a70cf63e239db76bca5bcd2cb63669" target="ca1ec7d101e3c67a091bb09d35417a90" weight="27.0"></edge>
+      <edge id="345" source="f096a330b15675704fd167190ba88cab" target="4659a4dbd837b89b9d2b28b84ba3248f"></edge>
+      <edge id="346" source="525fcc62bd68d20012147e6e49660eaf" target="8e9654c571f19b9bacbb7d95e6f4fa34"></edge>
+      <edge id="347" source="f36f723afc61de83f3f6f9e813db3cf6" target="4a939a20c7fc7c5d1d01deaec8bd8ad9"></edge>
+      <edge id="348" source="b02e57564eddb13b137d283063942c24" target="2039f0767c244dcc9f3112a81c00d9b7" weight="13.0"></edge>
+      <edge id="349" source="05b43d8865844a10a862ae60af95991c" target="403a99f7a48047c571b9e1a93291ec2c"></edge>
+      <edge id="350" source="55f85530231475c234a57958a304f62e" target="7936c5137b8c700bbb79d6d618a56784" weight="12.0"></edge>
+      <edge id="351" source="7cd80966f74d3718c4a25313c74fa87b" target="48cbe0e40ab46835678245f03bdf07cd"></edge>
+      <edge id="352" source="dcc24239d025e37f292024942f6d49b4" target="899350ce500b32b5b81a2a2ada73f5a3" weight="8.0"></edge>
+      <edge id="353" source="7e5da74123fa01f4bd91fd58d6570d05" target="bc8d3f4c8eae9fba54e9da76c6ac5896" weight="2.0"></edge>
+      <edge id="354" source="13096ca132a4e871eb10b6537fd50305" target="7d97ce157ff505df600655c21aadba09"></edge>
+      <edge id="355" source="dcc24239d025e37f292024942f6d49b4" target="aec881431cebbb80f85e71241f6783da" weight="4.0"></edge>
+      <edge id="356" source="fa8291d4b8b5cb1636330c0eb0ef90eb" target="26eecd307cf6b142851e1d918898c07c" weight="3.0"></edge>
+      <edge id="357" source="71a1cae97cf49122f81cc2a58b5a1f94" target="9391d2f345e4d8f4f04725bf3f38544c" weight="3.0"></edge>
+      <edge id="358" source="c690c03be4dbe516451d804d89ecdb18" target="70c736b65f5210457b588e199b100f05"></edge>
+      <edge id="359" source="e6c6dddcc1b8686020bf002c15768b39" target="d4898c42b8830282f83eaa4fef7a9e13" weight="172.0"></edge>
+      <edge id="360" source="5a0f6792c9c66e43732d133bbb2e00d7" target="46452ae6f265c74e9f5430e0a1824607"></edge>
+      <edge id="361" source="124dffb63cd6f5b31f3dda77549f817c" target="71a1cae97cf49122f81cc2a58b5a1f94" weight="6.0"></edge>
+      <edge id="362" source="5a0f6792c9c66e43732d133bbb2e00d7" target="525fcc62bd68d20012147e6e49660eaf"></edge>
+      <edge id="363" source="70c736b65f5210457b588e199b100f05" target="525fcc62bd68d20012147e6e49660eaf"></edge>
+      <edge id="364" source="ae3ab1d2d78b6a322873d07fdbd9a69d" target="fa8291d4b8b5cb1636330c0eb0ef90eb" weight="3.0"></edge>
+      <edge id="365" source="afc7950a79d300b4b34da7c676cc6b71" target="23e0095eea16390ed9a28db2d74bfc89"></edge>
+      <edge id="366" source="39af29e6c7cb7c85cbba6040d33abf8a" target="aee12f48934e14589a2a8e189aa68c2c"></edge>
+      <edge id="367" source="bc8d3f4c8eae9fba54e9da76c6ac5896" target="8e9654c571f19b9bacbb7d95e6f4fa34" weight="2.0"></edge>
+      <edge id="368" source="67ebacfcaeff8d9d75f4543e5b295a7b" target="9526ca09472cf18b6dd6c01b59b09aa9"></edge>
+      <edge id="369" source="728e7190e33c90995e28aaa1f3d3623a" target="aec881431cebbb80f85e71241f6783da" weight="7.0"></edge>
+      <edge id="370" source="525fcc62bd68d20012147e6e49660eaf" target="4659a4dbd837b89b9d2b28b84ba3248f"></edge>
+      <edge id="371" source="736a4defe913d0bfa55ecb09243cb650" target="28abff7b2525d5cbf3d7ea4450a7c07e" weight="7.0"></edge>
+      <edge id="372" source="f36f723afc61de83f3f6f9e813db3cf6" target="b8aa95103a418870afd74bb35a1e141e"></edge>
+      <edge id="373" source="43cd0abe28c05f11d8d8504721f6afaf" target="28abff7b2525d5cbf3d7ea4450a7c07e" weight="80.0"></edge>
+      <edge id="374" source="c945a2593f297c3b9475c7cfd65963f6" target="46452ae6f265c74e9f5430e0a1824607" weight="2.0"></edge>
+      <edge id="375" source="996e465904e83ec92caa4d3020c4f4d1" target="525fcc62bd68d20012147e6e49660eaf"></edge>
+      <edge id="376" source="43cd0abe28c05f11d8d8504721f6afaf" target="c6f116acbfa31be4a1b493c7546a27be" weight="9.0"></edge>
+      <edge id="377" source="403a99f7a48047c571b9e1a93291ec2c" target="67ebacfcaeff8d9d75f4543e5b295a7b"></edge>
+      <edge id="378" source="5a0f6792c9c66e43732d133bbb2e00d7" target="c945a2593f297c3b9475c7cfd65963f6" weight="2.0"></edge>
+      <edge id="379" source="f36f723afc61de83f3f6f9e813db3cf6" target="05b43d8865844a10a862ae60af95991c"></edge>
+      <edge id="380" source="aee12f48934e14589a2a8e189aa68c2c" target="b7acfe270493507d0e7aecca0184a854"></edge>
+      <edge id="381" source="39af29e6c7cb7c85cbba6040d33abf8a" target="7c86233d121129bd690d51c874fad836" weight="2.0"></edge>
+      <edge id="382" source="66c9b72f8b03853813bb7f8a9def94ea" target="3bd85152f7288ddac0d666433136adae" weight="35.0"></edge>
+      <edge id="383" source="899350ce500b32b5b81a2a2ada73f5a3" target="f6cf12583597bc5be9146315a29783c9" weight="10.0"></edge>
+      <edge id="384" source="403a99f7a48047c571b9e1a93291ec2c" target="c25a207116545839caea68de9f9cae9d"></edge>
+      <edge id="385" source="b02e57564eddb13b137d283063942c24" target="fa8291d4b8b5cb1636330c0eb0ef90eb" weight="13.0"></edge>
+      <edge id="386" source="02db6922659606d1b608991861e574f7" target="393e6160d47b3173bad1704d5755da01" weight="2.0"></edge>
+      <edge id="387" source="48cbe0e40ab46835678245f03bdf07cd" target="d4898c42b8830282f83eaa4fef7a9e13"></edge>
+      <edge id="388" source="fe24742f143528a54fd341b5dead5977" target="c25a207116545839caea68de9f9cae9d"></edge>
+      <edge id="389" source="604b363c8d3dd8cb04d8cbca2ddacf3a" target="2499accf84b83940eee79600b0672d53"></edge>
+      <edge id="390" source="cb2a2a0e1171ffaa8347f57ed6802fcd" target="1e659a8caf3591d38ba113b569864cc2"></edge>
+      <edge id="391" source="f86b888968bbd3ed52d9c63f863f6b75" target="7d97ce157ff505df600655c21aadba09" weight="2.0"></edge>
+      <edge id="392" source="c945a2593f297c3b9475c7cfd65963f6" target="4659a4dbd837b89b9d2b28b84ba3248f" weight="2.0"></edge>
+      <edge id="393" source="525fcc62bd68d20012147e6e49660eaf" target="bc8d3f4c8eae9fba54e9da76c6ac5896" weight="2.0"></edge>
+      <edge id="394" source="43cd0abe28c05f11d8d8504721f6afaf" target="124dffb63cd6f5b31f3dda77549f817c" weight="24.0"></edge>
+      <edge id="395" source="fe24742f143528a54fd341b5dead5977" target="4a939a20c7fc7c5d1d01deaec8bd8ad9"></edge>
+      <edge id="396" source="124dffb63cd6f5b31f3dda77549f817c" target="795c426ddc525ec373ead1661e4b5e99" weight="702.0"></edge>
+      <edge id="397" source="899350ce500b32b5b81a2a2ada73f5a3" target="aec881431cebbb80f85e71241f6783da" weight="10.0"></edge>
+      <edge id="398" source="70c736b65f5210457b588e199b100f05" target="46452ae6f265c74e9f5430e0a1824607"></edge>
+      <edge id="399" source="604b363c8d3dd8cb04d8cbca2ddacf3a" target="98631fc03b1e80b108a6e9b5251166d0"></edge>
+      <edge id="400" source="d4898c42b8830282f83eaa4fef7a9e13" target="0347d4e08ea0ccb2a1dce08b666bc4ab" weight="410.0"></edge>
+      <edge id="401" source="2499accf84b83940eee79600b0672d53" target="fe24742f143528a54fd341b5dead5977"></edge>
+      <edge id="402" source="0c074ac3f95a4ead28c23864ba5f89b5" target="98631fc03b1e80b108a6e9b5251166d0"></edge>
+      <edge id="403" source="b56cfbf7f1394d70160a599d883f69a0" target="49113560c80c62a2ce06d8965b749d9f" weight="4.0"></edge>
+      <edge id="404" source="aec881431cebbb80f85e71241f6783da" target="a7fd30c1b82faae2fa69c4761c46c8c6" weight="4.0"></edge>
+      <edge id="405" source="1ef437fbaadd5bbe7eee75b4abc0fabf" target="d4898c42b8830282f83eaa4fef7a9e13" weight="2.0"></edge>
+      <edge id="406" source="fe24742f143528a54fd341b5dead5977" target="b8aa95103a418870afd74bb35a1e141e"></edge>
+      <edge id="407" source="c690c03be4dbe516451d804d89ecdb18" target="f096a330b15675704fd167190ba88cab"></edge>
+      <edge id="408" source="b650e3dbce590e6ef3e309364ab2e007" target="b56d770d71976218db2e2a07fffebfe2" weight="65.0"></edge>
+      <edge id="409" source="8081fbfa8ceb55acc911f00035ae33a7" target="28abff7b2525d5cbf3d7ea4450a7c07e" weight="29.0"></edge>
+      <edge id="410" source="525fcc62bd68d20012147e6e49660eaf" target="46452ae6f265c74e9f5430e0a1824607"></edge>
+      <edge id="411" source="fe24742f143528a54fd341b5dead5977" target="403a99f7a48047c571b9e1a93291ec2c"></edge>
+      <edge id="412" source="70c736b65f5210457b588e199b100f05" target="8e9654c571f19b9bacbb7d95e6f4fa34"></edge>
+      <edge id="413" source="c2ce9b20c548983a55e0f66f59c84a23" target="cfb62327e685bc076d5296698ddfd206"></edge>
+      <edge id="414" source="604b363c8d3dd8cb04d8cbca2ddacf3a" target="b8aa95103a418870afd74bb35a1e141e"></edge>
+    </edges>
+  </graph>
+</gexf>

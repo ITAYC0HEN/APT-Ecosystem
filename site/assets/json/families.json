@@ -1,0 +1,1386 @@
+{
+  "actors": {
+    "Sofacy": {
+      "aliases": [
+        "Sednit",
+        "APT28",
+        "Fancy Bear"
+      ],
+      "affiliation": "GRU: Unit 26165, Unit 74455",
+      "targets": "",
+      "first_seen": "c. 2004-2007",
+      "similarities": "",
+      "references": [
+        {
+          "title": "International Security and Estonia - Estonian Foreign Intelligence Service",
+          "link": "https://www.valisluureamet.ee/pdf/raport-2018-ENG-web.pdf"
+        },
+        {
+          "title": "Sofacy - MITRE ATT&CK",
+          "link": "https://attack.mitre.org/groups/G0007/"
+        },
+        {
+          "title": "Intrusion into the Democratic National Committee - Crowdstrike",
+          "link": "https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/"
+        },
+        {
+          "title": "APT28: A Window into Russia's Cyber Espionage Operations? - FireEye",
+          "link": "https://www2.fireeye.com/rs/fireye/images/rpt-apt28.pdf"
+        },
+        {
+          "title": "Sofacy APT hits high profile targets with updated toolset - Kaspersky",
+          "link": "https://securelist.com/sofacy-apt-hits-high-profile-targets-with-updated-toolset/"
+        }
+      ],
+      "description": "Sofacy is a russian cyber espionage group which is associated with Main Intelligence Directorate of the General Staff of the Armed Forces of the Russian Federation.\nThis APT groups is known to target sensitive organizations and personnels world-wide including military, goverment and secrity organizations.\nSofacy is associated with many prominent attacks such as the attack on Hillary Clinton's campaign, the French television station TV5Monde, the White House, NATO, the Democratic National Committee, the Organization for Security and Co-operation in Europe and the campaign of French presidential candidate Emmanuel Macron."
+    },
+    "Turla": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "affiliation": "",
+      "targets": "",
+      "first_seen": "",
+      "similarities": "",
+      "references": [
+        "https://",
+        "https://"
+      ]
+    },
+    "ACTOR_NAME": {
+      "aliases": [
+        "",
+        "",
+        ""
+      ],
+      "affiliation": "",
+      "targets": "",
+      "first_seen": "",
+      "actor": "Sofacy",
+      "similarities": "",
+      "references": [
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ],
+      "description": ""
+    },
+    "ACTOR_NAME2": {
+      "aliases": [
+        "",
+        "",
+        ""
+      ],
+      "affiliation": "",
+      "targets": "",
+      "first_seen": "",
+      "similarities": "",
+      "references": [
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ],
+      "description": ""
+    },
+    "ACTOR_NAME3": {
+      "aliases": [
+        "",
+        "",
+        ""
+      ],
+      "affiliation": "",
+      "targets": "",
+      "first_seen": "",
+      "similarities": "",
+      "references": [
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ],
+      "description": ""
+    },
+    "ACTOR_NAME4": {
+      "aliases": [
+        "",
+        "",
+        ""
+      ],
+      "affiliation": "",
+      "targets": "",
+      "first_seen": "",
+      "similarities": "",
+      "references": [
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ],
+      "description": ""
+    }
+  },
+  "families": {
+    "Cannon": {
+      "aliases": [],
+      "first_seen": "April 2018",
+      "actor": "Sofacy",
+      "description": "Cannon is a Trojan with variants written in C# and Delphi. It was first observed in April 2018. The Trojan is usually being used as a secong-stage payload which is downloaded by one of Zebrocy's variants.",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "Sofacy Continues Global Attacks and Wheels Out New 'Cannon' Trojan - Palo Alto",
+          "link": "https://unit42.paloaltonetworks.com/unit42-sofacy-continues-global-attacks-wheels-new-cannon-trojan/"
+        },
+        {
+          "title": "Dear Joohn: The Sofacy Group’s Global Campaign - Palo Alto",
+          "link": "https://unit42.paloaltonetworks.com/dear-joohn-sofacy-groups-global-campaign/"
+        },
+        {
+          "title": "Let's Learn: In-Depth on Sofacy Cannon Loader/Backdoor - Vitali Kremez",
+          "link": "https://www.vkremez.com/2018/11/lets-learn-in-depth-on-sofacy-canon.html"
+        }
+      ]
+    },
+    "Coreshell": {
+      "aliases": [
+        "SOURFACE"
+      ],
+      "first_seen": "",
+      "actor": "Sofacy",
+      "description": "A downloader which is used by Sofacy. Older versions of the downloader are known by the name 'SOURFACE'",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "APT28: A Window into Russia's Cyber Espionage Operations? - FireEye",
+          "link": "https://www2.fireeye.com/rs/fireye/images/rpt-apt28.pdf"
+        }
+      ]
+    },
+    "Downdelph": {
+      "aliases": [
+        "Delphacy"
+      ],
+      "first_seen": "",
+      "actor": "Sofacy",
+      "description": "Downdelph is a lightweight first stage downloader which is written in Delphi. It been seen downloading X-Agnet and Sedreco on infected machines.",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "A Mysterious Downloader - ESET",
+          "link": "https://www.welivesecurity.com/wp-content/uploads/2016/10/eset-sednit-part3.pdf"
+        }
+      ]
+    },
+    "HideDRV": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "first_seen": "",
+      "actor": "Sofacy",
+      "description": "",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    },
+    "koadic": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "first_seen": "",
+      "actor": "Sofacy",
+      "description": "",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    },
+    "OLDBAIT": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "first_seen": "",
+      "actor": "Sofacy",
+      "description": "",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    },
+    "Sedreco": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "first_seen": "",
+      "actor": "Sofacy",
+      "description": "",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    },
+    "Seduploader": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "first_seen": "",
+      "actor": "Sofacy",
+      "description": "",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    },
+    "Seduploader -  Payload": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "first_seen": "",
+      "actor": "Sofacy",
+      "description": "",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    },
+    "Sofacy - WinexeSVC": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "first_seen": "",
+      "actor": "Sofacy",
+      "description": "",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    },
+    "X-Agent": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "first_seen": "",
+      "actor": "Sofacy",
+      "description": "",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    },
+    "Zebrocy": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "first_seen": "",
+      "actor": "Sofacy",
+      "description": "",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    },
+    "X-Tunnel": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "first_seen": "",
+      "actor": "Sofacy",
+      "description": "",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    },
+    "Zekapab": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "first_seen": "",
+      "actor": "Sofacy",
+      "description": "",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    },
+    "Agent.BTZ": {
+      "aliases": [
+        "Autorun",
+        "Sun Rootkit",
+        "Trojan.Minit"
+      ],
+      "actor": "Turla",
+      "first_seen": 2007,
+      "description": "A sophisticated worm that had the ability to spread through a network and flash drives, gather sensitive information and send data to a remote command and control server.\nAgent.BTZ is known for its major role for the Cyberattack on the United States in 2008, which is also known as \"worst breach of U.S. military computers in history\".   ",
+      "similarities": "Agent.BTZ is known to be the ancestor of ComRAT, Carbon and Uroburos.  ",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "Agent.btz: a Source of Inspiration? - Kaspersky",
+          "link": "https://securelist.com/agent-btz-a-source-of-inspiration/58551/"
+        },
+        {
+          "title": "Agent.btz - A Threat That Hit Pentagon - Threat Expert",
+          "link": "http://blog.threatexpert.com/2008/11/agentbtz-threat-that-hit-pentagon.html"
+        },
+        {
+          "title": "The Uroburos case: new sophisticated RAT identified - G Data",
+          "link": "https://www.gdatasoftware.com/blog/2014/11/23937-the-uroburos-case-new-sophisticated-rat-identified"
+        },
+        {
+          "title": "New Variants of Agent.BTZ/ComRAT Found - Intezer",
+          "link": "http://www.intezer.com/new-variants-of-agent-btz-comrat-found/"
+        }
+      ]
+    },
+    "Carbon": {
+      "aliases": [
+        "Cobra",
+        ""
+      ],
+      "actor": "Turla",
+      "first_seen": "",
+      "description": "The Carbon malware is an extensible framework which behaves as a plugin-manager for plugins that are provided by its Command and Control server.\nThe framework is advanced and comlciated and includes orchestrators, dropper, downloaders and a library to be injected to browsers and email clients.",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "Analysis of Project Cobra - G DATA",
+          "link": "https://www.gdatasoftware.com/blog/2015/01/23926-analysis-of-project-cobra"
+        },
+        {
+          "title": "Shedding Skin – Turla’s Fresh Faces - Kaspersky",
+          "link": "https://securelist.com/shedding-skin-turlas-fresh-faces/88069/"
+        },
+        {
+          "title": "The Epic Turla Operation - Kaspersky",
+          "link": "https://securelist.com/the-epic-turla-operation/65545/"
+        }
+      ]
+    },
+    "ComRAT": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "actor": "Turla",
+      "first_seen": "",
+      "description": "A Remote Access Tool and a direct descendant of the Agent.BTZ malware. More accurately, ComRAT is the name that was given to newer versions of Agent.BTZ after a big rfactoring that was done on the malware.",
+      "similarities": "Naturally, ComRAT is sharing many similarities with its ancestor Agent.BTZ and with Uroburos and Carbon.",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "Evolution of sophisticated spyware: from Agent.BTZ to ComRAT - G DATA",
+          "link": "https://www.gdatasoftware.com/blog/2015/01/23927-evolution-of-sophisticated-spyware-from-agent-btz-to-comrat"
+        },
+        {
+          "title": "New Variants of Agent.BTZ/ComRAT Found - Intezer",
+          "link": "https://www.intezer.com/new-variants-of-agent-btz-comrat-found/"
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    },
+    "Gazer": {
+      "aliases": [
+        "WhiteBear",
+        ""
+      ],
+      "actor": "Turla",
+      "first_seen": "",
+      "description": "Gazer is an advanced backdoor that is used by the Turla group to spy on target while remaining persistent on the infected machines.\n",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "Gazer: the stealthy backdoor that spies on embassies - ESET",
+          "link": "https://www.welivesecurity.com/2017/08/30/eset-research-cyberespionage-gazer/"
+        },
+        {
+          "title": "Introducing WhiteBear - Kaspersky",
+          "link": "https://securelist.com/introducing-whitebear/81638/"
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    },
+    "Kazuar": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "actor": "Turla",
+      "first_seen": "",
+      "description": "Kazuar is a .NET written backdoor malware that gives to is operator the ability to gain a complete remote access to infected machines.\nIt is an extensible backdoor that has the ability to load additional plugins in order to increase its Trojan abilities.",
+      "similarities": "Kazuar have chacteristic similarities to Gazer and Carbon.",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "Kazuar: Multiplatform Espionage Backdoor with API Access - Palo Alto",
+          "link": "https://unit42.paloaltonetworks.com/unit42-kazuar-multiplatform-espionage-backdoor-api-access/"
+        },
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    },
+    "KSL0T - Keylogger": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "actor": "Turla",
+      "first_seen": "",
+      "description": "KSL0T is a Keylogger module that was inspected downloaded by Turla.",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    },
+    "LightNeuron": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "actor": "Turla",
+      "first_seen": "",
+      "description": "Light Neuron is a backdoor which designed to target Microsoft Exchange main servers. In addition of being a full-feature backdoor, its uniqueness is in its ability to spy on emails.",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "Turla LightNeuron: An email too far - ESET",
+          "link": "https://www.welivesecurity.com/wp-content/uploads/2019/05/ESET-LightNeuron.pdf"
+        },
+        {
+          "title": "",
+          "link": ""
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    },
+    "Mosquito": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "actor": "Turla",
+      "first_seen": "",
+      "description": "Mosquito is a backdoor used by the Turla group in targeted campaigns.",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "Turla Mosquito: A shift towards more generic tools - ESET",
+          "link": "https://www.welivesecurity.com/2018/05/22/turla-mosquito-shift-towards-generic-tools/"
+        },
+        {
+          "title": "Diplomats in Eastern Europe bitten by a Turla mosquito - ESET",
+          "link": "https://www.welivesecurity.com/wp-content/uploads/2018/01/ESET_Turla_Mosquito.pdf"
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    },
+    "Nautilus": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "actor": "Turla",
+      "first_seen": "",
+      "description": "Nautilus is an advanced Trojav that was firstly described in a publication by the National Cyber Security Centre of United Kingdom.",
+      "similarities": "",
+      "artifacts": "nautilus-service.dll",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "Turla group using Neuron and Nautilus tools alongside Snake malware- NCSC",
+          "link": "https://app.box.com/s/316mbg901wxjdarmtdlj6v4qv29a0ge8"
+        },
+        {
+          "title": "Turla group malware - NCSC",
+          "link": "https://www.ncsc.gov.uk/news/turla-group-malware"
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    },
+    "Neuron": {
+      "aliases": [
+        "DarkNeuron",
+        ""
+      ],
+      "actor": "Turla",
+      "first_seen": "",
+      "description": "Neuron consists of two components - a client and a server. The client is used to infect endpoints and steal sensitive information. The server is used to infect netwrok servers and acts as a local C&C for the clients.",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "Turla group using Neuron and Nautilus tools alongside Snake malware- NCSC",
+          "link": "https://app.box.com/s/316mbg901wxjdarmtdlj6v4qv29a0ge8"
+        },
+        {
+          "title": "Turla group malware - NCSC",
+          "link": "https://www.ncsc.gov.uk/news/turla-group-malware"
+        }
+      ]
+    },
+    "Outlook Backdoor": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "actor": "Turla",
+      "first_seen": "",
+      "description": "A backdoor that was inspected used by the Turla actor. It steals emails by forwarding all outgoing mails to the operators an also using email messages as a transport layer for its C&C protocol.",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "Turla Outlook Backdoor: Analysis of an unusual Turla backdoor",
+          "link": "https://www.welivesecurity.com/wp-content/uploads/2018/08/Eset-Turla-Outlook-Backdoor.pdf"
+        },
+        {
+          "title": "Turla: In and out of its unique Outlook backdoor",
+          "link": "https://www.welivesecurity.com/2018/08/22/turla-unique-outlook-backdoor/"
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    },
+    "Penquin Turla": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "actor": "Turla",
+      "first_seen": "",
+      "description": "Penquin Turla is a Linux version of the infamous Uroburos\\Snake malware.\nThe malware contains ability to execute arbitrary commands sent to it from remote command and control servers.",
+      "similarities": "Share similar characterisitcs to Uroburos.",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "The 'Penquin' Turla",
+          "link": "https://securelist.com/the-penquin-turla-2/67962/"
+        },
+        {
+          "title": "Penquin's Moonlit Maze",
+          "link": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07180251/Penquins_Moonlit_Maze_PDF_eng.pdf"
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    },
+    "PNG Dropper": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "actor": "Turla",
+      "first_seen": "",
+      "description": "A second stage dropper that stored several PNG images in its resources while the actual payload was a PE binary that was splitted between the PNG. Upon executing, the dropper will combine the relevant parts from the stored PNG images into an executable PE that it will dynamically (reflectively) load to its memory.\nThe PNG dropper observed dropping Uroburos.",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "Carbon Black Threat Research Dissects PNG Dropper",
+          "link": "https://www.carbonblack.com/2017/08/18/threat-analysis-carbon-black-threat-research-dissects-png-dropper/"
+        },
+        {
+          "title": "Turla PNG Dropper is back\n - NCC Group",
+          "link": "https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/november/turla-png-dropper-is-back/"
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    },
+    "Uroburos": {
+      "aliases": [
+        "Snake",
+        ""
+      ],
+      "actor": "Turla",
+      "first_seen": "",
+      "description": "Uroburos is a complex rootkit that was used by Turla. It is a successor of the infamous Agent.BTZ.\nUroburos composed of a driver and an encrypted VFS. It is able to take full control of infected systems, execute arbitrary commands and steal sensitive information.",
+      "similarities": "Successor of Agent.BTZ. Share similarities with Agent.BTZ, ComRAT and Carbon.",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "Uroburos - highly complex espionage software with Russian roots - G Data",
+          "link": "https://www.gdatasoftware.com/blog/2014/02/23968-uroburos-highly-complex-espionage-software-with-russian-roots"
+        },
+        {
+          "title": "Uroburos – Deeper travel into kernel protection mitigation - G Data",
+          "link": "https://www.gdatasoftware.com/blog/2014/03/23966-uroburos-deeper-travel-into-kernel-protection-mitigation"
+        },
+        {
+          "title": "The Epic Turla Operation - Kaspersky",
+          "link": "https://securelist.com/the-epic-turla-operation/65545/"
+        }
+      ]
+    },
+    "Wipbot": {
+      "aliases": [
+        "",
+        ""
+      ],
+      "actor": "Turla",
+      "first_seen": "",
+      "description": "Wipbot is a downloader trojan with limited backdoor functionality. It can execute arbitrary commands and download additional malicious components to the machine.",
+      "similarities": "",
+      "artifacts": "",
+      "hashes": {
+        "md5": [
+          "",
+          ""
+        ],
+        "sha1": [
+          "",
+          ""
+        ],
+        "sha256": [
+          "",
+          ""
+        ]
+      },
+      "intezer": [
+        "https://...",
+        "https://..."
+      ],
+      "references": [
+        {
+          "title": "The Waterbug attack group - Symantec",
+          "link": "https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2015/waterbug-attack-group.pdf"
+        },
+        {
+          "title": "The Epic Turla Operation - Kaspersky",
+          "link": "https://securelist.com/the-epic-turla-operation/65545/"
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+
+<html>
+  <head>
+
+    <!-- START SIGMA IMPORTS -->
+    <link rel="stylesheet" href="assets/css/old/style.css">
+    
+    <script
+      src="https://code.jquery.com/jquery-3.4.1.min.js"
+      integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+      crossorigin="anonymous"></script>
+    <script src="assets/js/sigma.min.js"></script>
+    <script src="assets/js/plugins/sigma.parsers.gexf.min.js"></script>
+    <script src="assets/js/plugins/sigma.plugins.filter.min.js"></script>
+    <script src="assets/js/plugins/sigma.plugins.dragNodes.min.js"></script>
+    <script src="assets/js/old/main.js"></script>
+    
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+
+  </head>
+
+
+<body>
+<div id="container">
+
+
+
+  <div id="graph-container"></div>
+  <div id="control-pane">
+    <h2 class="underline">filters</h2>
+    
+    <div>
+      <h3>min degree: <span id="min-degree-val">0</span></h3>
+      0 <input id="min-degree" type="range" min="0" max="0" value="0"> <span id="max-degree-value">0</span><br>
+    </div>
+    <div>
+      <h3>node actor</h3>
+      <select id="node-actor">
+        <option value="" selected>All actors</option>
+      </select>
+    </div>
+    <span class="line"></span>
+    <div>
+      <button id="reset-btn">Reset filters</button>
+      <button id="export-btn">Export</button>
+    </div>
+    <div id="dump" class="hidden"></div>
+  </div>
+
+
+
+</div>
+<div class="menu-hover">
+  <div class="side-menu">
+      <div class="family-name">
+        <h2></h2>
+      </div>
+      <div class="info">
+        <div class="actor"></div>
+        <div class="attirbution"></div>
+        <div class="first-seen"></div>
+      </div>
+      <div class="information"></div>
+      <div class="connections"></div>
+  </div>
+</div>
+
+
+  </body>
+  
+</html>
+  
+
+
+  
