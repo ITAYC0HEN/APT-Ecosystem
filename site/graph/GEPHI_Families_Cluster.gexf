@@ -16,7 +16,7 @@
           <attvalue for="size" value="9"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-421.32632" y="-16.762604"></viz:position>
+        <viz:position x="-4101.3984" y="754.1499"></viz:position>
         <viz:color r="0" g="91" b="104"></viz:color>
       </node>
       <node id="09716c9b3ed739d8c361eca70ca5c63a" label="Potao - Dropper w/ Decoy">
@@ -25,7 +25,7 @@
           <attvalue for="size" value="13"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-360.91956" y="-29.28635"></viz:position>
+        <viz:position x="-4100.293" y="-586.15405"></viz:position>
         <viz:color r="0" g="91" b="104"></viz:color>
       </node>
       <node id="f6cf12583597bc5be9146315a29783c9" label="Potao - Plugin - Updater">
@@ -34,7 +34,7 @@
           <attvalue for="size" value="4"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-228.25774" y="80.963234"></viz:position>
+        <viz:position x="-2519.823" y="61.353798"></viz:position>
         <viz:color r="0" g="91" b="104"></viz:color>
       </node>
       <node id="316a261fa583633fd7afee5f333bc354" label="Potao - Plugin - System Info">
@@ -43,7 +43,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="112.32386" y="-340.23187"></viz:position>
+        <viz:position x="2177.417" y="-3448.4473"></viz:position>
         <viz:color r="0" g="91" b="104"></viz:color>
       </node>
       <node id="b56d770d71976218db2e2a07fffebfe2" label="Potao - Plugin - Disk Scanner">
@@ -52,7 +52,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-265.14996" y="-88.21239"></viz:position>
+        <viz:position x="-2945.5728" y="-1015.9806"></viz:position>
         <viz:color r="0" g="91" b="104"></viz:color>
       </node>
       <node id="7c86233d121129bd690d51c874fad836" label="Potao - Main Module - Fake Excel">
@@ -61,7 +61,7 @@
           <attvalue for="size" value="6"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-299.572" y="83.0145"></viz:position>
+        <viz:position x="-2831.5715" y="-482.8468"></viz:position>
         <viz:color r="0" g="91" b="104"></viz:color>
       </node>
       <node id="728e7190e33c90995e28aaa1f3d3623a" label="Potao - Debug - Main Module">
@@ -70,7 +70,7 @@
           <attvalue for="size" value="4"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-168.74341" y="-137.00829"></viz:position>
+        <viz:position x="-2601.8408" y="-1513.3423"></viz:position>
         <viz:color r="0" g="91" b="104"></viz:color>
       </node>
       <node id="dcc24239d025e37f292024942f6d49b4" label="Potao - Debug - Dropper">
@@ -79,7 +79,7 @@
           <attvalue for="size" value="4"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-306.9279" y="-147.44347"></viz:position>
+        <viz:position x="-3268.5054" y="-1489.6354"></viz:position>
         <viz:color r="0" g="91" b="104"></viz:color>
       </node>
       <node id="a7fd30c1b82faae2fa69c4761c46c8c6" label="Potao - Plugin - Keylogger">
@@ -88,7 +88,7 @@
           <attvalue for="size" value="3"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-193.96135" y="27.597898"></viz:position>
+        <viz:position x="-2181.1768" y="-433.92273"></viz:position>
         <viz:color r="0" g="91" b="104"></viz:color>
       </node>
       <node id="dd36064bd13c8062aee9f12387a72a14" label="Potao - Plugin - Password Stealer">
@@ -97,7 +97,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-48.300385" y="-417.50433"></viz:position>
+        <viz:position x="544.3124" y="-4096.891"></viz:position>
         <viz:color r="0" g="91" b="104"></viz:color>
       </node>
       <node id="8d933937bd94f6b9c1b3fd7477111fe9" label="Potao - v1 - Unpacked">
@@ -106,7 +106,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-401.38315" y="-85.09222"></viz:position>
+        <viz:position x="-4160.9385" y="69.753075"></viz:position>
         <viz:color r="0" g="91" b="104"></viz:color>
       </node>
       <node id="0cdcee38fd16e88d643b7a1408336e52" label="Potao - Plugin - Screenshot Capture">
@@ -115,7 +115,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="222.23904" y="282.78433"></viz:position>
+        <viz:position x="2090.6482" y="2108.5002"></viz:position>
         <viz:color r="0" g="91" b="104"></viz:color>
       </node>
       <node id="6df1746ff979cf206ba966289a662a6b" label="Potao - Dropper">
@@ -124,7 +124,7 @@
           <attvalue for="size" value="9"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-338.0006" y="29.976053"></viz:position>
+        <viz:position x="-3125.4253" y="-2.9958248"></viz:position>
         <viz:color r="0" g="91" b="104"></viz:color>
       </node>
       <node id="aec881431cebbb80f85e71241f6783da" label="Potao - Plugin - File Stealer">
@@ -133,7 +133,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-297.00226" y="-31.543215"></viz:position>
+        <viz:position x="-3488.952" y="-860.5656"></viz:position>
         <viz:color r="0" g="91" b="104"></viz:color>
       </node>
       <node id="32dc7f9ed09814de33ba24f1d02a35fa" label="Potao - USB Spreader">
@@ -142,7 +142,7 @@
           <attvalue for="size" value="20"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-219.15971" y="-359.5998"></viz:position>
+        <viz:position x="-977.67773" y="-3471.0754"></viz:position>
         <viz:color r="0" g="91" b="104"></viz:color>
       </node>
       <node id="899350ce500b32b5b81a2a2ada73f5a3" label="Potao - Dropper - Fake Excel">
@@ -151,7 +151,7 @@
           <attvalue for="size" value="6"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-133.70569" y="-189.73347"></viz:position>
+        <viz:position x="-2346.0413" y="-976.41394"></viz:position>
         <viz:color r="0" g="91" b="104"></viz:color>
       </node>
       <node id="f54aaa70efb5dcb05b2edecd55c1ba8f" label="Potao - Plugin - Self Kill">
@@ -160,7 +160,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-405.24966" y="44.162518"></viz:position>
+        <viz:position x="-3639.9297" y="376.37314"></viz:position>
         <viz:color r="0" g="91" b="104"></viz:color>
       </node>
       <node id="b650e3dbce590e6ef3e309364ab2e007" label="Potao - Main Module">
@@ -169,7 +169,7 @@
           <attvalue for="size" value="40"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-267.65192" y="26.460598"></viz:position>
+        <viz:position x="-3585.3606" y="-296.31302"></viz:position>
         <viz:color r="0" g="91" b="104"></viz:color>
       </node>
       <node id="6e2a6c4a389e50425d61da71ae88f951" label="WildNeutron - Hacktool.MultiPurpose">
@@ -178,7 +178,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-321.6788" y="143.84541"></viz:position>
+        <viz:position x="-2980.1218" y="590.82404"></viz:position>
         <viz:color r="209" g="198" b="159"></viz:color>
       </node>
       <node id="eac5dccb24bc4415b75691610781e81c" label="WildNeutron">
@@ -187,7 +187,7 @@
           <attvalue for="size" value="12"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-148.00047" y="120.1534"></viz:position>
+        <viz:position x="-1847.5892" y="105.644356"></viz:position>
         <viz:color r="209" g="198" b="159"></viz:color>
       </node>
       <node id="d3b94b8fc01ab150c54ab2a1916c4f60" label="WildNeutron - Proxy">
@@ -196,7 +196,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-160.02403" y="72.21681"></viz:position>
+        <viz:position x="-1454.1649" y="-344.05264"></viz:position>
         <viz:color r="209" g="198" b="159"></viz:color>
       </node>
       <node id="caa472b589c2f6a627253af6b4ac0800" label="WildNeutron - Tunnel">
@@ -205,7 +205,7 @@
           <attvalue for="size" value="3"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-185.38171" y="90.08009"></viz:position>
+        <viz:position x="-2287.2275" y="600.39325"></viz:position>
         <viz:color r="209" g="198" b="159"></viz:color>
       </node>
       <node id="1c59974fd51cf53c001b48c8a0759fce" label="WildNeutron - Shred">
@@ -214,7 +214,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="392.64194" y="-126.23279"></viz:position>
+        <viz:position x="3756.8828" y="-1699.2112"></viz:position>
         <viz:color r="209" g="198" b="159"></viz:color>
       </node>
       <node id="91439abd2810e7355e761d1e415b301f" label="WildNeutron - Password Dumper">
@@ -223,7 +223,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-103.26271" y="263.36517"></viz:position>
+        <viz:position x="-194.46614" y="2411.35"></viz:position>
         <viz:color r="209" g="198" b="159"></viz:color>
       </node>
       <node id="3bd85152f7288ddac0d666433136adae" label="WildNeutron - Jripbot">
@@ -232,7 +232,7 @@
           <attvalue for="size" value="6"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-188.82925" y="54.958965"></viz:position>
+        <viz:position x="-1697.4175" y="-866.98157"></viz:position>
         <viz:color r="209" g="198" b="159"></viz:color>
       </node>
       <node id="fb24fd4834cd834834cf1c6db8347e56" label="WildNeutron - Hacktool">
@@ -241,7 +241,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-69.66545" y="332.2152"></viz:position>
+        <viz:position x="-416.57605" y="3573.8127"></viz:position>
         <viz:color r="209" g="198" b="159"></viz:color>
       </node>
       <node id="92a4edaa651127c4821eb02a2b2953ad" label="Coreshell">
@@ -250,7 +250,7 @@
           <attvalue for="size" value="36"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-267.25104" y="-311.1256"></viz:position>
+        <viz:position x="-1411.5637" y="-3021.0564"></viz:position>
         <viz:color r="0" g="226" b="255"></viz:color>
       </node>
       <node id="e6c6dddcc1b8686020bf002c15768b39" label="Seduploader -  Payload">
@@ -259,7 +259,7 @@
           <attvalue for="size" value="24"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-276.3986" y="-202.51625"></viz:position>
+        <viz:position x="-1811.0903" y="-2479.677"></viz:position>
         <viz:color r="0" g="226" b="255"></viz:color>
       </node>
       <node id="14dafdb568cf357279e8135a6eeb833d" label="koadic">
@@ -268,7 +268,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="53.86764" y="343.57938"></viz:position>
+        <viz:position x="867.6126" y="2074.5244"></viz:position>
         <viz:color r="0" g="226" b="255"></viz:color>
       </node>
       <node id="d4898c42b8830282f83eaa4fef7a9e13" label="X-Agent">
@@ -277,7 +277,7 @@
           <attvalue for="size" value="87"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-257.19055" y="-182.64796"></viz:position>
+        <viz:position x="-2175.9373" y="-1990.616"></viz:position>
         <viz:color r="0" g="226" b="255"></viz:color>
       </node>
       <node id="22ef5d9468d7aa2f806d865b88a27a52" label="Cannon">
@@ -286,7 +286,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="329.49222" y="-1.1038469"></viz:position>
+        <viz:position x="3521.642" y="-499.4032"></viz:position>
         <viz:color r="0" g="226" b="255"></viz:color>
       </node>
       <node id="01d8c88c0e7520311c99562fbd7d07a7" label="WinexeSVC">
@@ -295,7 +295,7 @@
           <attvalue for="size" value="3"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="113.10314" y="-234.73055"></viz:position>
+        <viz:position x="1470.3804" y="-2390.776"></viz:position>
         <viz:color r="0" g="226" b="255"></viz:color>
       </node>
       <node id="48cbe0e40ab46835678245f03bdf07cd" label="Seduploader - Payload">
@@ -304,7 +304,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-204.20535" y="-197.48737"></viz:position>
+        <viz:position x="-1909.1731" y="-1468.6725"></viz:position>
         <viz:color r="0" g="226" b="255"></viz:color>
       </node>
       <node id="0347d4e08ea0ccb2a1dce08b666bc4ab" label="X-Tunnel">
@@ -313,7 +313,7 @@
           <attvalue for="size" value="29"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-163.52032" y="-249.02626"></viz:position>
+        <viz:position x="-1509.019" y="-1964.1287"></viz:position>
         <viz:color r="0" g="226" b="255"></viz:color>
       </node>
       <node id="741bbfe6375f736d064a3e23f004676d" label="dropper">
@@ -322,7 +322,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="191.2" y="350.5031"></viz:position>
+        <viz:position x="1241.2809" y="3246.2239"></viz:position>
         <viz:color r="0" g="226" b="255"></viz:color>
       </node>
       <node id="cae4d42c948796f87af94e11248117ee" label="OLDBAIT">
@@ -331,7 +331,7 @@
           <attvalue for="size" value="5"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="351.57047" y="73.29414"></viz:position>
+        <viz:position x="3569.1575" y="844.35846"></viz:position>
         <viz:color r="0" g="226" b="255"></viz:color>
       </node>
       <node id="cb56df0805b0fd15389ad72b72e2d056" label="Zebrocy - Downloader">
@@ -340,7 +340,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="434.44324" y="177.9545"></viz:position>
+        <viz:position x="3658.2542" y="1986.4403"></viz:position>
         <viz:color r="0" g="226" b="255"></viz:color>
       </node>
       <node id="4aaec3339c3d1046825251675a150477" label="Zebrocy - .NET Downloader">
@@ -349,7 +349,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="147.19017" y="-173.49763"></viz:position>
+        <viz:position x="1071.6669" y="-1875.0284"></viz:position>
         <viz:color r="0" g="226" b="255"></viz:color>
       </node>
       <node id="582d69f53bcce074b9afe7e136e5af4e" label="Seduploader -  Dropper">
@@ -358,7 +358,7 @@
           <attvalue for="size" value="5"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-70.22504" y="-208.50496"></viz:position>
+        <viz:position x="-1278.746" y="-1389.244"></viz:position>
         <viz:color r="0" g="226" b="255"></viz:color>
       </node>
       <node id="7debf3c6e4483272ec52baa6bf500aec" label="Zebrocy - Delphi Downloader">
@@ -367,7 +367,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="439.87347" y="253.86597"></viz:position>
+        <viz:position x="3298.2666" y="2485.103"></viz:position>
         <viz:color r="0" g="226" b="255"></viz:color>
       </node>
       <node id="c3cea7ed11227fe94bee658919573c83" label="Zebrocy">
@@ -376,7 +376,7 @@
           <attvalue for="size" value="38"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="364.3011" y="296.0745"></viz:position>
+        <viz:position x="2904.833" y="2951.5579"></viz:position>
         <viz:color r="0" g="226" b="255"></viz:color>
       </node>
       <node id="99a70cf63e239db76bca5bcd2cb63669" label="Sedreco - Dropper">
@@ -385,7 +385,7 @@
           <attvalue for="size" value="5"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-99.335686" y="-251.95078"></viz:position>
+        <viz:position x="-508.85056" y="-2398.482"></viz:position>
         <viz:color r="0" g="226" b="255"></viz:color>
       </node>
       <node id="7cd80966f74d3718c4a25313c74fa87b" label="Seduploader">
@@ -394,7 +394,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-402.61743" y="-234.80595"></viz:position>
+        <viz:position x="-2483.7805" y="-2509.5242"></viz:position>
         <viz:color r="0" g="226" b="255"></viz:color>
       </node>
       <node id="2696a5fa2f1b69f34ef80c9b229c4b07" label="Zebrocy - Go Downloader">
@@ -403,7 +403,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="221.7198" y="-172.88683"></viz:position>
+        <viz:position x="2085.065" y="-2238.7747"></viz:position>
         <viz:color r="0" g="226" b="255"></viz:color>
       </node>
       <node id="ca1ec7d101e3c67a091bb09d35417a90" label="Sedreco - Payload">
@@ -412,7 +412,7 @@
           <attvalue for="size" value="16"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-193.23576" y="-304.05057"></viz:position>
+        <viz:position x="-1152.0034" y="-2482.8157"></viz:position>
         <viz:color r="0" g="226" b="255"></viz:color>
       </node>
       <node id="3c2b46a2a93180886e2a758effdb4adb" label="Downdelph">
@@ -421,7 +421,7 @@
           <attvalue for="size" value="5"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-32.335377" y="-247.72888"></viz:position>
+        <viz:position x="-891.45825" y="-1901.404"></viz:position>
         <viz:color r="0" g="226" b="255"></viz:color>
       </node>
       <node id="dd3bf78cf0c523094aa211ee7c4d4d6c" label="HideDRV">
@@ -430,7 +430,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="182.69144" y="-24.510128"></viz:position>
+        <viz:position x="2007.09" y="-1290.8246"></viz:position>
         <viz:color r="0" g="226" b="255"></viz:color>
       </node>
       <node id="b56cfbf7f1394d70160a599d883f69a0" label="VPNFilter - Stage 1">
@@ -439,7 +439,7 @@
           <attvalue for="size" value="3"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="327.9194" y="118.6148"></viz:position>
+        <viz:position x="3110.2227" y="533.4626"></viz:position>
         <viz:color r="162" g="103" b="158"></viz:color>
       </node>
       <node id="d263830d98cba0cd9de3c2c409c2c40b" label="VPNFilter - Stage 2">
@@ -448,7 +448,7 @@
           <attvalue for="size" value="15"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="259.83905" y="-2.3364878"></viz:position>
+        <viz:position x="2887.7222" y="-635.51575"></viz:position>
         <viz:color r="162" g="103" b="158"></viz:color>
       </node>
       <node id="49113560c80c62a2ce06d8965b749d9f" label="VPNFilter - Stage 3 Plugin - Tor">
@@ -457,7 +457,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="279.01044" y="138.11844"></viz:position>
+        <viz:position x="2568.701" y="448.0777"></viz:position>
         <viz:color r="162" g="103" b="158"></viz:color>
       </node>
       <node id="e205638781e1d1fe21803c7924cda561" label="VPNFilter - Stage 3 Plugin - Packet Sniffer">
@@ -466,7 +466,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="290.9006" y="57.075737"></viz:position>
+        <viz:position x="3010.188" y="-75.08889"></viz:position>
         <viz:color r="162" g="103" b="158"></viz:color>
       </node>
       <node id="7199f360ead0a51b7753e1d98fafb456" label="Exaramel">
@@ -475,7 +475,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="334.5808" y="234.89877"></viz:position>
+        <viz:position x="2673.8652" y="2336.636"></viz:position>
         <viz:color r="67" g="100" b="23"></viz:color>
       </node>
       <node id="1bf6717d33ca57d845f98957ea4dce84" label="Keylogger">
@@ -484,7 +484,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="417.57355" y="-64.55332"></viz:position>
+        <viz:position x="4092.8708" y="-592.72894"></viz:position>
         <viz:color r="67" g="100" b="23"></viz:color>
       </node>
       <node id="9143dd462fb3597efe72101fb268fd03" label="Password Stealer">
@@ -493,7 +493,7 @@
           <attvalue for="size" value="6"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-185.64714" y="138.83987"></viz:position>
+        <viz:position x="-1452.4401" y="1227.2585"></viz:position>
         <viz:color r="67" g="100" b="23"></viz:color>
       </node>
       <node id="9ee0ac462178242a895f1cc337f9c6da" label="NotPetya">
@@ -502,7 +502,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-87.51953" y="-462.22403"></viz:position>
+        <viz:position x="-49.914276" y="-4133.071"></viz:position>
         <viz:color r="67" g="100" b="23"></viz:color>
       </node>
       <node id="75238f7736b673ad90802300ff79f868" label="BCS - Server">
@@ -511,7 +511,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="253.97037" y="187.79823"></viz:position>
+        <viz:position x="2318.3225" y="1024.6228"></viz:position>
         <viz:color r="67" g="100" b="23"></viz:color>
       </node>
       <node id="8c4424942312901ad0e89ca424936746" label="CredRaptor">
@@ -520,7 +520,7 @@
           <attvalue for="size" value="8"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-11.284726" y="-471.6203"></viz:position>
+        <viz:position x="1126.5381" y="-3978.0593"></viz:position>
         <viz:color r="67" g="100" b="23"></viz:color>
       </node>
       <node id="10cd654d5a478a08c9910f120e83b263" label="WinPCAP Installer">
@@ -529,7 +529,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="294.91565" y="-174.90604"></viz:position>
+        <viz:position x="2837.2998" y="-2171.0486"></viz:position>
         <viz:color r="67" g="100" b="23"></viz:color>
       </node>
       <node id="02db6922659606d1b608991861e574f7" label="TeleBot">
@@ -538,7 +538,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="51.86789" y="466.43216"></viz:position>
+        <viz:position x="535.98944" y="4150.349"></viz:position>
         <viz:color r="67" g="100" b="23"></viz:color>
       </node>
       <node id="a49f10ca85c6ffbb094acdcdda3d0083" label="LDAP Query Tool">
@@ -547,7 +547,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="366.77667" y="180.72379"></viz:position>
+        <viz:position x="3009.8364" y="1873.5656"></viz:position>
         <viz:color r="67" g="100" b="23"></viz:color>
       </node>
       <node id="d06b0e809c0f1c34d96d9eab50c203e9" label="Telebot_Downloader">
@@ -556,7 +556,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-16.288588" y="468.30334"></viz:position>
+        <viz:position x="-113.00524" y="4139.8457"></viz:position>
         <viz:color r="67" g="100" b="23"></viz:color>
       </node>
       <node id="393e6160d47b3173bad1704d5755da01" label="TeleBot - Rust">
@@ -565,7 +565,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="144.49188" y="395.79282"></viz:position>
+        <viz:position x="803.8976" y="3664.3796"></viz:position>
         <viz:color r="67" g="100" b="23"></viz:color>
       </node>
       <node id="0f56b12173d0ac12eefdadd96f5cb0d6" label="XData">
@@ -574,7 +574,7 @@
           <attvalue for="size" value="4"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="254.00742" y="336.5838"></viz:position>
+        <viz:position x="1660.687" y="2580.8628"></viz:position>
         <viz:color r="67" g="100" b="23"></viz:color>
       </node>
       <node id="8d017884ac37c81a9056cae903b9d025" label="KillDisk">
@@ -583,7 +583,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-6.0930862" y="-29.595886"></viz:position>
+        <viz:position x="-425.76797" y="-824.9182"></viz:position>
         <viz:color r="67" g="100" b="23"></viz:color>
       </node>
       <node id="cfb62327e685bc076d5296698ddfd206" label="BlackEnergy Lite - Main Dll">
@@ -592,7 +592,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-446.916" y="149.82822"></viz:position>
+        <viz:position x="-3063.9385" y="2036.702"></viz:position>
         <viz:color r="92" g="214" b="0"></viz:color>
       </node>
       <node id="3f1c8dc5364299cc5accb017f081af0f" label="BlackEnergy - Plugin - Destructor">
@@ -601,7 +601,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-238.44992" y="252.93555"></viz:position>
+        <viz:position x="-1801.3944" y="1780.961"></viz:position>
         <viz:color r="92" g="214" b="0"></viz:color>
       </node>
       <node id="7e5da74123fa01f4bd91fd58d6570d05" label="BlackEnergy - Plugin - File System">
@@ -610,7 +610,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-299.64825" y="365.37967"></viz:position>
+        <viz:position x="-1841.6061" y="3680.0361"></viz:position>
         <viz:color r="92" g="214" b="0"></viz:color>
       </node>
       <node id="bfe56013540fd0a6c964d4682f9daf8a" label="BlackEnergy - Plugin - Remote Desktop">
@@ -619,7 +619,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="400.35382" y="-1.4370428"></viz:position>
+        <viz:position x="3598.528" y="131.59651"></viz:position>
         <viz:color r="92" g="214" b="0"></viz:color>
       </node>
       <node id="26bee7b60021f616eefa36b2330403f6" label="BlackEnergy - Plugin - Windows Account List">
@@ -628,7 +628,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-203.48766" y="426.10922"></viz:position>
+        <viz:position x="-1314.6381" y="3797.7078"></viz:position>
         <viz:color r="92" g="214" b="0"></viz:color>
       </node>
       <node id="4659a4dbd837b89b9d2b28b84ba3248f" label="BlackEnergy - Plugin - System Information">
@@ -637,7 +637,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-416.09763" y="213.6779"></viz:position>
+        <viz:position x="-2619.605" y="2505.003"></viz:position>
         <viz:color r="92" g="214" b="0"></viz:color>
       </node>
       <node id="c2ce9b20c548983a55e0f66f59c84a23" label="BlackEnergy Lite - Dropper">
@@ -646,7 +646,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-471.53098" y="25.739128"></viz:position>
+        <viz:position x="-3651.8833" y="1980.8198"></viz:position>
         <viz:color r="92" g="214" b="0"></viz:color>
       </node>
       <node id="c7a76a38aecae30650748dfb3c1a074b" label="BlackEnergy - Plugin - TeamViewer">
@@ -655,7 +655,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-267.78375" y="310.80096"></viz:position>
+        <viz:position x="-1594.6998" y="3165.3354"></viz:position>
         <viz:color r="92" g="214" b="0"></viz:color>
       </node>
       <node id="70c736b65f5210457b588e199b100f05" label="BlackEnergy - Dropper">
@@ -664,7 +664,7 @@
           <attvalue for="size" value="6"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-347.9881" y="207.82553"></viz:position>
+        <viz:position x="-2223.5068" y="2164.8828"></viz:position>
         <viz:color r="92" g="214" b="0"></viz:color>
       </node>
       <node id="8e9654c571f19b9bacbb7d95e6f4fa34" label="BlackEnergy - Plugin - Password Stealing">
@@ -673,7 +673,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-171.68764" y="370.76944"></viz:position>
+        <viz:position x="-1702.5405" y="2385.446"></viz:position>
         <viz:color r="92" g="214" b="0"></viz:color>
       </node>
       <node id="5a0f6792c9c66e43732d133bbb2e00d7" label="BlackEnergy - Main Dll">
@@ -682,7 +682,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-381.8494" y="267.66235"></viz:position>
+        <viz:position x="-2716.5322" y="3027.9622"></viz:position>
         <viz:color r="92" g="214" b="0"></viz:color>
       </node>
       <node id="bc8d3f4c8eae9fba54e9da76c6ac5896" label="BlackEnergy - Plugin - Network Scan">
@@ -691,7 +691,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-204.67789" y="316.25497"></viz:position>
+        <viz:position x="-1263.9158" y="1963.8601"></viz:position>
         <viz:color r="92" g="214" b="0"></viz:color>
       </node>
       <node id="525fcc62bd68d20012147e6e49660eaf" label="BlackEnergy - Plugin - Infector">
@@ -700,7 +700,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-108.60507" y="386.66748"></viz:position>
+        <viz:position x="-839.978" y="2311.0688"></viz:position>
         <viz:color r="92" g="214" b="0"></viz:color>
       </node>
       <node id="82dde251fabd36f5fd4a27c011a2f31d" label="BlackEnergy - Plugin - Network Discovery">
@@ -709,7 +709,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-141.89513" y="443.1612"></viz:position>
+        <viz:position x="-699.25616" y="2890.5828"></viz:position>
         <viz:color r="92" g="214" b="0"></viz:color>
       </node>
       <node id="c945a2593f297c3b9475c7cfd65963f6" label="BlackEnergy - Plugin - Malware Update">
@@ -718,7 +718,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-308.78903" y="259.27167"></viz:position>
+        <viz:position x="-2076.021" y="2840.6099"></viz:position>
         <viz:color r="92" g="214" b="0"></viz:color>
       </node>
       <node id="f096a330b15675704fd167190ba88cab" label="BlackEnergy - Plugin - Keylogger">
@@ -727,7 +727,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-82.06385" y="458.76294"></viz:position>
+        <viz:position x="-1269.7998" y="2707.1572"></viz:position>
         <viz:color r="92" g="214" b="0"></viz:color>
       </node>
       <node id="996e465904e83ec92caa4d3020c4f4d1" label="BlackEnergy - Plugin - Hardware Info">
@@ -736,7 +736,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-242.56139" y="380.9457"></viz:position>
+        <viz:position x="-1009.8008" y="3340.7131"></viz:position>
         <viz:color r="92" g="214" b="0"></viz:color>
       </node>
       <node id="c690c03be4dbe516451d804d89ecdb18" label="BlackEnergy - Driver">
@@ -745,7 +745,7 @@
           <attvalue for="size" value="26"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-451.8129" y="89.8832"></viz:position>
+        <viz:position x="-2536.1682" y="1662.6819"></viz:position>
         <viz:color r="92" g="214" b="0"></viz:color>
       </node>
       <node id="46452ae6f265c74e9f5430e0a1824607" label="BlackEnergy - Plugin - Screenshot">
@@ -754,7 +754,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-342.5651" y="316.32233"></viz:position>
+        <viz:position x="-2297.5012" y="3384.6204"></viz:position>
         <viz:color r="92" g="214" b="0"></viz:color>
       </node>
       <node id="84aa5c25d1dcb672b966e06d9d675b1f" label="Sysmain">
@@ -763,7 +763,7 @@
           <attvalue for="size" value="7"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="6.239168" y="-17.627525"></viz:position>
+        <viz:position x="672.02576" y="-1312.2664"></viz:position>
         <viz:color r="145" g="65" b="46"></viz:color>
       </node>
       <node id="7426812bdd6beff62632442468becbde" label="Havex - Loader">
@@ -772,7 +772,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-114.058174" y="205.4566"></viz:position>
+        <viz:position x="13.279725" y="1371.7583"></viz:position>
         <viz:color r="145" g="65" b="46"></viz:color>
       </node>
       <node id="1e13f53a686e33b10b1fec0974bf9283" label="Dorshel">
@@ -781,7 +781,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="182.05656" y="-225.87384"></viz:position>
+        <viz:position x="2470.505" y="-2665.1106"></viz:position>
         <viz:color r="145" g="65" b="46"></viz:color>
       </node>
       <node id="1977794e8f094696619a69e654051d73" label="Karagany">
@@ -790,7 +790,7 @@
           <attvalue for="size" value="5"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="43.901653" y="-351.2108"></viz:position>
+        <viz:position x="1474.6373" y="-3290.1453"></viz:position>
         <viz:color r="145" g="65" b="46"></viz:color>
       </node>
       <node id="71a1cae97cf49122f81cc2a58b5a1f94" label="Havex - Module - Outlook">
@@ -799,7 +799,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-40.494774" y="162.9411"></viz:position>
+        <viz:position x="-414.9845" y="1792.5854"></viz:position>
         <viz:color r="145" g="65" b="46"></viz:color>
       </node>
       <node id="5be405328f4cb41e907d06d73ca7bed5" label="Havex - Module - Network Scanner">
@@ -808,7 +808,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="49.469376" y="-6.36434"></viz:position>
+        <viz:position x="122.17772" y="201.77527"></viz:position>
         <viz:color r="145" g="65" b="46"></viz:color>
       </node>
       <node id="23e0095eea16390ed9a28db2d74bfc89" label="Listrix">
@@ -817,7 +817,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="469.07883" y="-34.45615"></viz:position>
+        <viz:position x="4147.0044" y="11.725288"></viz:position>
         <viz:color r="145" g="65" b="46"></viz:color>
       </node>
       <node id="795c426ddc525ec373ead1661e4b5e99" label="Havex">
@@ -826,7 +826,7 @@
           <attvalue for="size" value="121"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-87.74958" y="117.30477"></viz:position>
+        <viz:position x="-496.20438" y="1023.3702"></viz:position>
         <viz:color r="145" g="65" b="46"></viz:color>
       </node>
       <node id="26eecd307cf6b142851e1d918898c07c" label="Havex - Module - OPC">
@@ -835,7 +835,7 @@
           <attvalue for="size" value="3"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-27.56436" y="92.81809"></viz:position>
+        <viz:position x="-886.17065" y="1441.0856"></viz:position>
         <viz:color r="145" g="65" b="46"></viz:color>
       </node>
       <node id="8a8b6be1fc2d3a1bd666de73dd3a822d" label="Karagany - Module - Screenshot">
@@ -844,7 +844,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="79.051674" y="404.11993"></viz:position>
+        <viz:position x="594.2699" y="3089.0652"></viz:position>
         <viz:color r="145" g="65" b="46"></viz:color>
       </node>
       <node id="afc7950a79d300b4b34da7c676cc6b71" label="Karagany - Module - File Listing">
@@ -853,7 +853,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="459.1775" y="110.43403"></viz:position>
+        <viz:position x="3975.7031" y="1305.1748"></viz:position>
         <viz:color r="145" g="65" b="46"></viz:color>
       </node>
       <node id="baad985472df3589407b067e9d384f27" label="Heriplor">
@@ -862,7 +862,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="15.65206" y="408.27896"></viz:position>
+        <viz:position x="181.92781" y="3587.2854"></viz:position>
         <viz:color r="145" g="65" b="46"></viz:color>
       </node>
       <node id="81e166b9b317099e424dcdcc216c6a52" label="Ddex_loader">
@@ -871,7 +871,7 @@
           <attvalue for="size" value="4"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="297.7464" y="175.78217"></viz:position>
+        <viz:position x="2891.6028" y="1142.2657"></viz:position>
         <viz:color r="145" g="65" b="46"></viz:color>
       </node>
       <node id="2039f0767c244dcc9f3112a81c00d9b7" label="Gazer - Loader (x64)">
@@ -880,7 +880,7 @@
           <attvalue for="size" value="13"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="53.97888" y="222.46832"></viz:position>
+        <viz:position x="624.1932" y="1481.6362"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="28abff7b2525d5cbf3d7ea4450a7c07e" label="Uroburos">
@@ -889,7 +889,7 @@
           <attvalue for="size" value="139"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="82.897255" y="-65.1586"></viz:position>
+        <viz:position x="567.1224" y="-255.34944"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="23b3994e8d7e5bbdd296811142bfa8c0" label="Uroburos - Virtual Box Driver">
@@ -898,7 +898,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="19.425797" y="-413.3192"></viz:position>
+        <viz:position x="1707.5018" y="-3805.2"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="018fcd7a775cda3c5b397a4ebe4dc628" label="DarkNeuron - Client">
@@ -907,7 +907,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="316.9151" y="349.96567"></viz:position>
+        <viz:position x="2411.9214" y="3376.7522"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="514dd6424475ef193456d0b9e8330f05" label="Agent.BTZ">
@@ -916,7 +916,7 @@
           <attvalue for="size" value="33"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="121.38467" y="-6.9409456"></viz:position>
+        <viz:position x="908.19165" y="-793.08496"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="73ee63fa69484a8ac3ea97b9813d61e0" label="DarkNeuron - Client Dropper">
@@ -925,7 +925,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="122.40374" y="455.93246"></viz:position>
+        <viz:position x="1302.5331" y="3937.85"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="66c9b72f8b03853813bb7f8a9def94ea" label="Gazer - Loader (x32)">
@@ -934,7 +934,7 @@
           <attvalue for="size" value="7"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-106.463196" y="-5.253979"></viz:position>
+        <viz:position x="-1175.5531" y="209.85449"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="43cd0abe28c05f11d8d8504721f6afaf" label="Carbon - Communication Library (v4.00)">
@@ -943,7 +943,7 @@
           <attvalue for="size" value="5"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="22.05217" y="159.04247"></viz:position>
+        <viz:position x="764.12384" y="309.67035"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="a7947ba0ca48e112b17f9d6f9b6a2407" label="Mosquito - Installer">
@@ -952,7 +952,7 @@
           <attvalue for="size" value="8"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="113.91026" y="-120.24517"></viz:position>
+        <viz:position x="747.5641" y="-2370.924"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="0f0a24ddaa40da5cb13dddf9bc331648" label="DarkNeuron - Service Dropper">
@@ -961,7 +961,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="195.51933" y="427.401"></viz:position>
+        <viz:position x="1852.2941" y="3715.4348"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="6eaa00c8236cb3c59d071d8646c0b142" label="Carbon - Loader (v3.81)">
@@ -970,7 +970,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="227.60222" y="171.15228"></viz:position>
+        <viz:position x="1738.5654" y="885.9131"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="3d44e8a71b9702407be9a89f370e1522" label="Mosquito">
@@ -979,7 +979,7 @@
           <attvalue for="size" value="10"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="45.010303" y="-127.93315"></viz:position>
+        <viz:position x="-218.10329" y="-1843.3451"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="c93aeec2c3e974460de3d58b943eb91a" label="Gazer - Wiper (x32)">
@@ -988,7 +988,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-117.55105" y="144.41595"></viz:position>
+        <viz:position x="-1008.1326" y="741.6681"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="9e935d3ee65119c1b3e6aff7ae310e4c" label="Nautilus">
@@ -997,7 +997,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="87.66851" y="281.24545"></viz:position>
+        <viz:position x="1214.3303" y="1472.0156"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="bdb533317a59778bf653d6085500d96d" label="Carbon - Orchestrator (v3.79)">
@@ -1006,7 +1006,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="156.44106" y="52.5749"></viz:position>
+        <viz:position x="1577.7323" y="-787.45483"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="8b057eee6dc04fde15dfae5dd75b3d77" label="Uroburos - FA">
@@ -1015,7 +1015,7 @@
           <attvalue for="size" value="3"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="257.74667" y="-118.15236"></viz:position>
+        <viz:position x="2425.8528" y="-1737.8003"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="9391d2f345e4d8f4f04725bf3f38544c" label="Outlook Backdoor">
@@ -1024,7 +1024,7 @@
           <attvalue for="size" value="4"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-39.666435" y="272.6877"></viz:position>
+        <viz:position x="571.89075" y="853.51025"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="934d5e9c680b4faba59d5ba27a9f7899" label="ComRAT">
@@ -1033,7 +1033,7 @@
           <attvalue for="size" value="64"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-93.78344" y="-135.21028"></viz:position>
+        <viz:position x="58.855644" y="-1262.8374"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="3fe27e2fa2335739adc9210e7d1000ad" label="Kazuar">
@@ -1042,7 +1042,7 @@
           <attvalue for="size" value="3"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="261.98178" y="229.44545"></viz:position>
+        <viz:position x="2459.7234" y="1634.3336"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="52df713c4529f82fdc4e23826dcbf5d7" label="Mosquito - Backdoor">
@@ -1051,7 +1051,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="4.448872" y="-186.62347"></viz:position>
+        <viz:position x="119.65444" y="-2380.9382"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="f86b888968bbd3ed52d9c63f863f6b75" label="Carbon - Loader (v3.71)">
@@ -1060,7 +1060,7 @@
           <attvalue for="size" value="4"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="192.16675" y="112.082695"></viz:position>
+        <viz:position x="1768.5029" y="-231.81061"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="b0dda25becb65b5ddc1ba875d74cf234" label="LightNeuron - Companion DLL">
@@ -1069,7 +1069,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-280.32837" y="198.22423"></viz:position>
+        <viz:position x="-1667.6145" y="677.1273"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="bc824fb5e8f78582baedbbe330c96d09" label="KSL0T - Keylogger">
@@ -1078,7 +1078,7 @@
           <attvalue for="size" value="7"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="39.049755" y="-237.7366"></viz:position>
+        <viz:position x="411.87546" y="-1830.9082"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="7d97ce157ff505df600655c21aadba09" label="Carbon - Loader (v3.77)">
@@ -1087,7 +1087,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="190.58066" y="-4.165867"></viz:position>
+        <viz:position x="2234.7312" y="-749.9741"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="c6f116acbfa31be4a1b493c7546a27be" label="PNG Dropper">
@@ -1096,7 +1096,7 @@
           <attvalue for="size" value="9"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="14.87881" y="-72.63516"></viz:position>
+        <viz:position x="240.92056" y="-718.27673"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="fa8291d4b8b5cb1636330c0eb0ef90eb" label="Gazer - Orchestrator (x64)">
@@ -1105,7 +1105,7 @@
           <attvalue for="size" value="14"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-11.550072" y="213.72246"></viz:position>
+        <viz:position x="29.867332" y="746.3749"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="2f29309be5931a35dfe890f6523d54ce" label="Uroburos - CVE-2008-3431">
@@ -1114,7 +1114,7 @@
           <attvalue for="size" value="4"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-24.87258" y="-131.91428"></viz:position>
+        <viz:position x="-605.87683" y="-1366.9498"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="30fb6d0d00defd9743c9ec9f680eac83" label="Penquin Turla">
@@ -1123,7 +1123,7 @@
           <attvalue for="size" value="7"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="209.6282" y="84.4275"></viz:position>
+        <viz:position x="2383.1465" y="-185.59"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="124dffb63cd6f5b31f3dda77549f817c" label="Gazer - Orchestrator (x32)">
@@ -1132,7 +1132,7 @@
           <attvalue for="size" value="6"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-138.05548" y="-80.557014"></viz:position>
+        <viz:position x="-493.31256" y="327.73523"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="13096ca132a4e871eb10b6537fd50305" label="Carbon - Dropper (v3.77)">
@@ -1141,7 +1141,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="157.5351" y="167.98178"></viz:position>
+        <viz:position x="2010.7844" y="335.16782"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="69de3d157e6db6537145f40476ef1cfa" label="DarkNeuron - Service">
@@ -1150,7 +1150,7 @@
           <attvalue for="size" value="4"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="253.0339" y="396.38287"></viz:position>
+        <viz:position x="1808.803" y="3153.133"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="37f9335403948d59fe6c4cb54cc7e44d" label="Carbon - Dropper (v3.71)">
@@ -1159,7 +1159,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="123.44623" y="226.50505"></viz:position>
+        <viz:position x="1838.6082" y="1489.1509"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="a5dc44aa86568f20b56e5b236be7a221" label="Wipbot">
@@ -1168,7 +1168,7 @@
           <attvalue for="size" value="19"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-9.0867605" y="343.63882"></viz:position>
+        <viz:position x="421.54514" y="2535.9138"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="9cdc4b59fa61402444eb6696219bd45c" label="Carbon - Communication Library (v3.62)">
@@ -1177,7 +1177,7 @@
           <attvalue for="size" value="3"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="89.53724" y="166.7352"></viz:position>
+        <viz:position x="1146.6042" y="896.48346"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="8081fbfa8ceb55acc911f00035ae33a7" label="Carbon - Orchestrator (v3.71)">
@@ -1186,7 +1186,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="123.10414" y="109.36865"></viz:position>
+        <viz:position x="1387.6992" y="336.35843"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="ef1e4b4a6487a6ac9f387829e5a8fb15" label="Carbon - Orchestrator (v3.81)">
@@ -1195,7 +1195,7 @@
           <attvalue for="size" value="3"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="88.01819" y="48.86985"></viz:position>
+        <viz:position x="1152.7086" y="-232.67216"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="ae3ab1d2d78b6a322873d07fdbd9a69d" label="Gazer">
@@ -1204,7 +1204,7 @@
           <attvalue for="size" value="7"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-156.01422" y="-24.513874"></viz:position>
+        <viz:position x="-801.465" y="-247.60751"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="736a4defe913d0bfa55ecb09243cb650" label="Carbon - Orchestrator (v3.77)">
@@ -1213,7 +1213,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="153.07437" y="-63.105247"></viz:position>
+        <viz:position x="1311.4492" y="-1299.4047"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="bf43da2cb26721e73ddd15e3ad2cff29" label="Gazer - Communication Module (x32)">
@@ -1222,7 +1222,7 @@
           <attvalue for="size" value="3"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-55.049904" y="-76.20189"></viz:position>
+        <viz:position x="-219.23936" y="-264.08862"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="942d92c21aab24cebba5a0d9cb4ac8f6" label="LightNeuron - Transport Agent">
@@ -1231,7 +1231,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-387.1983" y="151.53879"></viz:position>
+        <viz:position x="-3289.6956" y="2595.4678"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="b02e57564eddb13b137d283063942c24" label="Gazer - Communication Module (x64)">
@@ -1240,7 +1240,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="22.016226" y="281.8748"></viz:position>
+        <viz:position x="225.70012" y="1953.3136"></viz:position>
         <viz:color r="255" g="143" b="0"></viz:color>
       </node>
       <node id="f53a7948eef286c3e93801861b92768e" label="Industroyer - Backdoor">
@@ -1249,7 +1249,7 @@
           <attvalue for="size" value="4"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="311.31787" y="263.87347"></viz:position>
+        <viz:position x="2285.5027" y="2759.9663"></viz:position>
         <viz:color r="0" g="193" b="255"></viz:color>
       </node>
       <node id="6d9b30aee6ca73c89d95d36895a7b6e2" label="Industroyer - Launcher">
@@ -1258,7 +1258,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="75.10767" y="-289.22235"></viz:position>
+        <viz:position x="1111.5262" y="-2848.6125"></viz:position>
         <viz:color r="0" g="193" b="255"></viz:color>
       </node>
       <node id="63f31c24f4e401ca2b4ff129634d2f05" label="Industroyer - Payload - IEC-104">
@@ -1267,7 +1267,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-46.945156" y="402.9943"></viz:position>
+        <viz:position x="-760.325" y="4090.3606"></viz:position>
         <viz:color r="0" g="193" b="255"></viz:color>
       </node>
       <node id="629057c141c3297c86bc70fe2776058e" label="Industroyer - Wiper">
@@ -1276,7 +1276,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-24.857819" y="-357.9682"></viz:position>
+        <viz:position x="855.2797" y="-3455.493"></viz:position>
         <viz:color r="0" g="193" b="255"></viz:color>
       </node>
       <node id="9c66f85784befaaae1650d7d12e720b2" label="Industroyer - Port Scanner">
@@ -1285,7 +1285,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-156.67155" y="-376.16263"></viz:position>
+        <viz:position x="-349.0058" y="-3532.7546"></viz:position>
         <viz:color r="0" g="193" b="255"></viz:color>
       </node>
       <node id="111574ab51386726b9e4ccdf7071bfdd" label="Industroyer - Payload - OPC">
@@ -1294,7 +1294,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="355.57877" y="-59.76403"></viz:position>
+        <viz:position x="3354.4329" y="-1086.4558"></viz:position>
         <viz:color r="0" g="193" b="255"></viz:color>
       </node>
       <node id="94f9f7ebeb3e4dc55e44471e10d55644" label="TeamSpy - Module - Traceroute">
@@ -1303,7 +1303,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="157.92143" y="287.26886"></viz:position>
+        <viz:position x="1471.0015" y="2022.2313"></viz:position>
         <viz:color r="255" g="103" b="162"></viz:color>
       </node>
       <node id="8412c59bf8eaf4bd9ef51aa4e2e8b0f0" label="TeamSpy - Module - Screen Capture">
@@ -1312,7 +1312,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="393.65726" y="123.01739"></viz:position>
+        <viz:position x="3400.8335" y="1443.9349"></viz:position>
         <viz:color r="255" g="103" b="162"></viz:color>
       </node>
       <node id="eabed815c2650c7a7d1c0ad1e5919f43" label="TeamSpy - Module - File Collector">
@@ -1321,7 +1321,7 @@
           <attvalue for="size" value="4"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="547.7" y="50.073227"></viz:position>
+        <viz:position x="4102.3745" y="626.8627"></viz:position>
         <viz:color r="255" g="103" b="162"></viz:color>
       </node>
       <node id="b353bae9dc49a55d17065f8d20c17192" label="TeamSpy - Module - SystemInfo">
@@ -1330,7 +1330,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="5.0588574" y="-298.1465"></viz:position>
+        <viz:position x="484.2188" y="-2946.3684"></viz:position>
         <viz:color r="255" g="103" b="162"></viz:color>
       </node>
       <node id="d567300ec95277f9f1d3aa7ea44c88a8" label="TeamSpy - Module - Bi">
@@ -1339,7 +1339,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-368.6748" y="-286.5887"></viz:position>
+        <viz:position x="-2672.1067" y="-3142.8574"></viz:position>
         <viz:color r="255" g="103" b="162"></viz:color>
       </node>
       <node id="f17fe63add2f076061da83994f5165e8" label="TeamSpy - Module - System Info">
@@ -1348,7 +1348,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-326.64514" y="-335.0716"></viz:position>
+        <viz:position x="-2207.2048" y="-3560.0654"></viz:position>
         <viz:color r="255" g="103" b="162"></viz:color>
       </node>
       <node id="b3603cc421bba10d6cf5d84077455628" label="TeamSpy - Module - Config">
@@ -1357,7 +1357,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="257.68643" y="-227.2449"></viz:position>
+        <viz:position x="3132.9868" y="-2719.6968"></viz:position>
         <viz:color r="255" g="103" b="162"></viz:color>
       </node>
       <node id="76ba6a4600b4f61f88270b0ce6bd2642" label="TeamSpy - Module - Network Info">
@@ -1366,7 +1366,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="186.3265" y="-118.58597"></viz:position>
+        <viz:position x="1694.1857" y="-1795.1818"></viz:position>
         <viz:color r="255" g="103" b="162"></viz:color>
       </node>
       <node id="fca69bb844bdb0f0c6da3d68e33b5ab9" label="TeamSpy - Module - iOS Info">
@@ -1375,7 +1375,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-133.4499" y="318.55792"></viz:position>
+        <viz:position x="-58.768677" y="3015.8848"></viz:position>
         <viz:color r="255" g="103" b="162"></viz:color>
       </node>
       <node id="af838b08dcee8ca3be2b917bbdebd785" label="TeamSpy - Module - Keylogger">
@@ -1384,7 +1384,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="290.07806" y="-60.140198"></viz:position>
+        <viz:position x="2695.5713" y="-1204.0195"></viz:position>
         <viz:color r="255" g="103" b="162"></viz:color>
       </node>
       <node id="cc5ac684962a1899fb35c35931799032" label="TeamSpy - Module - Backdoor">
@@ -1393,7 +1393,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="217.20981" y="-278.3857"></viz:position>
+        <viz:position x="2686.6873" y="-3186.4277"></viz:position>
         <viz:color r="255" g="103" b="162"></viz:color>
       </node>
       <node id="cb89125630d13d8e5ac0978d31d2f6b5" label="TeamSpy - Module - NetScanFiles">
@@ -1402,7 +1402,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="433.01617" y="-180.7216"></viz:position>
+        <viz:position x="3485.9656" y="-2215.1218"></viz:position>
         <viz:color r="255" g="103" b="162"></viz:color>
       </node>
       <node id="881227f338385fe0bc7ded142779ac41" label="TeamSpy - Module - Process List">
@@ -1411,7 +1411,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-66.028076" y="-310.4494"></viz:position>
+        <viz:position x="-111.04375" y="-2960.8936"></viz:position>
         <viz:color r="255" g="103" b="162"></viz:color>
       </node>
       <node id="63a6c1660191d9fc2615c1f67568fe0a" label="TeamSpy - Module - NetScanShares">
@@ -1420,7 +1420,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="458.42938" y="-113.742424"></viz:position>
+        <viz:position x="3952.97" y="-1162.7571"></viz:position>
         <viz:color r="255" g="103" b="162"></viz:color>
       </node>
       <node id="aba28bd390e092901025ce867aa67363" label="TeamSpy - Module - SystemInfoSafe">
@@ -1429,7 +1429,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="327.29373" y="-119.608925"></viz:position>
+        <viz:position x="3131.9363" y="-1646.6823"></viz:position>
         <viz:color r="255" g="103" b="162"></viz:color>
       </node>
       <node id="6c1149f802c616f063ca2bd8de974811" label="MiniDuke">
@@ -1438,7 +1438,7 @@
           <attvalue for="size" value="56"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-244.86214" y="200.50812"></viz:position>
+        <viz:position x="-2731.3394" y="1094.4055"></viz:position>
         <viz:color r="0" g="197" b="174"></viz:color>
       </node>
       <node id="b2e158c6951332bac289c56c5e457ca6" label="CloudDuke">
@@ -1447,7 +1447,7 @@
           <attvalue for="size" value="23"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-77.80669" y="50.580803"></viz:position>
+        <viz:position x="-1046.3333" y="-841.96265"></viz:position>
         <viz:color r="0" g="197" b="174"></viz:color>
       </node>
       <node id="39af29e6c7cb7c85cbba6040d33abf8a" label="GeminiDuke">
@@ -1456,7 +1456,7 @@
           <attvalue for="size" value="5"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-197.60847" y="113.96451"></viz:position>
+        <viz:position x="-3490.0247" y="962.45636"></viz:position>
         <viz:color r="0" g="197" b="174"></viz:color>
       </node>
       <node id="f0a39250cda24f3c0d08539c3d7d3b9e" label="HammerDuke">
@@ -1465,7 +1465,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-310.5035" y="-260.51123"></viz:position>
+        <viz:position x="-2043.7938" y="-3001.6333"></viz:position>
         <viz:color r="0" g="197" b="174"></viz:color>
       </node>
       <node id="6ab8aa673ad0ce0683828c20a0346c6f" label="CozyDuke">
@@ -1474,7 +1474,7 @@
           <attvalue for="size" value="40"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-95.81084" y="-378.10138"></viz:position>
+        <viz:position x="250.11858" y="-3544.2783"></viz:position>
         <viz:color r="0" g="197" b="174"></viz:color>
       </node>
       <node id="7936c5137b8c700bbb79d6d618a56784" label="PinchDuke">
@@ -1483,7 +1483,7 @@
           <attvalue for="size" value="21"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-150.17899" y="159.69417"></viz:position>
+        <viz:position x="-2099.4546" y="1195.5469"></viz:position>
         <viz:color r="0" g="197" b="174"></viz:color>
       </node>
       <node id="deec2b440f7be781865dbdf2ec7dc9fc" label="OnionDuke">
@@ -1492,7 +1492,7 @@
           <attvalue for="size" value="28"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="119.357506" y="338.68835"></viz:position>
+        <viz:position x="1068.8667" y="2651.1794"></viz:position>
         <viz:color r="0" g="197" b="174"></viz:color>
       </node>
       <node id="55f85530231475c234a57958a304f62e" label="CosmicDuke">
@@ -1501,7 +1501,7 @@
           <attvalue for="size" value="77"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-370.2638" y="92.79929"></viz:position>
+        <viz:position x="-3221.074" y="1467.0393"></viz:position>
         <viz:color r="0" g="197" b="174"></viz:color>
       </node>
       <node id="855dcf46602c86267b86e2377d4547ad" label="Bad Rabbit - Installer">
@@ -1510,7 +1510,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-209.67465" y="-422.64474"></viz:position>
+        <viz:position x="-1244.8279" y="-3998.1548"></viz:position>
         <viz:color r="0" g="203" b="97"></viz:color>
       </node>
       <node id="cb2a2a0e1171ffaa8347f57ed6802fcd" label="Bad Rabbit - Wiper">
@@ -1519,7 +1519,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-183.12582" y="-400.24045"></viz:position>
+        <viz:position x="-641.8888" y="-4076.0754"></viz:position>
         <viz:color r="0" g="203" b="97"></viz:color>
       </node>
       <node id="af5f51e14cb81d4cff35b5f543226bb6" label="GreyEnergy - Dropper - Unpacked">
@@ -1528,7 +1528,7 @@
           <attvalue for="size" value="10"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-380.95093" y="-169.47267"></viz:position>
+        <viz:position x="-2894.2915" y="-2051.7173"></viz:position>
         <viz:color r="150" g="165" b="255"></viz:color>
       </node>
       <node id="7991e76977efb333e811fefe8420247a" label="GreyEnergy - Port Scanner">
@@ -1537,7 +1537,7 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-129.26376" y="-315.17618"></viz:position>
+        <viz:position x="-722.75476" y="-2953.6318"></viz:position>
         <viz:color r="150" g="165" b="255"></viz:color>
       </node>
       <node id="1e659a8caf3591d38ba113b569864cc2" label="Moonraker Petya">
@@ -1546,7 +1546,7 @@
           <attvalue for="size" value="1"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-276.48334" y="-382.1145"></viz:position>
+        <viz:position x="-1653.654" y="-3622.333"></viz:position>
         <viz:color r="150" g="165" b="255"></viz:color>
       </node>
       <node id="ad41a236ac075ecc2514dc2e0eca445f" label="GreyEnergy - Payload">
@@ -1555,7 +1555,7 @@
           <attvalue for="size" value="9"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-439.7825" y="-210.58386"></viz:position>
+        <viz:position x="-3083.2278" y="-2735.5645"></viz:position>
         <viz:color r="150" g="165" b="255"></viz:color>
       </node>
       <node id="eb5aafda5012806502c14ae0e0a3c079" label="GreyEnergy Mini">
@@ -1564,7 +1564,7 @@
           <attvalue for="size" value="5"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="150.56238" y="-288.6788"></viz:position>
+        <viz:position x="1893.6802" y="-2874.0867"></viz:position>
         <viz:color r="150" g="165" b="255"></viz:color>
       </node>
       <node id="1ef437fbaadd5bbe7eee75b4abc0fabf" label="GreyEnergy - Payload - Unpacked">
@@ -1573,7 +1573,7 @@
           <attvalue for="size" value="9"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-385.33572" y="-129.70746"></viz:position>
+        <viz:position x="-3747.2192" y="-1788.6272"></viz:position>
         <viz:color r="150" g="165" b="255"></viz:color>
       </node>
       <node id="0fcf57fdb8d894dfb2de44c58f5a6677" label="GreyEnergy - Payload - In Memory">
@@ -1582,7 +1582,7 @@
           <attvalue for="size" value="11"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-254.42084" y="138.35864"></viz:position>
+        <viz:position x="-3907.7996" y="1401.9819"></viz:position>
         <viz:color r="150" g="165" b="255"></viz:color>
       </node>
       <node id="3627d04d0ab33887e89d3bea1677667f" label="GreyEnergy - Dropper">
@@ -1591,7 +1591,7 @@
           <attvalue for="size" value="9"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-430.68802" y="-179.80673"></viz:position>
+        <viz:position x="-3435.4792" y="-2282.378"></viz:position>
         <viz:color r="150" g="165" b="255"></viz:color>
       </node>
       <node id="c49831295b806c3cda42ce753233ac4b" label="GreyEnergy Mini - Unpacked">
@@ -1600,8 +1600,16 @@
           <attvalue for="size" value="2"></attvalue>
         </attvalues>
         <viz:size value="35.0"></viz:size>
-        <viz:position x="-421.88458" y="-105.00575"></viz:position>
+        <viz:position x="-3976.4119" y="-1215.2109"></viz:position>
         <viz:color r="150" g="165" b="255"></viz:color>
+      </node>
+      <node id="0" label="KillDisk">
+        <attvalues>
+          <attvalue for="actor" value="BlackEnergy"></attvalue>
+          <attvalue for="size" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="296.5501" y="636.4901"></viz:position>
       </node>
     </nodes>
     <edges>
@@ -1757,6 +1765,7 @@
       <edge id="191" source="ae3ab1d2d78b6a322873d07fdbd9a69d" target="bf43da2cb26721e73ddd15e3ad2cff29" weight="15.0"></edge>
       <edge id="193" source="c690c03be4dbe516451d804d89ecdb18" target="3f1c8dc5364299cc5accb017f081af0f"></edge>
       <edge id="194" source="30fb6d0d00defd9743c9ec9f680eac83" target="28abff7b2525d5cbf3d7ea4450a7c07e"></edge>
+      <edge id="415" source="23e0095eea16390ed9a28db2d74bfc89" target="0"></edge>
       <edge id="196" source="4659a4dbd837b89b9d2b28b84ba3248f" target="cfb62327e685bc076d5296698ddfd206"></edge>
       <edge id="197" source="018fcd7a775cda3c5b397a4ebe4dc628" target="73ee63fa69484a8ac3ea97b9813d61e0"></edge>
       <edge id="198" source="934d5e9c680b4faba59d5ba27a9f7899" target="bc824fb5e8f78582baedbbe330c96d09" weight="2.0"></edge>
