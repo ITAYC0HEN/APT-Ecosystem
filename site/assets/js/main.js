@@ -48,8 +48,8 @@ $.get('graph/GEPHI_Families_Cluster.gexf', function (xml) {
         
 
         title: {
-            text: 'Russian APT Ecosystem',
-            subtext: 'Default layout',
+            // text: 'Russian APT Ecosystem',
+            //subtext: 'Default layout',
             top: 'bottom',
             left: 'right'
         },
@@ -184,7 +184,32 @@ $("#container").click(function () {
 
 /* Configure Side Menu */
 
-function makeUL(array) {
+function makeIntezerUL(array) {
+    // Create the list element:
+    var list = document.createElement('ul');
+
+    array.forEach(function(element) {
+        
+        // Create the list item:
+        var item = document.createElement('li');
+        // Create a link item
+        var link = document.createElement('a');
+        link.setAttribute('href', element);
+        link.innerHTML = element;
+        // Set the list item contents:
+        item.appendChild(link);
+        // Add it to the list:
+        list.appendChild(item);
+
+    });
+        // Finally, return the constructed list:
+        return list;
+}
+    
+
+
+
+function makeReferenceUL(array) {
     // Create the list element:
     var list = document.createElement('ul');
 
@@ -234,6 +259,7 @@ function showInformation(node, color) {
       $lefty.information = $lefty.find(".information");
       $lefty.connections = $lefty.find(".connections");
       $lefty.refs = $lefty.find(".references");
+      $lefty.intezer = $lefty.find(".intezer");
 
   
       $(" > h3", $lefty.family).html(node.name + " | <span>" + family.actor + "</span>");
@@ -241,12 +267,17 @@ function showInformation(node, color) {
       if (family["first_seen"]){
           $lefty.first_seen.html("<b>First seen: </b>" + family.first_seen);
       }
-
+      $lefty.information.html(family.description);
+      
       if (family["references"]) {
           $lefty.refs.html("<b>References:</b>");
-          $lefty.information.html(family.description);
-          $lefty.refs.append(makeUL(family.references));
+          $lefty.refs.append(makeReferenceUL(family.references));
       }
+
+      if (family["intezer"]) {
+        $lefty.intezer.html("<b>Intezer Reports:</b>");
+        $lefty.intezer.append(makeIntezerUL(family.intezer));
+    }
   
   
       $lefty.animate({
