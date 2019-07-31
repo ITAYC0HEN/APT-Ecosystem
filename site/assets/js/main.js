@@ -225,8 +225,18 @@ function makeUL(array) {
     return list;
 }
 
+function findFamilyInJson(name) {
+    if (name in familiesJSON["families"]) {
+        return familiesJSON["families"][name];
+    } else if (name.split(' ')[0] in familiesJSON["families"]) {
+        return familiesJSON["families"][name.split(' ')[0]];
+    }
+    console.log('false')
+    return false;
+}
+
 function showInformation(node, color) {
-  var family = familiesJSON["families"][node.name]
+  var family = findFamilyInJson(node.name);
   if (family) {
       var $lefty = $(".side-menu");
       $lefty.family = $lefty.find(".family-name");
