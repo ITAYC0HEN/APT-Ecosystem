@@ -81,18 +81,6 @@ $.get('graph/GEPHI_Families_Cluster.gexf', function (xml) {
         animationDuration: 1500,
         scaleLimit : {
         },
-        toolbox: {
-            show: true,
-            orient: 'vertical',
-            feature: {
-                dataZoom: {
-                    yAxisIndex: 'none'
-                },
-                dataView: {readOnly: false},
-                restore: {},
-                saveAsImage: {}
-            }
-        },       
         animationEasingUpdate: 'quinticInOut',
         series : [
             {
