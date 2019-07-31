@@ -76,9 +76,9 @@ body {
 
   /* SIDE MENU */
 .side-menu {
-    font-size: 10pt;
-    line-height: 20px;
-    letter-spacing: 0.5px;
+  font-size: 10pt;
+  line-height: 20px;
+  letter-spacing: 0.5px;
   top: 10px;
   
   /*bottom: 10px;*/
@@ -90,19 +90,17 @@ body {
   width: 320px;
   left: -300px;
   height: 100%;
- 
-  
+  overflow: hidden;
 }
 
 
 .side-menu > div {
   margin: 20px 20px 25px 10px;
-  overflow-x: auto;
+  overflow-x: hidden;
 }
 
-.references a {
+.side-menu a {
   color: rgb(255, 113, 220);
-
 }
 
 
@@ -114,6 +112,22 @@ body {
   border-color: rgba(255, 255, 255, 0.3);
   
 }
+
+
+.bottomcorner{
+  position:absolute;
+  bottom: 20px;
+  right: 20px;
+  color: #fff;
+  display: inline-block;
+  transition-duration: .25s;
+  text-decoration-line: none;
+}
+
+.bottomcorner img {
+  margin: 0px 0px 0px 20px;
+}
+
 
 .topcorner{
   position:absolute;
