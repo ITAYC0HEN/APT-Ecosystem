@@ -258,6 +258,7 @@ function showInformation(node, color) {
       $lefty.first_seen = $lefty.find(".first-seen");
       $lefty.information = $lefty.find(".information");
       $lefty.connections = $lefty.find(".connections");
+      $lefty.aliases = $lefty.find(".aliases");
       $lefty.refs = $lefty.find(".references");
       $lefty.intezer = $lefty.find(".intezer");
 
@@ -277,6 +278,13 @@ function showInformation(node, color) {
       if (family["intezer"]) {
         $lefty.intezer.html("<b>Intezer Reports:</b>");
         $lefty.intezer.append(makeIntezerUL(family.intezer));
+    }
+
+    if (family["aliases"]) {
+        var aliases = family.aliases.filter(n => n).join(', ');
+        if (aliases) {
+            $lefty.aliases.html("<b>aka:</b> " + aliases);
+        }
     }
   
   
