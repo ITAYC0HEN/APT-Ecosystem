@@ -254,9 +254,8 @@ function makeIntezerUL(array) {
 function makeReferenceUL(array) {
     // Create the list element:
     var list = document.createElement('ul');
-
-    array.forEach(function(element) {
-        if (!("title" in element) || !element["title"]) {
+    for (element of array ) {
+        if (!("title" in element) || element["title"]  === "") {
             return;
         }
 
@@ -274,8 +273,7 @@ function makeReferenceUL(array) {
         // Add it to the list:
         list.appendChild(item);
 
-    });
-
+    }
     // Finally, return the constructed list:
     return list;
 }
@@ -312,8 +310,11 @@ function showInformation(node, color) {
       $lefty.information.html(family.description);
       
       if (family["references"]) {
-          $lefty.refs.html("<b>References:</b>");
-          $lefty.refs.append(makeReferenceUL(family.references));
+          refs = makeReferenceUL(family.references)
+          if (refs) {
+              $lefty.refs.html("<b>References:</b>");
+              $lefty.refs.append(refs);
+          }
       }
 
       if (family["intezer"]) {
