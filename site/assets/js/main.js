@@ -15,6 +15,8 @@ var dom = document.getElementById("container");
 var myChart = echarts.init(dom, 'purple-passion');
 var app = {};
 var allNodes;
+var isLabelsHidden = false;
+
 
 const arrayToObject = (array) =>
    array.reduce((obj, item) => {
@@ -36,11 +38,7 @@ $.get('graph/GEPHI_Families_Cluster.gexf', function (xml) {
         node.itemStyle = null;
         node.value = node.symbolSize;
         node.symbolSize /= 1.5;
-        node.label = {
-            normal: {
-                show: true
-            }
-        };
+
         categories.push({name: node.attributes.actor});
         node.category = node.attributes.actor;
     });
@@ -82,6 +80,31 @@ $.get('graph/GEPHI_Families_Cluster.gexf', function (xml) {
         scaleLimit : {
         },
         animationEasingUpdate: 'quinticInOut',
+        dataZoom: [
+
+            {
+                type: 'inside',
+                
+            },
+            {
+                type: 'inside',
+            }
+        ], 
+        xAxis: {
+            show: false,
+            scale: true,
+            silent: true,
+
+            type: 'value'
+        },
+        yAxis: {
+            show: false,
+            scale: true,
+            silent: true,
+
+            type: 'value'
+        },
+    
         series : [
             {
                 name: 'Russian APT Ecosystem',
@@ -110,6 +133,7 @@ $.get('graph/GEPHI_Families_Cluster.gexf', function (xml) {
                 },
                 label: {
                     position: 'outside',
+                    show: true,
                     //padding: 5,
                     //borderRadius: 5,
                     //borderWidth: 1,
@@ -136,6 +160,24 @@ $.get('graph/GEPHI_Families_Cluster.gexf', function (xml) {
 if (option && typeof option === "object") {
     myChart.setOption(option, true);
 }
+
+myChart.on('dataZoom', function (params) {
+    var start = params.batch[0].start;
+    var end = params.batch[0].end;
+
+
+    if(myChart.getOption().series[0].zoom <= 0.3 && myChart.getOption().series[0].zoom != 1 && !isLabelsHidden)
+    {
+        myChart.setOption({series: [{label: {
+            show: false}}]});
+        isLabelsHidden = true;
+    } else if(myChart.getOption().series[0].zoom > 0.3 && myChart.getOption().series[0].zoom != 1 && isLabelsHidden)
+    {
+        myChart.setOption({series: [{label: {
+            show: true}}]});
+        isLabelsHidden = false;
+    }
+});
 
 
 /* Configure Click actions to show the menu */
@@ -167,7 +209,7 @@ myChart.on('mousemove', params => {
   });
 
   
-  
+
 /* Configure Click ouside node  to hide the menu */
 
 $("#container").click(function () {
@@ -244,7 +286,6 @@ function findFamilyInJson(name) {
     } else if (name.split(' ')[0] in familiesJSON["families"]) {
         return familiesJSON["families"][name.split(' ')[0]];
     }
-    console.log('false')
     return false;
 }
 
