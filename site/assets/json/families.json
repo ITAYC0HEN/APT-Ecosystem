@@ -498,15 +498,19 @@
       }]
     },
     "DarkNeuron - Client": {
-      "aliases": [],
+      "aliases": ["Neuron"],
       "first_seen": "",
       "actor": "Turla",
-      "description": "",
+      "description": "Neuron consists of two components - a client and a server. The client is used to infect endpoints and steal sensitive information. The server is used to infect netwrok servers and acts as a local C&C for the clients.",
       "similarities": "",
       "artifacts": "",
       "references": [{
-        "title": "",
-        "link": ""
+        "title": "Turla group using Neuron and Nautilus tools alongside Snake malware- NCSC",
+        "link": "https://app.box.com/s/316mbg901wxjdarmtdlj6v4qv29a0ge8"
+      },
+      {
+        "title": "Turla group malware - NCSC",
+        "link": "https://www.ncsc.gov.uk/news/turla-group-malware"
       }],
       "hashes": {
         "md5": ["4ed42233962a89deaa89fd7b989db081"],
@@ -516,15 +520,19 @@
       "intezer": ["https://analyze.intezer.com/#/files/a96c57c35df18ac20d83b08a88e502071bd0033add0914b951adbd1639b0b873"]
     },
     "DarkNeuron - Client Dropper": {
-      "aliases": [],
+      "aliases": ["Neuron"],
       "first_seen": "",
       "actor": "Turla",
-      "description": "",
+      "description": "Neuron consists of two components - a client and a server. The client is used to infect endpoints and steal sensitive information. The server is used to infect netwrok servers and acts as a local C&C for the clients.",
       "similarities": "",
       "artifacts": "",
       "references": [{
-        "title": "",
-        "link": ""
+        "title": "Turla group using Neuron and Nautilus tools alongside Snake malware- NCSC",
+        "link": "https://app.box.com/s/316mbg901wxjdarmtdlj6v4qv29a0ge8"
+      },
+      {
+        "title": "Turla group malware - NCSC",
+        "link": "https://www.ncsc.gov.uk/news/turla-group-malware"
       }],
       "hashes": {
         "md5": ["3cd5fa46507657f723719b7809d2d1f9"],
@@ -534,15 +542,19 @@
       "intezer": ["https://analyze.intezer.com/#/files/a6dbc36c472b3ba70a98efd0db35e75c340086be15d3c3ab4e39033604d0bcf9"]
     },
     "DarkNeuron - Service": {
-      "aliases": [],
+      "aliases": ["Neuron"],
       "first_seen": "",
       "actor": "Turla",
-      "description": "",
+      "description": "Neuron consists of two components - a client and a server. The client is used to infect endpoints and steal sensitive information. The server is used to infect netwrok servers and acts as a local C&C for the clients.",
       "similarities": "",
       "artifacts": "",
       "references": [{
-        "title": "",
-        "link": ""
+        "title": "Turla group using Neuron and Nautilus tools alongside Snake malware- NCSC",
+        "link": "https://app.box.com/s/316mbg901wxjdarmtdlj6v4qv29a0ge8"
+      },
+      {
+        "title": "Turla group malware - NCSC",
+        "link": "https://www.ncsc.gov.uk/news/turla-group-malware"
       }],
       "hashes": {
         "md5": ["0f12268221e27406351a6313f902b498", "8229622a9790d75e09a099e8758d5703", "371b4380080e3d94ffcae1a7e9a0d5e2", "a3bdc385cf68019449027bd6d8cecb4d"],
@@ -552,15 +564,19 @@
       "intezer": ["https://analyze.intezer.com/#/files/d1d7a96fcadc137e80ad866c838502713db9cdfe59939342b8e3beacf9c7fe29", "https://analyze.intezer.com/#/files/0f4e9e391696ed8b9172985bb43cca7d7f2c8a4ae0493e4bf1f15b90f7138259", "https://analyze.intezer.com/#/files/2986bae15cfa78b919d21dc070be944e949a027e8047a812026e35c66ab17353", "https://analyze.intezer.com/#/files/2f4d6a3c87770c7d42d1a1b71ed021a083b08f69ccaf63c15428c7bc6f69cb10"]
     },
     "DarkNeuron - Service Dropper": {
-      "aliases": [],
+      "aliases": ["Neuron"],
       "first_seen": "",
       "actor": "Turla",
-      "description": "",
+      "description": "Neuron consists of two components - a client and a server. The client is used to infect endpoints and steal sensitive information. The server is used to infect netwrok servers and acts as a local C&C for the clients.",
       "similarities": "",
       "artifacts": "",
       "references": [{
-        "title": "",
-        "link": ""
+        "title": "Turla group using Neuron and Nautilus tools alongside Snake malware- NCSC",
+        "link": "https://app.box.com/s/316mbg901wxjdarmtdlj6v4qv29a0ge8"
+      },
+      {
+        "title": "Turla group malware - NCSC",
+        "link": "https://www.ncsc.gov.uk/news/turla-group-malware"
       }],
       "hashes": {
         "md5": ["d6ef3c8f2c3f3ddffbb70f5dadfa982c"],
@@ -771,12 +787,12 @@
       "aliases": [],
       "first_seen": "",
       "actor": "Turla",
-      "description": "",
+      "description": "Light Neuron is a backdoor which designed to target Microsoft Exchange main servers. In addition of being a full-feature backdoor, its uniqueness is in its ability to spy on emails.",
       "similarities": "",
       "artifacts": "",
       "references": [{
-        "title": "",
-        "link": ""
+        "title": "Turla LightNeuron: An email too far - ESET",
+        "link": "https://www.welivesecurity.com/wp-content/uploads/2019/05/ESET-LightNeuron.pdf"
       }],
       "hashes": {
         "md5": [],
@@ -789,12 +805,12 @@
       "aliases": [],
       "first_seen": "",
       "actor": "Turla",
-      "description": "",
+      "description": "Light Neuron is a backdoor which designed to target Microsoft Exchange main servers. In addition of being a full-feature backdoor, its uniqueness is in its ability to spy on emails.",
       "similarities": "",
       "artifacts": "",
       "references": [{
-        "title": "",
-        "link": ""
+        "title": "Turla LightNeuron: An email too far - ESET",
+        "link": "https://www.welivesecurity.com/wp-content/uploads/2019/05/ESET-LightNeuron.pdf"
       }],
       "hashes": {
         "md5": [],
