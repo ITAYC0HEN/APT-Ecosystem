@@ -237,6 +237,7 @@ function makeIntezerUL(array) {
         // Create a link item
         var link = document.createElement('a');
         link.setAttribute('href', element);
+        link.setAttribute('target', "_blank");
         link.innerHTML = element;
         // Set the list item contents:
         item.appendChild(link);
@@ -267,6 +268,7 @@ function makeReferenceUL(array) {
         // Create a link item
         var link = document.createElement('a');
         link.setAttribute('href', element["link"]);
+        link.setAttribute('target', "_blank");
         link.innerHTML = element["title"];
         // Set the list item contents:
         item.appendChild(link);
