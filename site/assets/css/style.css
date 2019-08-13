@@ -104,6 +104,10 @@ body {
   color: rgb(255, 113, 220);
 }
 
+.side-menu ul {
+  padding-left: 5px;
+  list-style-type:none;
+}
 
 .info {
   padding-top: 10px;

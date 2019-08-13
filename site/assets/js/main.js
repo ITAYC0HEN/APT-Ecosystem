@@ -229,8 +229,11 @@ $("#container").click(function () {
 function makeIntezerUL(array) {
     // Create the list element:
     var list = document.createElement('ul');
+    if (array.length == 0) {
+        return;
+    }
 
-    array.forEach(function(element) {
+    for (element of array ) {
         
         // Create the list item:
         var item = document.createElement('li');
@@ -244,7 +247,7 @@ function makeIntezerUL(array) {
         // Add it to the list:
         list.appendChild(item);
 
-    });
+    }
         // Finally, return the constructed list:
         return list;
 }
@@ -320,8 +323,12 @@ function showInformation(node, color) {
       }
 
       if (family["intezer"]) {
-        $lefty.intezer.html("<b>Intezer Reports:</b>");
-        $lefty.intezer.append(makeIntezerUL(family.intezer));
+        reports = makeIntezerUL(family.intezer);
+        if (reports) {
+            console.log("Sf");
+            $lefty.intezer.html("<b>Intezer Reports:</b>");
+            $lefty.intezer.append(reports);
+        }
     }
 
     if (family["aliases"]) {
