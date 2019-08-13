@@ -238,7 +238,7 @@ function makeIntezerUL(array) {
         var link = document.createElement('a');
         link.setAttribute('href', element);
         link.setAttribute('target', "_blank");
-        link.innerHTML = element;
+        link.innerHTML = element.split('/').slice(-1)[0];
         // Set the list item contents:
         item.appendChild(link);
         // Add it to the list:
