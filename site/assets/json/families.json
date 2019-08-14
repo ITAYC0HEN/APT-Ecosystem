@@ -2221,7 +2221,7 @@
     },
     "VPNFilter - Stage 1": {
       "aliases": [],
-      "first_seen": "2018"
+      "first_seen": "2018",
       "actor": "VPNFilter",
       "description": "VPNFilter is a malware used for wide spread routers infection. Around 500,000 routers have been hit, in Ukraine, as published by Cisco Talos. The FBI later attributed this malware to Sofacy group.",
       "similarities": "",
