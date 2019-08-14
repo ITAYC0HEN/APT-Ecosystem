@@ -865,7 +865,7 @@
         <viz:position x="154.81361" y="944.84485"></viz:position>
         <viz:color r="255" g="103" b="162"></viz:color>
       </node>
-      <node id="81e166b9b317099e424dcdcc216c6a52" label="Ddex_loader">
+      <node id="81e166b9b317099e424dcdcc216c6a52" label="Ddex Loader">
         <attvalues>
           <attvalue for="actor" value="Energetic Bear"></attvalue>
           <attvalue for="size" value="4"></attvalue>

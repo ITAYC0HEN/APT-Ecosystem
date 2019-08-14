@@ -1653,7 +1653,7 @@
       },
       "intezer": ["https://analyze.intezer.com/#/files/8b7427620d6537aa905727af48f7dec1e003a8b7c74d417f0a5ded7926a7d590", "https://analyze.intezer.com/#/files/7a3b78feba1670850602b7c33cb0968b4d89db609d98c81744b43cae23d563f5", "https://analyze.intezer.com/#/files/dd29a6b5c62d8726a3073b6f7d20e6f34d00616de61fc55d04bda9e7824cd598", "https://analyze.intezer.com/#/files/52ba22dc22f5a85f66e2a9a530a8f848eabeff19b02edda7a88c68f519bf91a8", "https://analyze.intezer.com/#/files/d88bd6947eef00bd3baadc55ff1c55b3cdcff5ba8fd145d5b5bf8894c42a7fd3"]
     },
-    "Ddex_loader": {
+    "Ddex Loader": {
       "aliases": [],
       "first_seen": "",
       "actor": "Energetic Bear",
