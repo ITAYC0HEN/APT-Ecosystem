@@ -1511,9 +1511,9 @@
     },
     "CloudDuke": {
       "aliases": [],
-      "first_seen": "",
+      "first_seen": "2015",
       "actor": "APT29",
-      "description": "",
+      "description": "CloudDuke is a backdoor design for C2 communication over Microsoft OneDrive.",
       "similarities": "",
       "artifacts": "",
       "references": [{
@@ -1529,9 +1529,9 @@
     },
     "CosmicDuke": {
       "aliases": [],
-      "first_seen": "",
+      "first_seen": "2010",
       "actor": "APT29",
-      "description": "",
+      "description": "CosmicDuke is the first malware developed by APT29 in a modular design, several modules have being found by security vendors, indluding persistent and exploitations modules.",
       "similarities": "",
       "artifacts": "",
       "references": [{
@@ -1547,14 +1547,14 @@
     },
     "CozyDuke": {
       "aliases": [],
-      "first_seen": "",
+      "first_seen": "2011",
       "actor": "APT29",
-      "description": "",
+      "description": "CozyDuke is a full toolset used by APT29 group in order to keep and expand network operations(post-explotation).",
       "similarities": "",
       "artifacts": "",
       "references": [{
-        "title": "",
-        "link": ""
+        "title": "COZYDUKE",
+        "link": "https://www.f-secure.com/documents/996508/1030745/CozyDuke"
       }],
       "hashes": {
         "md5": ["98a6484533fa12a9ba6b1bd9df1899dc", "f58a4369b8176edbde4396dc977c9008", "91aaf47843a34a9d8d1bb715a6d4acec", "f0a6436ffee12558a434a0fc24b3b33f", "556b9eca4a85f52e2f3176c306e18661", "f2b05e6b01be3b6cb14e9068e7a66fc1", "14d779777af6eb7c556ae338b462c48d", "9f65e3b320ec91380ebc28d4fdff4895", "5b4250a6bb4c6915ce962d489ee912d6", "57a1f0658712ee7b3a724b6d07e97259", "181a88c911b10d0fcb4682ae552c0de3", "90bd910ee161b71c7a37ac642f910059", "eb22b99d44223866e24872d80a4ddefd", "1dde02ff744fa4e261168e2008fd613a", "08709ef0e3d467ce843af4deb77d74d5", "1a262a7bfecd981d7874633f41ea5de8", "62c4ce93050e48d623569c7dcc4d0278", "7f6bca4f08c63e597bed969f5b729c56", "3d3363598f87c78826c859077606e514", "f02da961eb7b87b41aee5fd9537022f0", "8670710bc9477431a01a576b6b5c1b2a", "416db420e781c709bb71acee0b79282f", "f16dff8ec8702518471f637eb5313ab2", "b5553645fe819a93aafe2894da13dae7", "43c012086c1ae0a67c38b0926d6cba3f", "a5d6ad8ad82c266fda96e076335a5080", "83f57f0116a3b3d69ef7b1dbe9943801", "bd52b2a371ff397c90b891b7a4f04c66", "fd8e27f820bdbdf6cb80a46c67fd978a", "d5a82520ebf38a0c595367ff0ca89fae", "9ad55b83f2eec0c19873a770b0c86a2f", "75457cc94b1d1dfa3f5d1aedc2edb044", "6332176672744320e9fee2117b059193", "2ef51f1ca11ce73fa20b54a5886ad1dd", "209a4a102a977b698544c99d8236e9ca", "ac7a22d1af180c21b0061b8d512586d3", "1a42acbdb285a7fba17f95068822ea4e", "e8510a7ae4919a3fcedad985fbbca352", "acffb2823fc655637657dcbd25f35af8", "0e0182694c381f8b68afc5f3ff4c4653"],
@@ -1565,9 +1565,9 @@
     },
     "GeminiDuke": {
       "aliases": [],
-      "first_seen": "",
+      "first_seen": "2009",
       "actor": "APT29",
-      "description": "",
+      "description": "GeminiDuke is the successor of PinchDuke. APT29 started use GeminiDuke around 2009.",
       "similarities": "",
       "artifacts": "",
       "references": [{
@@ -1583,9 +1583,9 @@
     },
     "HammerDuke": {
       "aliases": [],
-      "first_seen": "",
+      "first_seen": "2015",
       "actor": "APT29",
-      "description": "",
+      "description": "HammerDuke is the first .NET malware developed by APT29 group. One of it's variants handle C2 communication throw Twitter, similarly to OnionDuke.",
       "similarities": "",
       "artifacts": "",
       "references": [{
@@ -1601,14 +1601,14 @@
     },
     "MiniDuke": {
       "aliases": [],
-      "first_seen": "",
+      "first_seen": "2011",
       "actor": "APT29",
       "description": "",
       "similarities": "",
       "artifacts": "",
       "references": [{
-        "title": "",
-        "link": ""
+        "title": "A Closer Look at MiniDuke",
+        "link": "https://labs.bitdefender.com/wp-content/uploads/downloads/2013/04/MiniDuke_Paper_Final.pdf"
       }],
       "hashes": {
         "md5": ["cf59ed2b5473281cc2e083eba3f4b662", "1c658719e6dedb929a6d85359c59682d", "811f66d6dd2c713073c0b0aebbe74ce8", "e48fb57ce3d9c56ca3cf6c4aed8ad0ea", "ff83dad77ac2b526849930f1860dfd3f", "ded2f80457aaefe1a80a9cefd1f4645d", "a67ad3e2a020f690d892b727102a759b", "ffefe16d581340c1e49f585a576a1fd8", "423bb8914078a587d08b54d16bbd527c", "612fba96383a5098c26fe1a222e1e755", "810de1b9fa0a9396acae23dcd113a60d", "1de51ec5d2b8466f0d424e1c8dcd6454", "1528567b1a2f1da31d602ce1ddfd8918", "d2f39019bfa05c7e71748d0624be9a94", "b8e89f9908262b5385623c0e39d6b940", "e990e0d1ee90cd10c4be7bfde6cc3e5a", "b798c968cbfd53f878e13c7698610d9c", "2d87ab160291664d62445548a2164c60", "2ab25d33d61cf4cfbac92c26c7c0598e", "9f13dc03904dbd45374acc2134477273", "2dcd049c591644e35102921a48799975", "561017f887865b8d13f85c5474cdcbb8", "441ee6a307e672c24d334d66cd7b2e1a", "a4ad6b55b1bc9e16123de1388f6ef9bf", "e1a659473ae1e828508309b77da13783", "a58e8e935341b6f5cc1369c616de3765", "4c6608203e751cf27f627220269d6835", "1e1b0d16a16cf5c7f3a7c053ce78f515", "f78f1359fcf04e89e3bb0fbdf74c1e05", "935892bb70d954efdc5ee1b0c5f97184", "270ca8368cd4216b1813281d3efe485d", "6942f1dfd61d231df8acb7ed0f6310c4", "f19345e0e5aecc0da45b4c110591bdd9", "c92252487615d5379317febc22dba7d4", "2530f54b87508e6f09a6bc5ab863b5db", "527537cc28705e01af8d8006ae8308a9", "b8088f6594dd8cba31b4f52a2d91f40e", "b68677e04fcc9103560bb0a5e5c7303f", "7040ee4cd4be4b84f8510c04663a2500", "05d10323111f02233163a6742556c974", "8282eb6d6f20c5de6e7f4ae3a42438d2", "b100d530d67cfbe76394bb0160567382", "86ef8f5f62ae8590d6edf45e04806515", "ab2d8a0d5b03d40f148f2f907b55f9f1", "18e64b8e5ce5bdd33ce8bd9e00af672c", "381691b297f7f5694709e21ad61ec645", "e863737773f64498091cd775c7abde66", "48bbce47e4d2d51811ea99d5a771cd1a", "c519eef57001ad3ae60cdcb0009bf778", "78e51be60eab2c6e952c9538a46ab521", "c786a4cdfe08dbe7c64972a14669c4d1", "738c60fff066934b6f33e368cfe9a88c", "8d3542af992b1de4cf1f587f61dddb50", "297ef5bf99b5e4fd413f3755ba6aad79", "74593127f50abff5327b3f7038b456d2", "73931351f883cff5dbdcc54cc4eb10a7"],
@@ -1619,9 +1619,9 @@
     },
     "OnionDuke": {
       "aliases": [],
-      "first_seen": "",
+      "first_seen": "2013",
       "actor": "APT29",
-      "description": "",
+      "description": "OnionDuke is an information stealer with a unique backup communication mechanism abusing either Twitter or Russian VKontakte social media site.",
       "similarities": "",
       "artifacts": "",
       "references": [{
@@ -1637,9 +1637,9 @@
     },
     "PinchDuke": {
       "aliases": [],
-      "first_seen": "",
+      "first_seen": "2008",
       "actor": "APT29",
-      "description": "",
+      "description": "PinchDuke is the earliest known tool used by APT29. PinchDuke is based the source code of Pinch - old infostealer that was destributed in Russian speaking underground forums.",
       "similarities": "",
       "artifacts": "",
       "references": [{
@@ -1691,15 +1691,23 @@
     },
     "Havex": {
       "aliases": [],
-      "first_seen": "",
+      "first_seen": "2014",
       "actor": "Energetic Bear",
-      "description": "",
+      "description": "Havex is a RAT used by Energetic Bear / Dragonfly group in targets attacks against critical infrastructure in former Sovit Union states.",
       "similarities": "",
       "artifacts": "",
       "references": [{
-        "title": "",
-        "link": ""
-      }],
+        "title": "Havex",
+        "link": "https://www.cyber.nj.gov/threat-profiles/ics-malware-variants/havex"
+      },
+      {
+        "title": "Dragonfly: Western Energy Companies Under Sabotage Threat",
+        "link": "https://www.symantec.com/connect/blogs/dragonfly-western-energy-companies-under-sabotage-threat"
+        },
+      {
+        "title": "Havex Hunts For ICS/SCADA Systems",
+        "link": "https://www.f-secure.com/weblog/archives/00002718.html"
+        }],
       "hashes": {
         "md5": ["9a2ae074419c019aac28d5fa02a95849", "fd6edc9082dcb2bf1b324b3a0cba2062", "9e5cf794fe50442c8b8fb6b132507d41", "44652b7ac9cabecbe34364dea33d09e3", "be30d12507c220c2c0944ad0623a02e6", "2ad96c6eced12e76c45ac0e81cb7a526", "881af5234f3107e96ad1a9a60056d4a1", "e932ec2d100968987c3d7520688a1408", "ec23ff3932191a8e091c5aec3652b610", "93f121983ec74731c3af1f966395ded8", "28b5dba21cb3ad1f1c659cfbcac8f5f5", "39a7da76126aa097efe80f83f469f2c2", "188adb469567fcef3a6fae98d3877bd5", "038707ae48c5db96548aa8853bf8988a", "c88ad88125757a2e76a98f3137e4a048", "5c37059ac24031745b99cd62b8cc200d", "f0f36f6c1f5d3ff37ac9ed9adf94cca2", "294a393eb4bb474ee4089d4228dee0d9", "6a78052d3f9eb96acec8f1b647050525", "dae25368fc5742fe8e770658fb8c747f", "75a63d9b3378abe997b80a8effb9654d", "0c3ae22a2b7c196cea3b0a46c720c79f", "eb883545fb2757a875b192779d06b0c6", "c6cd8ca870dc15999ee858981eb322ab", "03637d861d1b58863a212d4993fe4d2f", "a79ba17784e0183120cee6dfbf49e476", "075967cff9f2a4c0cf01af8bfe74aec6", "094e63b3e14ca69f261c3695130f7d4e", "92f584ca90d0f242fecb14235c505119", "db6adb2765915346799d9f21329eaf80", "149d6631ad66a915ca64cb853487337e", "ba3272410c091320f145e1324b0f7ae0", "4b095643f65a1dd876c01dd6b841493b", "eaa3391b1e8af72e0e9aff96ae12a758", "d2b05031f9dfb300d88305376cefc2ab", "979464521c927226ac683ec4c88c6218", "c83ed3fcf47b9fd327233efcf80f7810", "176260be8d712d85435087899a941ee9", "7b28d8a54fc15a96b8da49dd3fcc1dae", "8bf9eef3ae42ad998e7948035117c37a", "a75d7a68da32fdd4954ea74e2e95352c", "88a13d7d3398f5c388089a9b3e92eb65", "879f04b0cd5ea72fb34b8ca7d1a9d5dd", "44033c271dc323ffb6ac158e8220ff8a", "666a43f1b710a4e8b8d2a97118e7af06", "3cc770e20f45626e7bd7d0645f1264f9", "d610b84def0f32e139cd4e852f34882f", "0ce1af7315a59b162db2a3526ae13ff0", "f549a310572a8ead930f8fb4008eb02f", "3a922a167415d3e5abcaca21f6de0b3a", "f282255cff4eab6714bed3fb55577010", "d985dec3ee9e99ad3a2c9c8237e74772", "9cc5d4b3b9ae503fabb56cd114211ae1", "bc175f186cbfadffbaddff7adb2f1cac", "d4ae9eb1a009aa60096d0c662db02d54", "cac9802d99e36b04da32680cc4955c22", "9d897336c0ebee45d51dc2e8c8444c39", "71c097357affb0bcffcf6307a9f3d5b3", "f9fd935b8e70dce6cfd72716050ad41e", "4f7d8fb908c7ba76a2f6655cadb7ddc7", "f1641106efc438564dcb285d5ca8c336", "ddbd1ecfd473ef77ef63b2e94b1c8e44", "b146d70132f44cc0229354a6c448dde9", "c209ba19628173c84d54316af28ac54d", "2985962699ca16c6bdc82d0411716e26", "05bcca25fe3e1a0e4356916cfe305802", "8f6da02534186226e11749ca54450006", "b2fb91d0d5aa76630e6b1819021a0e60", "2b2a2b6f962b5a69f880480dcb9646e2", "9878cf9e6b555470d3a2ae25cc2ec7f5", "3f67bad86fb911ca4ab29bda9be1f1e7", "1db4f5be9b0500b195a61151a2eefee2", "d153b77e32901546849ec44a71227694", "68a5f818c807a73466041c6d2593d873", "78c6551e85a8d4788ea7b2bf138e4fde", "d87b3a4dec9e059503193f9e4f54c57a", "bda42195bd9bb32b50a88b6a31f9a1e7", "e8b9d2e83ef757a6ad6fea28dfe8a0ae", "19de1f992adde4cb22c7ad7472866434", "d2fd01e25fbfa28b6c61548b3d1e68fe", "0a51c323960139f425ccd83188df96eb", "09a7bf53e367f7eec86d2f1ad1de9b3f", "f27b0469a9f5d75437bdd2e782033d21", "81b0eb1c665ff0d57263040632764cad", "ab977ad5550ff745edc2aa70c4ba3b01", "acd25fab4f920de8e6ab8a6e38a591cd", "74e495488f51f9f521633cec27b5dd41", "b7a6f203da2a8fe289465c71351e029a", "2e39e7bd5d566893fe3df0c7e145d83a", "b42296359ebcd003e3064fe33ba4eec7", "6b1b40b5b9eeb38eb548a50e59bfbb6b", "c839220da67b00963276d95cafe176c1", "b61d0080133fe0910048cf811ed7d049", "e85c8feed568eff781dfd185f3f6e4c9", "471896be829b9a48a1256d2e65b66282", "6807138f242b08e0310dca0d3004140e", "5c0dd3c31b2ebd2ae4adfdabe247d1c5", "a1740aa640d38783113498d8c3b53c20", "b2a88f7e5e2c45b9d624019e6b20be72", "e1aab3f34dce501546a83d08cd956eaa", "4200bcaaa71d7c6e3f00bae88d576f2a", "d43f87cd4f6e7aa87797f4dfb2d1cf36", "e8e94430093fb159161b20485970dacb", "51502d7d6d188ad87213ca5942f232cf", "0aa354b34f4e3e416fa66681d9594be0", "0443582a0b7f27698eec0aaa85ccf4d3", "56fc63042b5539d9f2ab2fcfd01cf998", "8e8fbb8de350882a77599bccc5c1ef6a", "8f8471acff7e18f61dc2def2bc353574", "dd6cab90d45bad6378160dba9ea742e4", "d0b34a66a63a00425e9fa0adb02b2842", "3be007dd6616cd2147af73777edac417", "08bc1dfc6dfb8f50743814b8ec2d3000", "34dfc78cb68213ff25d6fb426a3665ed", "6d67262c09c19d676aa6f73be19d181b", "d532eb6835126e53e7ae491ae29fd8b3", "a1bf39cec32e5cd41170722ee0a2a4c2", "b662660b6e6e3cc24ae7fefcb7edb4e8", "2b846203387b5d3985d7cd7e5b08ada4", "7218f41670107e58971223c9880923ca", "d844b2434aab1d73078d2f729393638f"],
         "sha1": ["d9a2cb3ce4900c7ed92ccaf798b0c1a4d93e6ac2", "50369ecb7fa570f976c2bd02bc10a0e5e5f3d665", "c6c2f49462712ec31b24719e4fc75d79e5c23a9c", "d98db4dee990533d27cdb5e81955d8d4634e0362", "8029b7257febef48585c3069762e3e051f89053c", "acdfd277fad46f416eec6c937907a86b926cf124", "eb8c4efae032fe0bd1c8394e99859b165168f105", "84365f6e1ef0603e6975df27e92a840e2f96b1d0", "ed591d2c1e48eac0f52441be3b71bb697cc2e270", "eba2bd4df7073faf2c59266d5104e71caed75a28", "4f6b77d4c901b76c27f63b74e782809fde2e6f2c", "c43d62653ae4f4e7a4b0fc9d23021cf127d1dae7", "dec3587b901846ae8ab4858f3a372b91a0701b71", "273bb41a64a484e15216a6e41d29f8c4f18a96e4", "02e9eefb1d1c49894c1a234e19a4a9fd07cc323d", "96d719224bb945feda8d33c24fac5b7f3ad3d43a", "ad1fe40cd6914d2636c3568579b235e53f3fb371", "f55ec7642e916375427716e7bf77767552f97a63", "23492d4ac829be71f4109899b195438fd2c5c64a", "82ba366bdbab0c1c0b4c4f65fe4c7b6129d07417", "21d878ddc7532abe8cf30af64acd0d50cbeae5ad", "758715edf9cc7e6fb3c0fefef5fbb5e8c3ac6272", "c3fe9b02d6d300f5ebcf4a80518551c183a5920e", "7001f9e2d48e10fc5dd63ea8ff04c1d5c9de30c4", "d9bac9d41f812112e871843dbef692bae5d551bf", "b683d6dc776d8bc1163c384e4602abb7e9ee0b2c", "c8c3e9eb70dae6318b91cdc12d9d3df4a9371169", "f6f7ec26b30d2c9bcd5729b01083e6646437744b", "1a59fec2d585421eb3ff3b8ed4743eff3fc62662", "b76b154766e1c6414cdb08cbb14a1b22aef15014", "494e560d267a2b0094416a791394d63dcf0862d9", "a00d3ce9e30a96bceb18f1aa423413c8434cdcd8", "ce48aa441380027c85e52ff15fc9ada5fa92514c", "fe0de4815687455851ac71e64e9006f25d7592ae", "786ba38648bf40c3f6383c5f031ca53714d4be75", "060fd1b54ae5909a0d3a81d921efa1c3e4e732d6", "c334b1340be9124f4a8a0eed51e291a048e03915", "9af842c5312510262ebaf82cf1af11f688a2758c", "6b2474b37ca9c0cc025d7d264d57d09297cb512d", "1fcaba91c77844a7e2fbae80e9417934ff5f7085", "d739d27b8978cb6d497c1f6a5f4c36aad4d47662", "0573f8dc485614f0b1a13b6255fde06cf3958746", "2bb517ae16b28c76b3851fbdb926c3dfb429a9bf", "234effec98a07b360f3385f63629ba56faad691e", "52e68cd7607becd1a3cde3f51a760299f7de3444", "2e0e62f2d40721dddca91cdd0a0dbdb32e81f0fb", "9f19c2ffd46603aac7e82a6c6f86d4fcc56b1d2d", "59d8baad87d75467c09513bb871efde49933f837", "cab8baf512f2253f3ec188bc8f463fbad9da5e7d", "16df6ed9b4bbe72f1fa3a0e3eba36f64810a9d5b", "d32c2ac603ed7b66d29200d0aa4f5aefe3a08ae6", "57a877b1c4721bd56c8e1516767bfbc2058c3c3c", "e66b19f16e757730a116f6b7ab0293e3e4b52050", "0ba491117c164788f454d571b419345363b77e94", "aae5a09d26f26cef112b7fd3f003fb5026215256", "342e9ec0192f643455f86b96d54efacb7d040d0d", "ffdbf9aae672375cdb0aa6df2bab22549915d22f", "1048a57a8d0f4eaca4e4a6a6cf2b308e9f73b4a6", "885f3f1f55160960c240947a9eedd0d742692e60", "5220fa4288c5db7bd896a8aa23976ac34f104115", "832635581d5f8a45bfdf8b9b5722c875796725d0", "3757e49ebfb0391c730e613fb9386dbe92291afa", "17f4064bbe45e2c3f4a8e95789e6b4ca8dd97573", "b5e5872ab2dfa58a3f938f2dac402098bc89c179", "3556253b14745702aee2951fe21db2c1a47472e3", "ccac59b698522cefe5b75d7bcfe763104ad16b7c", "435dd67fe8c7cfee1fa701c6389690a86ab6a73d", "317fd58d53aa3fe0fec209702a879aefb77c148c", "fe43bc3af9365a5d8bbec7c54b4e2c7828bab602", "b45063e20af3c6f739ac8c8a396d8c0515eebe63", "2a50f40af9e32664feeb978b27aac4bebe4b0fad", "7e8860555b04cf17baf153c08fbb05e93efe40aa", "09cc6d5b144e0b6af6d83ad0265998867d451cda", "02ed10e930e015db0970605837f50dd9ff40d6bc", "16d43248c7ab95f6e3b449ec6e69f6508f744c1f", "6350654f51ddc6b18468a1e7d36bb90ac36aa4e5", "c32194ec736c8a4b235c68b5374dd72ad117e0a8", "7f0705305557176bee4ad6e794bc10a20179e04b", "c098cd6a215e1da994cfe593bede048e46608b75", "38dfc768e3e894dd7f423647c5a98a62dbb66883", "4c66025afc112a2962eec267eefa29e776075b6c", "5bcc88e059e7ffed252f078c14f0071b759088b4", "ca0ca4cd15bd4da7f87e781f88990b7ba9977317", "ee64d20ef5a2c36e78beb730d1cf17d080cf6936", "ae8395a64b32fcb4b43a0e7bef734d8b45ee20c8", "3a9f46056ef786d22d95b592bf52cd295d80fa4b", "e2151b67ccfe1aba339c30c92f38048030774760", "b85e08d43cc9455a4e0a4798825f825d378eb4f8", "c70ddac2953a8fe50351287055ea6fb732b7b8cc", "85a85afa69b179aabef21c68d1f20872562a3438", "fd38b9751969c5562ace10c57611e89c07296da0", "05d644c7f19a33507f6a61e342bb89228a301b65", "ef79111db594d0e7a433d70a135b3bfb8514d3f2", "c06178c8e6b2ce66a273abbe7d73cf4278329519", "8836e61780c77c7ebe733dbd8af9453660e23d9b", "6cc50db17e0e80dad6f392f0b99f211965b84939", "c3384333d8400ba70868228923b384438c584600", "674eeebc55e27c98476c305a98029fc90b7f8219", "daf42bbbba63ce4997a95b9919fa968ba4987930", "9dcc18957a1289d1ccf0fd8c01f577d7ffdf481b", "4592683330f185a70327b4f342022422dadfa5ad", "5512e0a18cebf5b388c6c7cb4a2395c96c421db0", "83d9664827365016ef4556ea8fc3ec891401edd7", "3c0ff434e27768ac2e0a3761efb2dd6413996d6c", "6aa1f9f1537321f009092210660492939a6be9ef", "04b754e6986f8d2ce5fda827e14bd1b180fd0275", "bf12094a6b4275760a8c91392f5a7d807960af68", "77e53debe5741c04b475a3714219a8c6c033ff4e", "a00339b7c7f910ea5f0414cefe1d0e18ca40aff5", "41775b6de52fd6b9a5c836af942787898a6cde61", "8690d7d51e2ff458b25ebef56529df530079cb0a", "0c5940b1a928b00f5b1f647878feab26691f0c93", "7f470b94f8681bf2647472f3128a557944c3e27d", "e33c55b91b195b79d45631fbbbf45ee0dbacd730", "3166e11fa62081813121d26f1f24f02fed9c9123", "531ed66a90e7ac92a77a457f7b7176ca4427e068", "941874b38c36f3e955100ae5c71e51334d16c9ee", "79d89ea862e2031f6d3e9e21fadd2b02821c691d", "7b77767525de24c43d8b992e2d919eb3252e4152", "5c638ced35a95a43052fc63b6f73dfece1347f9c", "1f70b79dc1fc45af4d6978aca37daa8d2feda18a"],
@@ -1781,14 +1789,14 @@
     },
     "Heriplor": {
       "aliases": [],
-      "first_seen": "",
+      "first_seen": "2011",
       "actor": "Energetic Bear",
-      "description": "",
+      "description": "Heriplor is a backdoor used exclusively be Energetic Bear / Dragonfly group as reported by Symantec.",
       "similarities": "",
       "artifacts": "",
       "references": [{
-        "title": "",
-        "link": ""
+        "title": "Dragonfly: Western energy sector targeted by sophisticated attack group",
+        "link": "https://www.symantec.com/blogs/threat-intelligence/dragonfly-energy-sector-cyber-attacks"
       }],
       "hashes": {
         "md5": ["e02603178c8c47d198f7d34bcf2d68b8"],
@@ -1799,9 +1807,9 @@
     },
     "Karagany": {
       "aliases": [],
-      "first_seen": "",
+      "first_seen": "2014",
       "actor": "Energetic Bear",
-      "description": "",
+      "description": "Karagany's source code was leaked in 2010. Energetic Bear / Dragonfly group later modified the original source code and used it in targets attacks against critical infrastructure in former Sovit Union states.",
       "similarities": "",
       "artifacts": "",
       "references": [{
@@ -2213,14 +2221,14 @@
     },
     "VPNFilter - Stage 1": {
       "aliases": [],
-      "first_seen": "",
+      "first_seen": "2018"
       "actor": "VPNFilter",
-      "description": "",
+      "description": "VPNFilter is a malware used for wide spread routers infection. Around 500,000 routers have been hit, in Ukraine, as published by Cisco Talos. The FBI later attributed this malware to Sofacy group.",
       "similarities": "",
       "artifacts": "",
       "references": [{
-        "title": "",
-        "link": ""
+        "title": "New VPNFilter malware targets at least 500K networking devices worldwide",
+        "link": "https://blog.talosintelligence.com/2018/05/VPNFilter.html"
       }],
       "hashes": {
         "md5": ["661b3db81d495a3fdd5b81185185160c", "5f358afee76f2a74b1a3443c6012b27b", "f3309f143cca7954dba2887aadd2b4cb"],
