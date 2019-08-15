@@ -25,6 +25,27 @@
 </head>
 
 <body style="height: 100%; margin: 0">
+
+    <div class="modal fade" id="overlay" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title">Tip!</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+              <p>The graph is fully interactive. You can zoom-in to display the node labels, roam around using your mouse, hover click and move nodes.</p>
+              <p>Enjoy!</p>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
   <div id="container" style="height: 100%"></div>
   <script src="assets/js/main.js"></script>
 
@@ -54,6 +75,8 @@
       <div class="intezer"></div>
     </div>
   </div>
+
+  
 
 
   <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle"
@@ -92,5 +115,7 @@
       </div>
     </div>
   </div>
+
+
 </body>
 </html>

@@ -81,7 +81,6 @@ $.get('graph/GEPHI_Families_Cluster.gexf', function (xml) {
         },
         animationEasingUpdate: 'quinticInOut',
         dataZoom: [
-
             {
                 type: 'inside',
                 
@@ -94,17 +93,15 @@ $.get('graph/GEPHI_Families_Cluster.gexf', function (xml) {
             show: false,
             scale: true,
             silent: true,
-
             type: 'value'
         },
         yAxis: {
             show: false,
             scale: true,
             silent: true,
-
             type: 'value'
         },
-    
+       
         series : [
             {
                 name: 'Russian APT Ecosystem',
@@ -116,7 +113,7 @@ $.get('graph/GEPHI_Families_Cluster.gexf', function (xml) {
                     repulsion: 100000,
                     gravity: 0.4
                 },
-                
+                zoom: 0.15,
                 data: graph.nodes,
                 links: graph.links,
                 categories: categories,
@@ -133,7 +130,7 @@ $.get('graph/GEPHI_Families_Cluster.gexf', function (xml) {
                 },
                 label: {
                     position: 'outside',
-                    show: true,
+                    show: false,
                     //padding: 5,
                     //borderRadius: 5,
                     //borderWidth: 1,
@@ -166,12 +163,12 @@ myChart.on('dataZoom', function (params) {
     var end = params.batch[0].end;
 
 
-    if(myChart.getOption().series[0].zoom <= 0.3 && myChart.getOption().series[0].zoom != 1 && !isLabelsHidden)
+    if(myChart.getOption().series[0].zoom <= 0.28 && myChart.getOption().series[0].zoom != 1 && !isLabelsHidden)
     {
         myChart.setOption({series: [{label: {
             show: false}}]});
         isLabelsHidden = true;
-    } else if(myChart.getOption().series[0].zoom > 0.3 && myChart.getOption().series[0].zoom != 1 && isLabelsHidden)
+    } else if(myChart.getOption().series[0].zoom > 0.28 && myChart.getOption().series[0].zoom != 1 && isLabelsHidden)
     {
         myChart.setOption({series: [{label: {
             show: true}}]});
@@ -344,3 +341,9 @@ function showInformation(node, color) {
   }
 
 } 
+
+$('#overlay').modal('show');
+
+setTimeout(function() {
+    $('#overlay').modal('hide');
+}, 6000);
