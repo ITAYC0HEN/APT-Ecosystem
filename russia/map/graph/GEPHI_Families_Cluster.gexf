@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
-  <meta lastmodifieddate="2019-08-01">
+  <meta lastmodifieddate="2019-09-16">
     <creator>Gephi 0.9</creator>
     <description></description>
   </meta>
@@ -1297,141 +1297,6 @@
         <viz:position x="835.1455" y="698.6642"></viz:position>
         <viz:color r="209" g="198" b="159"></viz:color>
       </node>
-      <node id="94f9f7ebeb3e4dc55e44471e10d55644" label="TeamSpy - Module - Traceroute">
-        <attvalues>
-          <attvalue for="actor" value="TeamSpy"></attvalue>
-          <attvalue for="size" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="30.0"></viz:size>
-        <viz:position x="21.118925" y="194.36105"></viz:position>
-        <viz:color r="0" g="91" b="104"></viz:color>
-      </node>
-      <node id="8412c59bf8eaf4bd9ef51aa4e2e8b0f0" label="TeamSpy - Module - Screen Capture">
-        <attvalues>
-          <attvalue for="actor" value="TeamSpy"></attvalue>
-          <attvalue for="size" value="2"></attvalue>
-        </attvalues>
-        <viz:size value="30.0"></viz:size>
-        <viz:position x="710.2322" y="261.47632"></viz:position>
-        <viz:color r="0" g="91" b="104"></viz:color>
-      </node>
-      <node id="eabed815c2650c7a7d1c0ad1e5919f43" label="TeamSpy - Module - File Collector">
-        <attvalues>
-          <attvalue for="actor" value="TeamSpy"></attvalue>
-          <attvalue for="size" value="4"></attvalue>
-        </attvalues>
-        <viz:size value="30.0"></viz:size>
-        <viz:position x="534.017" y="412.07083"></viz:position>
-        <viz:color r="0" g="91" b="104"></viz:color>
-      </node>
-      <node id="b353bae9dc49a55d17065f8d20c17192" label="TeamSpy - Module - SystemInfo">
-        <attvalues>
-          <attvalue for="actor" value="TeamSpy"></attvalue>
-          <attvalue for="size" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="30.0"></viz:size>
-        <viz:position x="-824.912" y="444.72055"></viz:position>
-        <viz:color r="0" g="91" b="104"></viz:color>
-      </node>
-      <node id="d567300ec95277f9f1d3aa7ea44c88a8" label="TeamSpy - Module - Bi">
-        <attvalues>
-          <attvalue for="actor" value="TeamSpy"></attvalue>
-          <attvalue for="size" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="30.0"></viz:size>
-        <viz:position x="-320.89328" y="-110.835625"></viz:position>
-        <viz:color r="0" g="91" b="104"></viz:color>
-      </node>
-      <node id="f17fe63add2f076061da83994f5165e8" label="TeamSpy - Module - System Info">
-        <attvalues>
-          <attvalue for="actor" value="TeamSpy"></attvalue>
-          <attvalue for="size" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="30.0"></viz:size>
-        <viz:position x="-220.82036" y="-228.61716"></viz:position>
-        <viz:color r="0" g="91" b="104"></viz:color>
-      </node>
-      <node id="b3603cc421bba10d6cf5d84077455628" label="TeamSpy - Module - Config">
-        <attvalues>
-          <attvalue for="actor" value="TeamSpy"></attvalue>
-          <attvalue for="size" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="30.0"></viz:size>
-        <viz:position x="-594.75226" y="-699.37335"></viz:position>
-        <viz:color r="0" g="91" b="104"></viz:color>
-      </node>
-      <node id="76ba6a4600b4f61f88270b0ce6bd2642" label="TeamSpy - Module - Network Info">
-        <attvalues>
-          <attvalue for="actor" value="TeamSpy"></attvalue>
-          <attvalue for="size" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="30.0"></viz:size>
-        <viz:position x="-140.01138" y="-88.094284"></viz:position>
-        <viz:color r="0" g="91" b="104"></viz:color>
-      </node>
-      <node id="fca69bb844bdb0f0c6da3d68e33b5ab9" label="TeamSpy - Module - iOS Info">
-        <attvalues>
-          <attvalue for="actor" value="TeamSpy"></attvalue>
-          <attvalue for="size" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="30.0"></viz:size>
-        <viz:position x="-412.5735" y="287.66275"></viz:position>
-        <viz:color r="0" g="91" b="104"></viz:color>
-      </node>
-      <node id="af838b08dcee8ca3be2b917bbdebd785" label="TeamSpy - Module - Keylogger">
-        <attvalues>
-          <attvalue for="actor" value="TeamSpy"></attvalue>
-          <attvalue for="size" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="30.0"></viz:size>
-        <viz:position x="92.55283" y="-618.7702"></viz:position>
-        <viz:color r="0" g="91" b="104"></viz:color>
-      </node>
-      <node id="cc5ac684962a1899fb35c35931799032" label="TeamSpy - Module - Backdoor">
-        <attvalues>
-          <attvalue for="actor" value="TeamSpy"></attvalue>
-          <attvalue for="size" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="30.0"></viz:size>
-        <viz:position x="-9.83181" y="-486.01797"></viz:position>
-        <viz:color r="0" g="91" b="104"></viz:color>
-      </node>
-      <node id="cb89125630d13d8e5ac0978d31d2f6b5" label="TeamSpy - Module - NetScanFiles">
-        <attvalues>
-          <attvalue for="actor" value="TeamSpy"></attvalue>
-          <attvalue for="size" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="30.0"></viz:size>
-        <viz:position x="-226.65073" y="-622.9866"></viz:position>
-        <viz:color r="0" g="91" b="104"></viz:color>
-      </node>
-      <node id="881227f338385fe0bc7ded142779ac41" label="TeamSpy - Module - Process List">
-        <attvalues>
-          <attvalue for="actor" value="TeamSpy"></attvalue>
-          <attvalue for="size" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="30.0"></viz:size>
-        <viz:position x="130.13638" y="-194.52861"></viz:position>
-        <viz:color r="0" g="91" b="104"></viz:color>
-      </node>
-      <node id="63a6c1660191d9fc2615c1f67568fe0a" label="TeamSpy - Module - NetScanShares">
-        <attvalues>
-          <attvalue for="actor" value="TeamSpy"></attvalue>
-          <attvalue for="size" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="30.0"></viz:size>
-        <viz:position x="-376.91916" y="-692.9256"></viz:position>
-        <viz:color r="0" g="91" b="104"></viz:color>
-      </node>
-      <node id="aba28bd390e092901025ce867aa67363" label="TeamSpy - Module - SystemInfoSafe">
-        <attvalues>
-          <attvalue for="actor" value="TeamSpy"></attvalue>
-          <attvalue for="size" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="30.0"></viz:size>
-        <viz:position x="66.741135" y="-773.59174"></viz:position>
-        <viz:color r="0" g="91" b="104"></viz:color>
-      </node>
       <node id="6c1149f802c616f063ca2bd8de974811" label="MiniDuke">
         <attvalues>
           <attvalue for="actor" value="APT29"></attvalue>
@@ -1650,7 +1515,6 @@
       <edge id="42" source="f096a330b15675704fd167190ba88cab" target="c7a76a38aecae30650748dfb3c1a074b"></edge>
       <edge id="43" source="996e465904e83ec92caa4d3020c4f4d1" target="82dde251fabd36f5fd4a27c011a2f31d"></edge>
       <edge id="44" source="c690c03be4dbe516451d804d89ecdb18" target="8e9654c571f19b9bacbb7d95e6f4fa34"></edge>
-      <edge id="45" source="cb89125630d13d8e5ac0978d31d2f6b5" target="63a6c1660191d9fc2615c1f67568fe0a"></edge>
       <edge id="46" source="92a4edaa651127c4821eb02a2b2953ad" target="0347d4e08ea0ccb2a1dce08b666bc4ab" weight="9.0"></edge>
       <edge id="47" source="3f1c8dc5364299cc5accb017f081af0f" target="525fcc62bd68d20012147e6e49660eaf"></edge>
       <edge id="48" source="92a4edaa651127c4821eb02a2b2953ad" target="ca1ec7d101e3c67a091bb09d35417a90" weight="119.0"></edge>
@@ -1659,7 +1523,6 @@
       <edge id="54" source="996e465904e83ec92caa4d3020c4f4d1" target="26bee7b60021f616eefa36b2330403f6"></edge>
       <edge id="55" source="bdb533317a59778bf653d6085500d96d" target="ef1e4b4a6487a6ac9f387829e5a8fb15" weight="2.0"></edge>
       <edge id="56" source="393e6160d47b3173bad1704d5755da01" target="d06b0e809c0f1c34d96d9eab50c203e9"></edge>
-      <edge id="57" source="23e0095eea16390ed9a28db2d74bfc89" target="eabed815c2650c7a7d1c0ad1e5919f43" weight="2.0"></edge>
       <edge id="58" source="dcc24239d025e37f292024942f6d49b4" target="b650e3dbce590e6ef3e309364ab2e007" weight="52.0"></edge>
       <edge id="59" source="855dcf46602c86267b86e2377d4547ad" target="cb2a2a0e1171ffaa8347f57ed6802fcd"></edge>
       <edge id="62" source="f86b888968bbd3ed52d9c63f863f6b75" target="6eaa00c8236cb3c59d071d8646c0b142" weight="2.0"></edge>
@@ -1730,7 +1593,6 @@
       <edge id="148" source="7e5da74123fa01f4bd91fd58d6570d05" target="4659a4dbd837b89b9d2b28b84ba3248f"></edge>
       <edge id="149" source="70c736b65f5210457b588e199b100f05" target="c945a2593f297c3b9475c7cfd65963f6" weight="2.0"></edge>
       <edge id="151" source="70c736b65f5210457b588e199b100f05" target="3f1c8dc5364299cc5accb017f081af0f"></edge>
-      <edge id="152" source="d567300ec95277f9f1d3aa7ea44c88a8" target="f17fe63add2f076061da83994f5165e8"></edge>
       <edge id="153" source="f86b888968bbd3ed52d9c63f863f6b75" target="28abff7b2525d5cbf3d7ea4450a7c07e" weight="2.0"></edge>
       <edge id="154" source="28abff7b2525d5cbf3d7ea4450a7c07e" target="2f29309be5931a35dfe890f6523d54ce" weight="5.0"></edge>
       <edge id="157" source="b650e3dbce590e6ef3e309364ab2e007" target="7c86233d121129bd690d51c874fad836" weight="197.0"></edge>
@@ -1787,7 +1649,6 @@
       <edge id="220" source="514dd6424475ef193456d0b9e8330f05" target="bc824fb5e8f78582baedbbe330c96d09" weight="30.0"></edge>
       <edge id="221" source="70c736b65f5210457b588e199b100f05" target="5a0f6792c9c66e43732d133bbb2e00d7"></edge>
       <edge id="223" source="728e7190e33c90995e28aaa1f3d3623a" target="f6cf12583597bc5be9146315a29783c9" weight="6.0"></edge>
-      <edge id="225" source="afc7950a79d300b4b34da7c676cc6b71" target="eabed815c2650c7a7d1c0ad1e5919f43" weight="2.0"></edge>
       <edge id="228" source="73ee63fa69484a8ac3ea97b9813d61e0" target="0f0a24ddaa40da5cb13dddf9bc331648"></edge>
       <edge id="231" source="f096a330b15675704fd167190ba88cab" target="8e9654c571f19b9bacbb7d95e6f4fa34"></edge>
       <edge id="232" source="525fcc62bd68d20012147e6e49660eaf" target="26bee7b60021f616eefa36b2330403f6"></edge>
