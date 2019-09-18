@@ -2,6 +2,19 @@
 <html style="height: 100%">
 
 <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-83542742-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-83542742-2');
+  </script>
+
   <meta charset="utf-8">
   <script src="https://code.jquery.com/jquery-3.4.1.min.js"
     integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
@@ -26,25 +39,26 @@
 
 <body style="height: 100%; margin: 0">
 
-    <div class="modal fade" id="overlay" tabindex="-1" role="dialog">
-        <div class="modal-dialog modal-dialog-centered" role="document">
-          <div class="modal-content">
-            <div class="modal-header">
-              <h5 class="modal-title">Tip!</h5>
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-              </button>
-            </div>
-            <div class="modal-body">
-              <p>The graph is fully interactive. You can zoom-in to display the node labels, roam around using your mouse, hover click and move nodes.</p>
-              <p>Enjoy!</p>
-            </div>
-            <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-            </div>
-          </div>
+  <div class="modal fade" id="overlay" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Tip!</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <p>The graph is fully interactive. You can zoom-in to display the node labels, roam around using your mouse,
+            hover click and move nodes.</p>
+          <p>Enjoy!</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
         </div>
       </div>
+    </div>
+  </div>
 
   <div id="container" style="height: 100%"></div>
   <script src="assets/js/main.js"></script>
@@ -76,7 +90,7 @@
     </div>
   </div>
 
-  
+
 
 
   <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle"
@@ -108,7 +122,8 @@
             identity-card of the entities in the map.
           </p>
           <p>
-            The map and its data are open source in our <a href="#" target="_blank">repository</a> and we are inviting
+            The map and its data are open source in our <a href="https://github.com/ITAYC0HEN/APT-Ecosystem"
+              target="_blank">repository</a> and we are inviting
             you all to add more information and improve it.
           </p>
         </div>
@@ -118,4 +133,5 @@
 
 
 </body>
+
 </html>
