@@ -165,13 +165,27 @@ myChart.on('dataZoom', function (params) {
 
     if(myChart.getOption().series[0].zoom <= 0.28 && myChart.getOption().series[0].zoom != 1 && !isLabelsHidden)
     {
-        myChart.setOption({series: [{label: {
-            show: false}}]});
+        myChart.setOption({
+            series: [{
+                label: {
+                    show: false
+                },
+                force: {
+                    friction: 0.1
+                }
+            }]});
         isLabelsHidden = true;
     } else if(myChart.getOption().series[0].zoom > 0.28 && myChart.getOption().series[0].zoom != 1 && isLabelsHidden)
     {
-        myChart.setOption({series: [{label: {
-            show: true}}]});
+        myChart.setOption({
+            series: [{
+                label: {
+                    show: true
+                },
+                force: {
+                    friction: 0.1
+                }
+            }]});
         isLabelsHidden = false;
     }
 });
