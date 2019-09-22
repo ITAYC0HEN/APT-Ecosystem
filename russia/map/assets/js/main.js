@@ -1,12 +1,13 @@
-
 /* Fetching Families and Actors JSON */
 var familiesJSON;
 fetch("assets/json/families.json")
-.then(res => res.json())
-.then((out) => {
-  familiesJSON = out;
-})
-.catch(err => { throw err });
+    .then(res => res.json())
+    .then((out) => {
+        familiesJSON = out;
+    })
+    .catch(err => {
+        throw err
+    });
 
 
 /* Initialized and configure graph */
@@ -19,31 +20,33 @@ var isLabelsHidden = false;
 
 
 const arrayToObject = (array) =>
-   array.reduce((obj, item) => {
-     obj[item.id] = item
-     return obj
-   }, {});
+    array.reduce((obj, item) => {
+        obj[item.id] = item
+        return obj
+    }, {});
 
 
 option = null;
 myChart.showLoading();
 $.get('graph/GEPHI_Families_Cluster.gexf', function (xml) {
     myChart.hideLoading();
-    
+
     var graph = echarts.dataTool.gexf.parse(xml);
     var categories = [];
     allNodes = arrayToObject(graph.nodes);
-    
+
     graph.nodes.forEach(function (node) {
         node.itemStyle = null;
         node.value = node.symbolSize;
         node.symbolSize /= 1.5;
 
-        categories.push({name: node.attributes.actor});
+        categories.push({
+            name: node.attributes.actor
+        });
         node.category = node.attributes.actor;
     });
     option = {
-        
+
 
         title: {
             // text: 'Russian APT Ecosystem',
@@ -56,12 +59,12 @@ $.get('graph/GEPHI_Families_Cluster.gexf', function (xml) {
                 type: ['line', 'bar', 'stack', 'tiled']
             }
         },
-        tooltip:  {
+        tooltip: {
             formatter: function (params) {
                 if (params.dataType == "node") {
                     var colorSpan = color => '<span style="display:inline-block;margin-left:5px;border-radius:10px;width:9px;height:9px;background-color:' + color + '"></span>';
                     // is node
-                    res = "<b>Name</b>: " + params.data.name + "<br><b>Actor</b>: " + params.data.category + colorSpan(params.color) ;
+                    res = "<b>Name</b>: " + params.data.name + "<br><b>Actor</b>: " + params.data.category + colorSpan(params.color);
                 } else if (params.dataType == "edge") {
                     // is edge
                     res = allNodes[params.data.source].name + " > " + allNodes[params.data.target].name;
@@ -77,18 +80,16 @@ $.get('graph/GEPHI_Families_Cluster.gexf', function (xml) {
         }],
         animation: true,
         animationDuration: 1500,
-        scaleLimit : {
-        },
+        scaleLimit: {},
         animationEasingUpdate: 'quinticInOut',
-        dataZoom: [
-            {
+        dataZoom: [{
                 type: 'inside',
-                
+
             },
             {
                 type: 'inside',
             }
-        ], 
+        ],
         xAxis: {
             show: false,
             scale: true,
@@ -101,55 +102,53 @@ $.get('graph/GEPHI_Families_Cluster.gexf', function (xml) {
             silent: true,
             type: 'value'
         },
-       
-        series : [
-            {
-                name: 'Russian APT Ecosystem',
-                type: 'graph',
-                layout: 'force',
-                force: {
-                    initLayout: 'circular',
-                    edgeLength: 1200,
-                    repulsion: 100000,
-                    gravity: 0.4
-                },
-                zoom: 0.15,
-                data: graph.nodes,
-                links: graph.links,
-                categories: categories,
-                roam: true,
-                focusNodeAdjacency: true,
-                draggable: true,
-                itemStyle: {
-                    normal: {
-                        borderColor: '#fff',
-                        borderWidth: 1,
-                        shadowBlur: 10,
-                        shadowColor: 'rgba(0, 0, 0, 0.3)'
-                    }
-                },
-                label: {
-                    position: 'outside',
-                    show: false,
-                    //padding: 5,
-                    //borderRadius: 5,
-                    //borderWidth: 1,
-                    //borderColor: 'rgba(255, 255, 255, 0.7)',
-                    //backgroundColor: 'rgba(255, 255, 255, 1)',
-                    formatter: '{b}'
-                },
+
+        series: [{
+            name: 'Russian APT Ecosystem',
+            type: 'graph',
+            layout: 'force',
+            force: {
+                initLayout: 'circular',
+                edgeLength: 1200,
+                repulsion: 100000,
+                gravity: 0.4
+            },
+            zoom: 0.15,
+            data: graph.nodes,
+            links: graph.links,
+            categories: categories,
+            roam: true,
+            focusNodeAdjacency: true,
+            draggable: true,
+            itemStyle: {
+                normal: {
+                    borderColor: '#fff',
+                    borderWidth: 1,
+                    shadowBlur: 10,
+                    shadowColor: 'rgba(0, 0, 0, 0.3)'
+                }
+            },
+            label: {
+                position: 'outside',
+                show: false,
+                //padding: 5,
+                //borderRadius: 5,
+                //borderWidth: 1,
+                //borderColor: 'rgba(255, 255, 255, 0.7)',
+                //backgroundColor: 'rgba(255, 255, 255, 1)',
+                formatter: '{b}'
+            },
+            lineStyle: {
+                color: 'source',
+                curveness: 0,
+                width: 2
+            },
+            emphasis: {
                 lineStyle: {
-                    color: 'source',
-                    curveness: 0,
-                    width: 2
-                },
-                emphasis: {
-                    lineStyle: {
-                        width: 8
-                    }
+                    width: 8
                 }
             }
-        ]
+        }]
     };
 
     myChart.setOption(option);
@@ -163,8 +162,7 @@ myChart.on('dataZoom', function (params) {
     var end = params.batch[0].end;
 
 
-    if(myChart.getOption().series[0].zoom <= 0.28 && myChart.getOption().series[0].zoom != 1 && !isLabelsHidden)
-    {
+    if (myChart.getOption().series[0].zoom <= 0.28 && myChart.getOption().series[0].zoom != 1 && !isLabelsHidden) {
         myChart.setOption({
             series: [{
                 label: {
@@ -173,10 +171,10 @@ myChart.on('dataZoom', function (params) {
                 force: {
                     friction: 0.1
                 }
-            }]});
+            }]
+        });
         isLabelsHidden = true;
-    } else if(myChart.getOption().series[0].zoom > 0.28 && myChart.getOption().series[0].zoom != 1 && isLabelsHidden)
-    {
+    } else if (myChart.getOption().series[0].zoom > 0.28 && myChart.getOption().series[0].zoom != 1 && isLabelsHidden) {
         myChart.setOption({
             series: [{
                 label: {
@@ -185,29 +183,32 @@ myChart.on('dataZoom', function (params) {
                 force: {
                     friction: 0.1
                 }
-            }]});
+            }]
+        });
         isLabelsHidden = false;
     }
 });
 
 
 /* Configure Click actions to show the menu */
-myChart.on('click', {dataType: 'node'}, (params) => {
-  if (params.dataType === 'node') {
-      showInformation(params.data, params.color);
-    /* you can check params to look for what you want to pick */
-    myChart.dispatchAction({
-        /* HighLight type */
-        type: 'focusNodeAdjacency',
-        /* OffLight type if you need */
-        // type: 'unfocusNodeAdjacency',
-        /* Positioning the series with seriesId/seriesIndex/seriesName */
-        seriesIndex: 0,
-        /* Positioning the node with dataIndex */
-        dataIndex: params.dataIndex
-    });
-  }
-  params.event.stop();
+myChart.on('click', {
+    dataType: 'node'
+}, (params) => {
+    if (params.dataType === 'node') {
+        showInformation(params.data, params.color);
+        /* you can check params to look for what you want to pick */
+        myChart.dispatchAction({
+            /* HighLight type */
+            type: 'focusNodeAdjacency',
+            /* OffLight type if you need */
+            // type: 'unfocusNodeAdjacency',
+            /* Positioning the series with seriesId/seriesIndex/seriesName */
+            seriesIndex: 0,
+            /* Positioning the node with dataIndex */
+            dataIndex: params.dataIndex
+        });
+    }
+    params.event.stop();
 });
 
 /* Set mouse cursor to Pointer on hover */
@@ -217,17 +218,17 @@ myChart.on('mousemove', params => {
     } else {
         myChart.getZr().setCursorStyle('default')
     }
-  });
+});
 
-  
+
 
 /* Configure Click ouside node  to hide the menu */
 
 $("#container").click(function () {
     var $lefty = $(".side-menu");
-            $lefty.animate({
-            left: -300
-        });
+    $lefty.animate({
+        left: -300
+    });
 });
 
 
@@ -244,8 +245,8 @@ function makeIntezerUL(array) {
         return;
     }
 
-    for (element of array ) {
-        
+    for (element of array) {
+
         // Create the list item:
         var item = document.createElement('li');
         // Create a link item
@@ -259,23 +260,23 @@ function makeIntezerUL(array) {
         list.appendChild(item);
 
     }
-        // Finally, return the constructed list:
-        return list;
+    // Finally, return the constructed list:
+    return list;
 }
-    
+
 
 
 
 function makeReferenceUL(array) {
     // Create the list element:
     var list = document.createElement('ul');
-    for (element of array ) {
-        if (!("title" in element) || element["title"]  === "") {
-            return;
+    for (element of array) {
+        if (!("title" in element) || element["title"] === "") {
+            continue;
         }
 
         if (!("link" in element) || !element["link"]) {
-            return;
+            continue;
         }
         // Create the list item:
         var item = document.createElement('li');
@@ -304,60 +305,78 @@ function findFamilyInJson(name) {
 }
 
 function showInformation(node, color) {
-  var family = findFamilyInJson(node.name);
-  if (family) {
-      var $lefty = $(".side-menu");
-      $lefty.family = $lefty.find(".family-name");
-      $lefty.actor = $lefty.find(".actor");
-      // $lefty.attribution = $lefty.find(".attirbution");
-      $lefty.first_seen = $lefty.find(".first-seen");
-      $lefty.information = $lefty.find(".information");
-      $lefty.connections = $lefty.find(".connections");
-      $lefty.aliases = $lefty.find(".aliases");
-      $lefty.refs = $lefty.find(".references");
-      $lefty.intezer = $lefty.find(".intezer");
+    var family = findFamilyInJson(node.name);
+    if (family) {
+        var $lefty = $(".side-menu");
+        var description = family.description;
+        $lefty.family = $lefty.find(".family-name");
+        $lefty.actor = $lefty.find(".actor");
+        // $lefty.attribution = $lefty.find(".attirbution");
+        $lefty.first_seen = $lefty.find(".first-seen");
+        $lefty.information = $lefty.find(".information");
+        $lefty.connections = $lefty.find(".connections");
+        $lefty.aliases = $lefty.find(".aliases");
+        $lefty.refs = $lefty.find(".references");
+        $lefty.intezer = $lefty.find(".intezer");
 
-  
-      $(" > h3", $lefty.family).html(node.name + " | <span>" + family.actor + "</span>");
-      $(" > h3 > span", $lefty.family).css({'color': color, "font-weight" : "normal"});
-      if (family["first_seen"]){
-          $lefty.first_seen.html("<b>First seen: </b>" + family.first_seen);
-      }
-      $lefty.information.html(family.description);
-      
-      if (family["references"]) {
-          refs = makeReferenceUL(family.references)
-          if (refs) {
-              $lefty.refs.html("<b>References:</b>");
-              $lefty.refs.append(refs);
-          }
-      }
 
-      if (family["intezer"]) {
-        reports = makeIntezerUL(family.intezer);
-        if (reports) {
-            console.log("Sf");
-            $lefty.intezer.html("<b>Intezer Reports:</b>");
-            $lefty.intezer.append(reports);
+        $(" > h3", $lefty.family).html(node.name + " | <span>" + family.actor + "</span>");
+        $(" > h3 > span", $lefty.family).css({
+            'color': color,
+            "font-weight": "normal"
+        });
+        if (family["first_seen"]) {
+            $lefty.first_seen.html("<b>First seen: </b>" + family.first_seen);
         }
+        if (!description) {
+            var f = findFamilyInJson(node.name.split(' ')[0]);
+            if (f && f.description) {
+                description = f.description;
+            } else {
+                description = "An information about this family is not available yet. Help us improve this map by <a href='https://github.com/ITAYC0HEN/APT-Ecosystem' target='_blank'>adding more information</a>.";
+            }
+        }
+
+        $lefty.information.html(description);
+
+
+        if (family["references"]) {
+            refs = makeReferenceUL(family.references)
+            if (refs && refs.getElementsByTagName('li').length >= 1) {
+                $lefty.refs.html("<b>References:</b>");
+                $lefty.refs.append(refs);
+            } else {
+                $lefty.refs.html("<b>References:</b> N/A");
+            }
+        }
+
+        if (family["intezer"]) {
+            reports = makeIntezerUL(family.intezer);
+            if (reports) {
+                $lefty.intezer.html("<b>Intezer Reports:</b>");
+                $lefty.intezer.append(reports);
+            } else {
+                $lefty.intezer.html("<b>Intezer Reports:</b>");
+            }
+        }
+
+        if (family["aliases"]) {
+            var aliases = family.aliases.filter(n => n).join(', ');
+            if (aliases) {
+                $lefty.aliases.html("<b>aka:</b> " + aliases);
+            }
+        }
+
+
+        $lefty.animate({
+            left: 0
+        });
     }
 
-    if (family["aliases"]) {
-        var aliases = family.aliases.filter(n => n).join(', ');
-        if (aliases) {
-            $lefty.aliases.html("<b>aka:</b> " + aliases);
-        }
-    }
-  
-  
-      $lefty.animate({
-      left: 0});
-  }
-
-} 
+}
 
 $('#overlay').modal('show');
 
-setTimeout(function() {
+setTimeout(function () {
     $('#overlay').modal('hide');
 }, 6000);
