@@ -4,6 +4,10 @@ This repository contains the website and the tools which are part of the joint r
 
 ### The website stored in this repository can be found in https://apt-ecosystem.com
 
+The publication can be found on our websites:
+ - [Intezer](https://www.intezer.com/blog-russian-apt-ecosystem/)
+ - [Check Point Research](https://research.checkpoint.com/russianaptecosystem/)
+
 ## Connection Map
 
 This map was created to make the results of our APT Russian Ecosystem research accesible. We recommend to read the full research in order to use this map in its full context.
