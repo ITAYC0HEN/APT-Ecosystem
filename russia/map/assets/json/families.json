@@ -1673,14 +1673,18 @@
     },
     "Dorshel": {
       "aliases": [],
-      "first_seen": "",
+      "first_seen": "2015",
       "actor": "Energetic Bear",
-      "description": "",
+      "description": "Dorshel is a Windows backdoor used by Energetic Bear / Dragonfly and Berserk Bear / Dragonfly 2.0 groups. Dorshel was delivered as a trojanized form of standard Windows applications.",
       "similarities": "",
       "artifacts": "",
       "references": [{
-        "title": "",
-        "link": ""
+        "title": "Dragonfly: Western energy sector targeted by sophisticated attack group",
+        "link": "https://www.symantec.com/blogs/threat-intelligence/dragonfly-energy-sector-cyber-attacks"
+      },
+      {
+        "title": "Dragonfly 2.0 Targets Energy Sector Gaining Access to SCADA Systems",
+        "link": "https://www.hitachi-systems-security.com/blog/dragonfly-2-0-targets-energy-sector-gaining-access-to-scada-systems/"
       }],
       "hashes": {
         "md5": ["b3b5d67f5bbf5a043f5bf5d079dbcb56"],
