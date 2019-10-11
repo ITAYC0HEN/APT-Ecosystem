@@ -28,7 +28,7 @@ The tool, which we named Russian APT Detector, is a set of Yara rules produced b
 ### Download
 The tool can be downloaded as a Windows Executable from our [Releases](https://github.com/itayc0hen/apt-ecosystem/releases) page. The tool is a python script, wrapped into an executable along with the Yara ruleset and the Yara binaries.
 
-Alternatively, you can use `detector.py` along with the ruleset which are available in this repository. 
+Alternatively, and for those of you who want to execute the tool on Linux or macOS, you can use `detector.py` along with the ruleset which are available in this repository. 
 
 ### Usage
 
@@ -44,7 +44,7 @@ Detector.exe: error: argument -t/--target is required
 
 Example: `C:\> Detector.exe -t C:\some_directory -r`
 
-
+If you are using the python version of the tool (`detector.py` and not the executable), the command line arguments are the same.
 
 ## Contributing
 Pull requests are welcome. We invite you to improve the connection-map and the Python or the Yara rules of the detector tool
