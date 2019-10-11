@@ -47,5 +47,5 @@ Example: `C:\> Detector.exe -t C:\some_directory -r`
 
 
 ## Contributing
-Pull requests are welcome. We invite you to improve the connection-map and the Pyhton or the Yara rules of the detector tool
+Pull requests are welcome. We invite you to improve the connection-map and the Python or the Yara rules of the detector tool
 
