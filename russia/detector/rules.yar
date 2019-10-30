@@ -5787,7 +5787,7 @@ rule OutlookBackdoor {
 	condition:
 		hash.sha256(0, filesize) == "863f298f367a82853a58f9dad4c477956f48fdd9328a93e1aeee1df22da80493" or
 		hash.sha256(0, filesize) == "f1998b3c322e35006b6a6ba1c23807a3f9bc8058ee50efea059278a06fa4a4eb" or
-		12 of them
+		25 of them
 }
 
 rule Gazer {
